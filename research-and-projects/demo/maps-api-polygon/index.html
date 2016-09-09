@@ -175,7 +175,7 @@ function initMap() {
     for (var i = 0; i < coordinates.length; i++) {
       polygonElements += "" + coordinates[i].toString();
     }
-    $('#txtArea').append('(' + $('#pac-input').value() + ')' + polygonElements + '\n');
+    $('#txtArea').append('(' + $('#pac-input').val() + ')' + polygonElements + '\n');
   });
 }
 
