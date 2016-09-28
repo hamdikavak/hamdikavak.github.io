@@ -55,7 +55,7 @@ Link weight indicates the frequency of hops between places while the intensity o
   <br/>
 
   <h3>Analyses of Geo-Located Twitter Data</h3>
-Following images visualize some analyses conducted on geo-located Twitter data. A paper is forthcoming explaning these visuals.
+Following images visualize some analyses conducted on geo-located Twitter data. A paper is forthcoming explaning these visuals in detail.
 <br/>
 <br/>
 Twitter user distribution with respect to the US population. 
@@ -64,23 +64,32 @@ While overall user distribution correlates (p>.90) with actual population, the s
   <a href="images/1tweet_dist.png" target="_blank"><img src="images/1tweet_dist.png" width="350"/></a>
 
 <hr/>
+The following image shows tweeting temporality distribution for different twitter user groups based on number of tweets. 
+As it can be seen in the log-log scale, the data for all groups follow a log-normal-like distribution for up to 24-hour period. 
+Further, these groups tend to have differently shaped tails, like a power-law distribution with different exponents.
+While the log-normal looking side of the graph has very similar shapes, tails show that more frequently posting twitter users' inter-tweet time is shorter.
+
+<br/>
+ <a href="images/5interevent_time_by_group.png" target="_blank"><img src="images/5interevent_time_by_group.png" width="350"/></a>
+<hr/>
+
 Twitter postings by hour. The clear pattern is that people tend to tweet more after 7pm and tend to tweet less after 1am. tweeting frequency is almost linear from noon till evening.
 <br/>
 <a href="images/2hour_dist.png" target="_blank"><img src="images/2hour_dist.png" width="350"/></a>
 <hr/>
-Twitter 
+Individuals tend to visit places that they previously visited such as home or work locations. Moreover, these visits are periodic (see: Gonzalez, Hidalgo, and Barabasi [2008]). 
+The following image is a visualization that shows periodic visiting behavior of Twitter users from Washington, DC. 
+The blue dotted line shows the probability of visiting the same location after some hours, also named as first pessage time of a place.
+With this voluntary Twitter data, it is clear to see the periodic visiting behavior is present. 
+Periodicity appears as 24-hour intervals.
+The red line would be the probability distribution if individuals visit places randomly. 
+In other words, this graph shows that we are not random at all, at least when it comes to mobility.
 <br/>
  <a href="images/3fpt_dc.png" target="_blank"><img src="images/3fpt_dc.png" width="350"/></a>
 <hr/>
-Twitter 
-<br/>
- <a href="images/4displacement.png" target="_blank"><img src="images/4displacement.png" width="350"/></a>
-<hr/>
-Twitter 
-<br/>
- <a href="images/5interevent_time_by_group.png" target="_blank"><img src="images/5interevent_time_by_group.png" width="350"/></a>
-<hr/>
-Twitter 
+
+Zipf's law, in general terms, indicates that frequency of a quantity is inversely propotional to its rank. 
+Applying to Twitter data, the following graph shows that Zipf's law is present in geo-located Twitter data for Washington, DC regardles of number of unique locations a person visits.
 <br/>
  <a href="images/6zipfs_log_log.png" target="_blank"><img src="images/6zipfs_log_log.png" width="350"/></a>
 
