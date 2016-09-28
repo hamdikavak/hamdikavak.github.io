@@ -39,17 +39,26 @@ such as what-if analysis. Overall, the goal is to answer research questions or a
   The area shown in the map is Washington, DC and location traces of individuals are gathered from Twitter. 
   While the human mobility in this model is data-driven with tweets, the dynamics of the disease spread is modeled using well-known SEIR (Suspectible, Exposed, Infectious, and Recovered) model. 
   This approach facilitates the combination of data and theory in the same model. Model parameters are: 10 initially infected people, 300 meter potential contact distance, and 10% chance of infecting contacted people.
-  The graph seen in the model is comparable to the literature regarding curves.
+  The graph seen in the model is comparable to the literature regarding curves.<br/>
 <a href="images/dc_disease_sim.png" target="_blank"><img src="images/dc_disease_sim.png"/></a>
   <br/>
+  
+  <h3>Attraction Mobility Network</h3>
+  This model relies on twitter data when it comes to understanding the attraction visit mobility of a person. 
+  Attraction visits are extracted according to person's tweet location and closeby venues around. 
+  Here, venues are gathered from Google's Places API by scanning Washington, DC map locations covering all the area. 
+People's proximity to attractions is the main factor when determining whether that attraction is visited. 
+Here below, you can see a network of attractions gathered from same-day visits of individuals. 
+Link weight indicates the frequency of hops between places while the intensity of nodes indicates number of visits.
+<br/>
+<a href="images/overall_one_day_weighted_degree_min100.png" target="_blank"><img src="images/overall_one_day_weighted_degree_min100.png"/></a>
+  <br/>
+  <br/> 
 
   <h3>Analyses of Geo-Located Twitter Data</h3>
   
   <br/>
 
-  
-  <h3>Attraction Mobility Network</h3>
-  
 
 
 <h2>2. Cloudes</h2>
