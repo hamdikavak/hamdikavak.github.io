@@ -19,32 +19,32 @@ See my publications <a title="Publications" href="{{ site.baseurl }}/publication
 <h1>Projects &amp; Tools</h1>
 <h2>1. Human Mobility Simulation &amp; Analysis Framework (HMSAF)</h2>
 <p style="text-align: justify;">
-  Human mobility is a significant ingredient when it comes to understanding, problem solving, decision-making in wide range of areas including healthcare, transportation, urban planning, and public safety among others.
+  Human mobility is a significant factor when it comes to understanding, problem solving, decision-making in wide range of areas including healthcare, transportation, urban planning, and public safety among others.
   The objective with this project is to develop a human
 mobility simulation framework that facilitates
 1) creating an individual agent
 mobility model using individual-level
 location footprints collected from real-world (i.e., Twitter),
 2) facilitating capabilities for extending
-the base model through the theories human behavior and research focus, and
+the base model through the theories human behavior and research focus,
 3) providing experimentation capabilities
-such as what-if analysis. Overall, the goal is to answer research questions or assist decision-makers. 
+such as what-if analysis, and 4) conducting analysis on mobility data. Overall, the goal is to answer research questions or assist decision-makers. 
 
   </p>
   <br/>
   Here are some screenshots from models developed using HMSAF.
 
   <h3>A Simulation of a Flu-Like Disease Spread</h3>
-  This model simulates how a hypothetical contact-based flu-like disease would spread given real footprints of people.
+  This model simulates how a hypothetical flu-like disease would spread given real footprints of people.
   The area shown in the map is Washington, DC and location traces of individuals are gathered from Twitter. 
   While the human mobility in this model is data-driven with tweets, the dynamics of the disease spread is modeled using well-known SEIR (Suspectible, Exposed, Infectious, and Recovered) model. 
   This approach facilitates the combination of data and theory in the same model. Model parameters are: 10 initially infected people, 300 meter potential contact distance, and 10% chance of infecting contacted people.
-  The graph seen in the model is comparable to the literature regarding curves.<br/>
+  The graph seen in the model is comparable to the literature.<br/>
 <a href="images/dc_disease_sim.png" target="_blank"><img src="images/dc_disease_sim.png" width="350"/></a>
   <br/>
   
   <h3>Attraction Mobility Network</h3>
-  This model relies on twitter data when it comes to understanding the attraction visit mobility of a person. 
+  This model relies on twitter data when it comes to understanding the attraction visit mobility of people. 
   Attraction visits are extracted according to person's tweet location and closeby venues around. 
   Here, venues are gathered from Google's Places API by scanning Washington, DC map locations covering all the area. 
 People's proximity to attractions is the main factor when determining whether that attraction is visited. 
@@ -59,7 +59,7 @@ Following images visualize some analyses conducted on geo-located Twitter data. 
 <br/>
 <br/>
 Twitter user distribution with respect to the US population. 
-While overall user distribution correlates (p>.90) with actual population, the states of CA, FL, DC, an NY are overrepresented and ID, MO,SD, and WY are underrepresented.
+While overall user distribution correlates (p>.90) with actual population, the states of CA, FL, DC, an NY are overrepresented and the states of ID, MO, SD, and WY are underrepresented.
 <br/>
   <a href="images/1tweet_dist.png" target="_blank"><img src="images/1tweet_dist.png" width="350"/></a>
 
@@ -73,7 +73,7 @@ While the log-normal looking side of the graph has very similar shapes, tails sh
  <a href="images/5interevent_time_by_group.png" target="_blank"><img src="images/5interevent_time_by_group.png" width="350"/></a>
 <hr/>
 
-Twitter postings by hour. The clear pattern is that people tend to tweet more after 7pm and tend to tweet less after 1am. tweeting frequency is almost linear from noon till evening.
+Twitter postings by hour. The clear pattern is that people tend to tweet more after 7pm and tend to tweet less after 1am. tweeting frequency is almost constant from noon till evening.
 <br/>
 <a href="images/2hour_dist.png" target="_blank"><img src="images/2hour_dist.png" width="350"/></a>
 <hr/>
@@ -127,11 +127,11 @@ Later, Anthony M. Barraco took the lead on development and made significant impr
 <a href="https://play.google.com/store/apps/details?id=edu.odu.vmasc.mscube&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" style="width: 130px; height: 39px;"/></a>
 </p>
 <h2>4. Some web-based simulations and tools</h2>
-<p>I&#8217;ve developed couple of simple JavaScript simulations.</p>
+<p>I&#8217;ve developed a couple of simple JavaScript simulations.</p>
 <ul>
 <li>Segregation Simulation : <a href="http://hamdikavak.com/sims/segregation/">Demo</a> &#8211; <a href="https://github.com/hamdikavak/segregation-simulation">Source Code</a></li>
 <li>Flocking Simulation: <a href="http://hamdikavak.com/sims/flocking/">Demo</a> &#8211; <a href="https://github.com/hamdikavak/flocking-simulation">Source Code</a></li>
-<li>Google Maps Polygon Extracting: <a href="http://hamdikavak.com/research-and-projects/demo/maps-api-polygon/">Demo</a> </li>
+<li>Google Maps Polygon Extraction Tool: <a href="http://hamdikavak.com/research-and-projects/demo/maps-api-polygon/">Demo</a> </li>
 
 
 
