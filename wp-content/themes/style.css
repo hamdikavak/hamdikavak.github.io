@@ -1764,3 +1764,13 @@ img#wpstats {
 		margin-left: 3.57142857rem;
 	}
 }
+
+
+/* additional styles added by hkavak*/
+
+.profileLink{
+	width:100%;
+}
+.profileLink a img{
+	width:45px;
+}
