@@ -1768,6 +1768,7 @@ img#wpstats {
 
 /* additional styles added by hkavak*/
 
-.profileLink a img{
+.textwidget a img{
 	width:64px;
+	padding-right:16px;
 }
