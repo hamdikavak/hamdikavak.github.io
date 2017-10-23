@@ -114,10 +114,9 @@
 
       
       function displayHeatMap(){
-    	 var points = loadCoordinateCSV($("#pac-input").val())
-    	 heatmap.setMap(null);
-    	 heatmap = null;
-   	  	heatmap = new google.maps.visualization.HeatmapLayer({
+    	 var points = loadCoordinateCSV($("#pac-input").val());
+
+   	  	 heatmap = new google.maps.visualization.HeatmapLayer({
              data: points,
              map: map
            });
