@@ -70,7 +70,7 @@
 
 </head>
 <body>
-  <input id="pac-input" class="controls" type="text" placeholder="10daypoints300meter.csv"><input type="button" id="btn-load-coordinates" value="Show heatmap">
+  <input id="pac-input" class="controls" type="text" value="10daypoints300meter.csv"><input type="button" id="btn-load-coordinates" value="Show heatmap">
   <div id="map"></div>
   <script>
       var map, heatmap;
@@ -115,33 +115,33 @@
       
       function displayHeatMap(){
     	 var points = loadCoordinateCSV($("#pac-input").val())
-    	 
+    	 heatmap.setMap(null);
+    	 heatmap = null;
    	  	heatmap = new google.maps.visualization.HeatmapLayer({
              data: points,
              map: map
            });
       }
-
+      var allCoord = [];
+      
       function loadCoordinateCSV(filepath){
+    	  allCoord = [];
     	  $.ajax({
   	        type: "GET",
   	        url: filepath,
   	        dataType: "text",
   	        success: function(data) {
-				console.log(data);
+				
+  	           var allTextLines = data.split(/\r\n|\n/);
+  	           var lines = [];
+
+  	           for (var i=0; i<allTextLines.length; i++) {
+  	               var aline = allTextLines[i].split(',');
+  	             	allCoord.push(new google.maps.LatLng(aline[0], aline[1]))
+  	           }
   	        }
   	     });
-    	  var allCoord = [];
-    	  return [
-			new google.maps.LatLng(41.90365, -87.66515908),
-			new google.maps.LatLng(41.90478971, -87.66658327),
-			new google.maps.LatLng(41.90065567, -87.6674672),
-			new google.maps.LatLng(41.90323203, -87.6653228),
-			new google.maps.LatLng(41.88220215, -87.64080863),
-			new google.maps.LatLng(41.9048317, -87.66869188),
-			new google.maps.LatLng(41.90480841, -87.66869157),
-			new google.maps.LatLng(41.88139217, -87.64101792),
-			];
+    	 return allCoord;
       }
       
     	
