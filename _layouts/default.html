@@ -1,5 +1,116 @@
-{% include head.html %}
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width" />
+	<title>{{ page.title }}</title>
+ 	<meta name="description" content="{{ page.description }}">
+ 	<script src='{{ site.baseurl }}/wp-includes/js/jquery.js'></script>
+	<script src='{{ site.baseurl }}/wp-includes/js/jquery-migrate.min.js'></script>
+	<script src='{{ site.baseurl }}/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+	<script src='{{ site.baseurl }}/wp-includes/js/wp-embed.min.js?ver=4.7-alpha-38671'></script>
+
+ 	
+	<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+	<link rel='stylesheet' id='twentytwelve-style-css'  href='{{ site.baseurl }}/wp-content/themes/style.css' type='text/css' media='all' />
+
+	<style type="text/css" id="custom-background-css">
+	body.custom-background { 
+		background-color: #FFF; 
+		background-image: url('{{ site.baseurl }}/wp-content/themes/tree.jpg');
+		/* original 
+		background-color: #e8e8e8; 
+		background-image: url('{{ site.baseurl }}/wp-content/uploads/2014/08/2n.jpg'); */
+		
+		/* black
+		background-color: #000; 
+		background-image: url('{{ site.baseurl }}/wp-content/themes/black.jpg');
+		*/
+		
+		background-repeat: no-repeat; background-position: top center; background-attachment: fixed; 
+		
+	}
+	</style>
+</head>
+
+<body class="page page-id-31 page-template-default custom-background custom-font-enabled single-author">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="{{ site.baseurl }}/" title="Hamdi Kavak" rel="home">Hamdi Kavak</a></h1>
+			<h2 class="site-description"></h2>
+		</hgroup>
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle">Menu</button>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="nav-menu">
+			<ul>
+					<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page {{ page.current_page_home }} menu-item-68"><a href="{{ site.baseurl }}/">Home</a></li>
+					<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page {{ page.current_page_publications }} menu-item-71"><a href="{{ site.baseurl }}/publications/">Publications</a></li>
+					<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page {{ page.current_page_research }} menu-item-72"><a href="{{ site.baseurl }}/research-and-projects/">Research &#038; Projects</a></li>
+					<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page {{ page.current_page_skills }} menu-item-74"><a href="{{ site.baseurl }}/skills/">My Toolset</a></li>
+					<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page {{ page.current_page_latest_updates }} menu-item-73"><a href="{{ site.baseurl }}/latest-updates/">Latest Updates</a></li>
+					<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page {{ page.current_page_datasets }} menu-item-70"><a href="{{ site.baseurl }}/datasets/">Data Science Links</a></li>
+				</ul>
+			</div>		
+		</nav><!-- #site-navigation -->
+
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-31" class="post-31 page type-page status-publish hentry">
+		
+		<header class="entry-header">
+												<!--<h1 class="entry-title">Research &#038; Projects</h1>-->
+		</header>
+		
+		<div class="entry-content">
 
 {{ content }}
 
-{% include foot.html %}
+</div><!-- .entry-content -->
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+		</div><!-- #content -->
+	</div><!-- #primary -->
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="text-3" class="widget widget_text">
+				<h3 class="widget-title">Profile Links</h3>			
+				<div class="textwidget">
+					
+						<a title="My Google Scholar Profile" href="http://scholar.google.com/citations?user=udTYdPAAAAAJ"><img src="{{ site.baseurl }}/media/icons/scholar.png" alt="Google Scholar"/></a>
+					
+						<a title="My ResearchGate Profile" href="https://www.researchgate.net/profile/Hamdi_Kavak"><img src="{{ site.baseurl }}/media/icons/RG_square_green.png" alt="ResearchGate"/></a>
+					
+						<a title="My GitHub Profile" href="https://github.com/hamdikavak"><img src="{{ site.baseurl }}/media/icons/GitHub-Mark-120px-plus.png" alt="GitHub"/></a>
+					
+				</div>
+			</aside>		
+			</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+						Hamdi Kavak - This website uses Wordpress' Twenty Twelve Theme adapted to <a href="http://jekyllrb.com/" rel="nofollow">Jekyll</a>.
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5549681-5', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
