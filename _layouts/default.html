@@ -37,20 +37,31 @@
 			<h1 class="site-title"><a href="{{ site.baseurl }}/" title="Hamdi Kavak" rel="home">Hamdi Kavak</a></h1>
 			<h2 class="site-description"></h2>
 		</hgroup>
-		<nav id="site-navigation" class="main-navigation" role="navigation">
-			<button class="menu-toggle">Menu</button>
-			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
-			<div class="nav-menu">
-			<ul>
-					<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page {{ page.current_page_home }} menu-item-68"><a href="{{ site.baseurl }}/">Home</a></li>
-					<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page {{ page.current_page_publications }} menu-item-71"><a href="{{ site.baseurl }}/publications/">Publications</a></li>
-					<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page {{ page.current_page_research }} menu-item-72"><a href="{{ site.baseurl }}/research-and-projects/">Research &#038; Projects</a></li>
-					<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page {{ page.current_page_skills }} menu-item-74"><a href="{{ site.baseurl }}/skills/">My Toolset</a></li>
-					<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page {{ page.current_page_latest_updates }} menu-item-73"><a href="{{ site.baseurl }}/latest-updates/">Latest Updates</a></li>
-					<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page {{ page.current_page_datasets }} menu-item-70"><a href="{{ site.baseurl }}/datasets/">Data Science Links</a></li>
-				</ul>
-			</div>		
-		</nav><!-- #site-navigation -->
+		<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+	      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+	        <ul class="navbar-nav mr-auto">
+	          <li class="nav-item {{ page.current_page_home }}">
+	          	<a href="{{ site.baseurl }}/" class="nav-link">Home</a>
+	          </li>
+	          <li class="nav-item {{ page.current_page_publications }}">
+	          	<a href="{{ site.baseurl }}/publications/" class="nav-link">Publications</a>
+	          </li>
+	          <li class="nav-item {{ page.current_page_research }}">
+	          	<a href="{{ site.baseurl }}/research-and-projects/" class="nav-link">Research &#038; Projects</a>
+	          </li>
+	          <li class="nav-item {{ page.current_page_skills }}">
+	          	<a href="{{ site.baseurl }}/skills/" class="nav-link">My Toolset</a>
+	          </li>
+	          <li class="nav-item {{ page.current_page_latest_updates }}">
+	          	<a href="{{ site.baseurl }}/latest-updates/" class="nav-link">Latest Updates</a>
+	          </li>
+	          <li class="nav-item {{ page.current_page_datasets }}">
+	          	<a href="{{ site.baseurl }}/datasets/" class="nav-link">Data Science Links</a>
+	          </li>
+	        </ul>
+	      </div>
+	    </nav>
+		<!-- #site-navigation -->
 
 			</header><!-- #masthead -->
 
