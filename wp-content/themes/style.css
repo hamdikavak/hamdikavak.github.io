@@ -527,14 +527,11 @@ a:hover {
 	padding: 0 1.714285714rem;
 	background-color: #fff;
 }
-.site-content {
+.site-content, .widget-area {
 	margin: 24px 0 0;
-	margin: 1.714285714rem 0 0;
+	margin: 0.6rem 0 0;
 }
-.widget-area {
-	margin: 24px 0 0;
-	margin: 1.714285714rem 0 0;
-}
+
 
 /* Header */
 .site-header {
