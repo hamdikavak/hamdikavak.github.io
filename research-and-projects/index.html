@@ -23,71 +23,108 @@ As the application domain, I develop models from the areas of cybersecurity and 
 
 <h1>Social Media Analytics</h1>
 
-<h3>Investigation of Tourist Attraction Visits</h3>
 
-<p>This study proposes a sentiment-based approach to investigate the temporal and spatiotemporal effects on tourists’ emotions when visiting a city’s tourist destinations. Our approach consists of four steps: data collection and preprocessing from social media; visitor origin identification; visit sentiment identification; and temporal and spatiotemporal analysis. The temporal and spatiotemporal dimensions include day of the year, season of the year, day of the week, location sentiment progression, enjoyment measure, and multi-location sentiment progression. We apply this approach to the city of Chicago using over eight million tweets. Results show that seasonal weather, as well as special days and activities like concerts, impact tourists’ emotions. In addition, our analysis suggests that tourists experience greater levels of enjoyment in places such as observatories rather than zoos. Finally, we find that local and international visitors tend to convey negative sentiment when visiting more than one attraction in a day whereas the opposite holds for out of state visitors. Below you will see some interesting results we gathered.</p>
-
-<div class="row justify-content-center">
-    <div class="col-md-8">
-        <div class="row">
-            <a href="images/social_media_analytics/attraction/seasonality.png" data-toggle="lightbox" data-gallery="attraction-gallery" class="col-sm-4" data-title="Method" data-footer="Daily average sentiment scores split across four seasons from Spring to Winter. The data distribution in each season is summarized using a Box and Whisker plot. Summer receives the highest positive sentiment with many data points rising above a 0.4 score. Spring and Fall follow with similar sentiment scores concentrated below 0.4 scores. Winter, on the other hand, appears to have the lowest sentiment scores with a concentration falling below 0.35.">
-			    <img src="images/social_media_analytics/attraction/seasonality.png" class="img-fluid">
-			</a>
-			<a href="images/social_media_analytics/attraction/progression.png" data-toggle="lightbox" data-gallery="attraction-gallery" class="col-sm-4" data-title="Sentiment progression" data-footer="A plot of the progress of sentiment based the time spent at an attraction. These graph shows visits grouped by attraction category.">
-			    <img src="images/social_media_analytics/attraction/progression.png" class="img-fluid">
-			</a>
-			<a href="images/social_media_analytics/attraction/numberofvisits.png" data-toggle="lightbox" data-gallery="attraction-gallery" class="col-sm-4" data-title="Number of visits" data-footer="Linear regression models are fit according to the average sentiment score at attraction visits vs. visit number in the day. The first graph in the first row is gathered from the entire user set whereas the following three graphs are based on different visitor origins. Shaded areas around the linear regression line contains the 95% confidence interval and the round markers in each visit number marks the average sentiment score for that visit. We note that all regression fits are statistically significant.">
-			    <img src="images/social_media_analytics/attraction/numberofvisits.png" class="img-fluid">
-			</a>
-			<a href="images/social_media_analytics/attraction/score.png" data-toggle="lightbox" data-gallery="attraction-gallery" class="col-sm-4" data-title="Enjoyment scores" data-footer="Enjoyment score of attraction categories calculated according to our enjoyment measure formula.">
-			    <img src="images/social_media_analytics/attraction/score.png" class="img-fluid">
-			</a>
-        </div>
+<div id="accordion">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          Ever wondered how tourists feel in their attraction visits?
+        </button>
+      </h5>
     </div>
-</div>
 
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+       <p>This study proposes a sentiment-based approach to investigate the temporal and spatiotemporal effects on tourists’ emotions when visiting a city’s tourist destinations. Our approach consists of four steps: data collection and preprocessing from social media; visitor origin identification; visit sentiment identification; and temporal and spatiotemporal analysis. The temporal and spatiotemporal dimensions include day of the year, season of the year, day of the week, location sentiment progression, enjoyment measure, and multi-location sentiment progression. We apply this approach to the city of Chicago using over eight million tweets. Results show that seasonal weather, as well as special days and activities like concerts, impact tourists’ emotions. In addition, our analysis suggests that tourists experience greater levels of enjoyment in places such as observatories rather than zoos. Finally, we find that local and international visitors tend to convey negative sentiment when visiting more than one attraction in a day whereas the opposite holds for out of state visitors. Below you will see some interesting results we gathered.</p>
 
-<h3>Fine-Scale Prediction of People's Home Location using Social Media Footprints</h3>
+		<div class="row justify-content-center">
+		    <div class="col-md-8">
+		        <div class="row">
+		            <a href="images/social_media_analytics/attraction/seasonality.png" data-toggle="lightbox" data-gallery="attraction-gallery" class="col-sm-4" data-title="Method" data-footer="Daily average sentiment scores split across four seasons from Spring to Winter. The data distribution in each season is summarized using a Box and Whisker plot. Summer receives the highest positive sentiment with many data points rising above a 0.4 score. Spring and Fall follow with similar sentiment scores concentrated below 0.4 scores. Winter, on the other hand, appears to have the lowest sentiment scores with a concentration falling below 0.35.">
+					    <img src="images/social_media_analytics/attraction/seasonality.png" class="img-fluid">
+					</a>
+					<a href="images/social_media_analytics/attraction/progression.png" data-toggle="lightbox" data-gallery="attraction-gallery" class="col-sm-4" data-title="Sentiment progression" data-footer="A plot of the progress of sentiment based the time spent at an attraction. These graph shows visits grouped by attraction category.">
+					    <img src="images/social_media_analytics/attraction/progression.png" class="img-fluid">
+					</a>
+					<a href="images/social_media_analytics/attraction/numberofvisits.png" data-toggle="lightbox" data-gallery="attraction-gallery" class="col-sm-4" data-title="Number of visits" data-footer="Linear regression models are fit according to the average sentiment score at attraction visits vs. visit number in the day. The first graph in the first row is gathered from the entire user set whereas the following three graphs are based on different visitor origins. Shaded areas around the linear regression line contains the 95% confidence interval and the round markers in each visit number marks the average sentiment score for that visit. We note that all regression fits are statistically significant.">
+					    <img src="images/social_media_analytics/attraction/numberofvisits.png" class="img-fluid">
+					</a>
+					<a href="images/social_media_analytics/attraction/score.png" data-toggle="lightbox" data-gallery="attraction-gallery" class="col-sm-4" data-title="Enjoyment scores" data-footer="Enjoyment score of attraction categories calculated according to our enjoyment measure formula.">
+					    <img src="images/social_media_analytics/attraction/score.png" class="img-fluid">
+					</a>
+		        </div>
+		    </div>
+		</div>
 
-
-<h3>Geospatial mobility analysis</h3>
-The following image shows tweeting temporality distribution for different twitter user groups based on number of tweets. 
-As it can be seen in the log-log scale, the data for all groups follow a log-normal-like distribution for up to 24-hour period. 
-Further, these groups tend to have differently shaped tails, like a power-law distribution with different exponents.
-While the log-normal looking side of the graph has very similar shapes, tails show that more frequently posting twitter users' inter-tweet time is shorter.
-
-<br/>
- <a href="images/5interevent_time_by_group.png" target="_blank"><img src="images/5interevent_time_by_group.png" width="350"/></a>
-<hr/>
-
-Individuals tend to visit places that they previously visited such as home or work locations. Moreover, these visits are periodic (see: Gonzalez, Hidalgo, and Barabasi [2008]). 
-The following image is a visualization that shows periodic visiting behavior of Twitter users from Washington, DC. 
-The blue dotted line shows the probability of visiting the same location after some hours, also named as first pessage time of a place.
-With this voluntary Twitter data, it is clear to see the periodic visiting behavior is present. 
-Periodicity appears as 24-hour intervals.
-The red line would be the probability distribution if individuals visit places randomly. 
-In other words, this graph shows that we are not random at all, at least when it comes to mobility.
-<br/>
- <a href="images/3fpt_dc.png" target="_blank"><img src="images/3fpt_dc.png" width="350"/></a>
-<hr/>
-
-Zipf's law, in general terms, indicates that frequency of a quantity is inversely propotional to its rank. 
-Applying to Twitter data, the following graph shows that Zipf's law is present in geo-located Twitter data for Washington, DC regardles of number of unique locations a person visits.
-<br/>
- <a href="images/6zipfs_log_log.png" target="_blank"><img src="images/6zipfs_log_log.png" width="350"/></a>
-  <br/>
-<hr/>
-  This model relies on twitter data when it comes to understanding the attraction visit mobility of people. 
-  Attraction visits are extracted according to person's tweet location and closeby venues around. 
-  Here, venues are gathered from Google's Places API by scanning Washington, DC map locations covering all the area. 
-People's proximity to attractions is the main factor when determining whether that attraction is visited. 
-Here below, you can see a network of attractions gathered from same-day visits of individuals. 
-Link weight indicates the frequency of hops between places while the intensity of nodes indicates number of visits.
-<br/>
-<a href="images/overall_one_day_weighted_degree_min100.png" target="_blank"><img src="images/overall_one_day_weighted_degree_min100.png" width="350"/></a>
-  <br/>
-
-
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Predicting People's Home Location From Sparse Footprints
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+      <div class="card-body">
+        This study develops a machine learning classifier that determines Twitter users' home location with 100 meters resolution. Our results suggest up to 0.87 overall accuracy in predicting home location for the City of Chicago. We explore the influence of time span of data collection and location-sharing habits of a user. The classifier accuracy changes by data collection time but larger than one-month time spans do not significantly increase prediction accuracy. An individual's home location can be ascertained with as few as 0.6 to 1.4 tweets/day or 75 to 225 tweets with an accuracy of over 0.8. Our results shed light on how home location information can be predicted with high accuracy and how long data needs to be collected. On the flip side, our results imply potential privacy issues on publicly available social media data.
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingThree">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Human Mobility Analysis
+        </button>
+      </h5>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+      <div class="card-body">
+		The following image shows tweeting temporality distribution for different twitter user groups based on number of tweets. 
+		As it can be seen in the log-log scale, the data for all groups follow a log-normal-like distribution for up to 24-hour period. 
+		Further, these groups tend to have differently shaped tails, like a power-law distribution with different exponents.
+		While the log-normal looking side of the graph has very similar shapes, tails show that more frequently posting twitter users' inter-tweet time is shorter.
+		
+		<br/>
+		 <a href="images/5interevent_time_by_group.png" target="_blank"><img src="images/5interevent_time_by_group.png" width="350"/></a>
+		<hr/>
+		
+		Individuals tend to visit places that they previously visited such as home or work locations. Moreover, these visits are periodic (see: Gonzalez, Hidalgo, and Barabasi [2008]). 
+		The following image is a visualization that shows periodic visiting behavior of Twitter users from Washington, DC. 
+		The blue dotted line shows the probability of visiting the same location after some hours, also named as first pessage time of a place.
+		With this voluntary Twitter data, it is clear to see the periodic visiting behavior is present. 
+		Periodicity appears as 24-hour intervals.
+		The red line would be the probability distribution if individuals visit places randomly. 
+		In other words, this graph shows that we are not random at all, at least when it comes to mobility.
+		<br/>
+		 <a href="images/3fpt_dc.png" target="_blank"><img src="images/3fpt_dc.png" width="350"/></a>
+		<hr/>
+		
+		Zipf's law, in general terms, indicates that frequency of a quantity is inversely propotional to its rank. 
+		Applying to Twitter data, the following graph shows that Zipf's law is present in geo-located Twitter data for Washington, DC regardles of number of unique locations a person visits.
+		<br/>
+		 <a href="images/6zipfs_log_log.png" target="_blank"><img src="images/6zipfs_log_log.png" width="350"/></a>
+		  <br/>
+		<hr/>
+		  This model relies on twitter data when it comes to understanding the attraction visit mobility of people. 
+		  Attraction visits are extracted according to person's tweet location and closeby venues around. 
+		  Here, venues are gathered from Google's Places API by scanning Washington, DC map locations covering all the area. 
+		People's proximity to attractions is the main factor when determining whether that attraction is visited. 
+		Here below, you can see a network of attractions gathered from same-day visits of individuals. 
+		Link weight indicates the frequency of hops between places while the intensity of nodes indicates number of visits.
+		<br/>
+		<a href="images/overall_one_day_weighted_degree_min100.png" target="_blank"><img src="images/overall_one_day_weighted_degree_min100.png" width="350"/></a>
+		  <br/>
+				        
+		
+		      </div>
+		    </div>
+		  </div>
+		</div>
 
 
 <h1>Data-Driven Modeling of Agents</h1>
