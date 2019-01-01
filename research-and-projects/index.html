@@ -13,25 +13,26 @@ current_page_research: active
 My research focuses on using <em>data-driven methods</em> in the study of human behavior. 
 Particularly, I leverage <em>machine learning</em> and <em>statistical modeling</em> techniques to design agents that are grounded in empirical data. 
 I also make use of <em>data mining</em> techniques to uncover behavioral patterns from publicly available social media data. 
-As the application domain, I develop models from the areas of cybersecurity and urban systems. Below is a list of some research projects that I lead or participate in.
+As the application domain, I develop models from the areas of cybersecurity and urban systems.
 
 </p>
 
 <div class="bigtitle">
    <h1>Active Research Projects</h1>
 </div>
+ Below is a list of some research projects that I lead or participate in organized based on various themes. Click on the title to see the details.<br/>
+ <i class="fas fa-check-square text-success"></i>: completed, <i class="fas fa-plus-square text-danger"></i>: new, <i class="fas fa-tasks text-info"></i>: ongoing
 
 <h1>Social Media Analytics</h1>
 
-
+<!-- Attraction study -->
 <div class="card">
-	<div class="card-header">
+	<div class="card-header"> <i class="fas fa-check-square text-success"></i>
 		<a data-toggle="collapse" href="#sm1" role="button" aria-expanded="true" aria-controls="sm1"> Ever
 			wondered how tourists feel in their attraction visits?</a>
-
 	</div>
 </div>
-<div class="collapse multi-collapse mb-2" id="sm1">
+<div class="collapse mb-2" id="sm1">
 	<div class="card card-body">
     <p class="card-text">
     	This study proposes a sentiment-based approach to investigate the temporal and spatiotemporal effects on tourists’ emotions when visiting a city’s tourist destinations. Our approach consists of four steps: data collection and preprocessing from social media; visitor origin identification; visit sentiment identification; and temporal and spatiotemporal analysis. The temporal and spatiotemporal dimensions include day of the year, season of the year, day of the week, location sentiment progression, enjoyment measure, and multi-location sentiment progression. We apply this approach to the city of Chicago using over eight million tweets. Results show that seasonal weather, as well as special days and activities like concerts, impact tourists’ emotions. In addition, our analysis suggests that tourists experience greater levels of enjoyment in places such as observatories rather than zoos. Finally, we find that local and international visitors tend to convey negative sentiment when visiting more than one attraction in a day whereas the opposite holds for out of state visitors. Below you will see some interesting results we gathered.
@@ -57,54 +58,40 @@ As the application domain, I develop models from the areas of cybersecurity and 
     </p>
   </div>
   <div class="card card-footer">
-    <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198857" target="_blank"> <i class="far fa-file"></i> PLOS ONE Article</a>
+    <a class="text-secondary" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198857" target="_blank"> <i class="far fa-file text-danger"></i> PLOS ONE Article</a>
   </div>
 </div>
 
 
-<div id="accordion">
-  <div class="card">
-    <div class="card-header" id="headingOne">
-      <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-          Ever wondered how tourists feel in their attraction visits?
-        </button>
-      </h5>
-    </div>
-
-    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-      <div class="card-body">
-       <p>This study proposes a sentiment-based approach to investigate the temporal and spatiotemporal effects on tourists’ emotions when visiting a city’s tourist destinations. Our approach consists of four steps: data collection and preprocessing from social media; visitor origin identification; visit sentiment identification; and temporal and spatiotemporal analysis. The temporal and spatiotemporal dimensions include day of the year, season of the year, day of the week, location sentiment progression, enjoyment measure, and multi-location sentiment progression. We apply this approach to the city of Chicago using over eight million tweets. Results show that seasonal weather, as well as special days and activities like concerts, impact tourists’ emotions. In addition, our analysis suggests that tourists experience greater levels of enjoyment in places such as observatories rather than zoos. Finally, we find that local and international visitors tend to convey negative sentiment when visiting more than one attraction in a day whereas the opposite holds for out of state visitors. Below you will see some interesting results we gathered.</p>
-
-
-      </div>
-    </div>
+<!-- Home location prediction -->
+<div class="card">
+	<div class="card-header"> <i class="fas fa-check-square text-success"></i>
+		<a data-toggle="collapse" href="#sm2" role="button" aria-expanded="true" aria-controls="sm2"> Predicting People's Home Location From Sparse Footprints</a>
+	</div>
+</div>
+<div class="collapse mb-2" id="sm2">
+	<div class="card card-body">
+    <p class="card-text">
+    	This study develops a machine learning classifier that determines Twitter users' home location with 100 meters resolution. Our results suggest up to 0.87 overall accuracy in predicting home location for the City of Chicago. We explore the influence of time span of data collection and location-sharing habits of a user. The classifier accuracy changes by data collection time but larger than one-month time spans do not significantly increase prediction accuracy. An individual's home location can be ascertained with as few as 0.6 to 1.4 tweets/day or 75 to 225 tweets with an accuracy of over 0.8. Our results shed light on how home location information can be predicted with high accuracy and how long data needs to be collected. On the flip side, our results imply potential privacy issues on publicly available social media data.
+    	
+    </p>
   </div>
-  <div class="card">
-    <div class="card-header" id="headingTwo">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Predicting People's Home Location From Sparse Footprints
-        </button>
-      </h5>
-    </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-      <div class="card-body">
-        This study develops a machine learning classifier that determines Twitter users' home location with 100 meters resolution. Our results suggest up to 0.87 overall accuracy in predicting home location for the City of Chicago. We explore the influence of time span of data collection and location-sharing habits of a user. The classifier accuracy changes by data collection time but larger than one-month time spans do not significantly increase prediction accuracy. An individual's home location can be ascertained with as few as 0.6 to 1.4 tweets/day or 75 to 225 tweets with an accuracy of over 0.8. Our results shed light on how home location information can be predicted with high accuracy and how long data needs to be collected. On the flip side, our results imply potential privacy issues on publicly available social media data.
-      </div>
-    </div>
+  <div class="card card-footer">
+    <a class="text-secondary" href="http://hamdikavak.com/download/home_location_prediction_sbp18.pdf" target="_blank"> <i class="far fa-file text-danger"></i> SBP-BRIMS 2018 paper</a>
   </div>
-  <div class="card">
-    <div class="card-header" id="headingThree">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Human Mobility Analysis
-        </button>
-      </h5>
-    </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-      <div class="card-body">
-		The following image shows tweeting temporality distribution for different twitter user groups based on number of tweets. 
+</div>
+
+
+<!-- Mobility analytics -->
+<div class="card">
+	<div class="card-header"> <i class="fas fa-check-square text-success"></i>
+		<a data-toggle="collapse" href="#sm3" role="button" aria-expanded="true" aria-controls="sm3"> Human Mobility Analysis</a>
+	</div>
+</div>
+<div class="collapse mb-2" id="sm3">
+	<div class="card card-body">
+    <p class="card-text">
+    	The following image shows tweeting temporality distribution for different twitter user groups based on number of tweets. 
 		As it can be seen in the log-log scale, the data for all groups follow a log-normal-like distribution for up to 24-hour period. 
 		Further, these groups tend to have differently shaped tails, like a power-law distribution with different exponents.
 		While the log-normal looking side of the graph has very similar shapes, tails show that more frequently posting twitter users' inter-tweet time is shorter.
@@ -139,12 +126,12 @@ As the application domain, I develop models from the areas of cybersecurity and 
 		<br/>
 		<a href="images/overall_one_day_weighted_degree_min100.png" target="_blank"><img src="images/overall_one_day_weighted_degree_min100.png" width="350"/></a>
 		  <br/>
-				        
-		
-		      </div>
-		    </div>
-		  </div>
-		</div>
+    </p>
+  </div>
+  <div class="card card-footer">
+    <a class="text-secondary" href="http://hamdikavak.com/download/home_location_prediction_sbp18.pdf" target="_blank"> <i class="far fa-file text-danger"></i> SBP-BRIMS 2018 paper</a>
+  </div>
+</div>
 
 
 <h1>Data-Driven Modeling of Agents</h1>
