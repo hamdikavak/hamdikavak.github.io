@@ -1,5 +1,6 @@
 <div class="card">
-	<div class="card-header"> {% if page.summary_status == "new" %}
+	<div class="card-header"> 
+{% if page.summary_status == "new" %}
 	<i class="fas fa-plus-square text-success"></i>
 {% elsif page.summary_status == "ongoing" %}
 <i class="fas fa-tasks text-primary"></i>
@@ -17,5 +18,5 @@
 	<div class="card card-footer">
 	    <a class="text-secondary" href="{{footer_link}}" target="_blank"> <i class="far fa-file text-danger"></i> {{footer_link_text}}</a>
 	</div>
-	{% else %}
+	{% endif %}
 </div>
