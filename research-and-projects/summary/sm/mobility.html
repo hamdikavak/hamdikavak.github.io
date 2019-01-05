@@ -1,0 +1,46 @@
+{% include functions/research_summary_header.html 
+summary_status="ongoing" 
+summary_title="Human Mobility Analysis" 
+summary_target="mob" %}
+
+<div class="collapse mb-2" id="mob">
+	<div class="card card-body">
+		<p class="card-text">
+    	The following image shows tweeting temporality distribution for different twitter user groups based on number of tweets. 
+		As it can be seen in the log-log scale, the data for all groups follow a log-normal-like distribution for up to 24-hour period. 
+		Further, these groups tend to have differently shaped tails, like a power-law distribution with different exponents.
+		While the log-normal looking side of the graph has very similar shapes, tails show that more frequently posting twitter users' inter-tweet time is shorter.
+		
+		<br/>
+		 <a href="images/5interevent_time_by_group.png" target="_blank"><img src="images/5interevent_time_by_group.png" width="350"/></a>
+		<hr/>
+		
+		Individuals tend to visit places that they previously visited such as home or work locations. Moreover, these visits are periodic (see: Gonzalez, Hidalgo, and Barabasi [2008]). 
+		The following image is a visualization that shows periodic visiting behavior of Twitter users from Washington, DC. 
+		The blue dotted line shows the probability of visiting the same location after some hours, also named as first pessage time of a place.
+		With this voluntary Twitter data, it is clear to see the periodic visiting behavior is present. 
+		Periodicity appears as 24-hour intervals.
+		The red line would be the probability distribution if individuals visit places randomly. 
+		In other words, this graph shows that we are not random at all, at least when it comes to mobility.
+		<br/>
+		 <a href="images/3fpt_dc.png" target="_blank"><img src="images/3fpt_dc.png" width="350"/></a>
+		<hr/>
+		
+		Zipf's law, in general terms, indicates that frequency of a quantity is inversely propotional to its rank. 
+		Applying to Twitter data, the following graph shows that Zipf's law is present in geo-located Twitter data for Washington, DC regardles of number of unique locations a person visits.
+		<br/>
+		 <a href="images/6zipfs_log_log.png" target="_blank"><img src="images/6zipfs_log_log.png" width="350"/></a>
+		  <br/>
+		<hr/>
+		  This model relies on twitter data when it comes to understanding the attraction visit mobility of people. 
+		  Attraction visits are extracted according to person's tweet location and closeby venues around. 
+		  Here, venues are gathered from Google's Places API by scanning Washington, DC map locations covering all the area. 
+		People's proximity to attractions is the main factor when determining whether that attraction is visited. 
+		Here below, you can see a network of attractions gathered from same-day visits of individuals. 
+		Link weight indicates the frequency of hops between places while the intensity of nodes indicates number of visits.
+		<br/>
+		<a href="images/overall_one_day_weighted_degree_min100.png" target="_blank"><img src="images/overall_one_day_weighted_degree_min100.png" width="350"/></a>
+		  <br/>
+    </p>
+  </div>
+</div>

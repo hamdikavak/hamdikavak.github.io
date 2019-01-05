@@ -24,75 +24,9 @@ As the application domain, I develop models from the areas of cybersecurity and 
  <i class="fas fa-check-square text-warning"></i> completed - <i class="fas fa-plus-square text-success"></i> new - <i class="fas fa-tasks text-primary"></i> ongoing
 
 <h1>Social Media Analytics</h1>
-{% include_relative summary/attraction.html %}
-
-
-<!-- Home location prediction -->
-<div class="card">
-	<div class="card-header"> <i class="fas fa-check-square text-warning"></i>
-		<a data-toggle="collapse" href="#sm2" role="button" aria-expanded="true" aria-controls="sm2"> Predicting People's Home Location From Sparse Footprints</a>
-	</div>
-</div>
-<div class="collapse mb-2" id="sm2">
-	<div class="card card-body">
-    <p class="card-text">
-    	This study develops a machine learning classifier that determines Twitter users' home location with 100 meters resolution. Our results suggest up to 0.87 overall accuracy in predicting home location for the City of Chicago. We explore the influence of time span of data collection and location-sharing habits of a user. The classifier accuracy changes by data collection time but larger than one-month time spans do not significantly increase prediction accuracy. An individual's home location can be ascertained with as few as 0.6 to 1.4 tweets/day or 75 to 225 tweets with an accuracy of over 0.8. Our results shed light on how home location information can be predicted with high accuracy and how long data needs to be collected. On the flip side, our results imply potential privacy issues on publicly available social media data.
-    	
-    </p>
-  </div>
-  <div class="card card-footer">
-    <a class="text-secondary" href="http://hamdikavak.com/download/home_location_prediction_sbp18.pdf" target="_blank"> <i class="far fa-file text-danger"></i> SBP-BRIMS 2018 paper</a>
-  </div>
-</div>
-
-
-<!-- Mobility analytics -->
-<div class="card">
-	<div class="card-header"> <i class="fas fa-check-square text-warning"></i>
-		<a data-toggle="collapse" href="#sm3" role="button" aria-expanded="true" aria-controls="sm3"> Human Mobility Analysis</a>
-	</div>
-</div>
-<div class="collapse mb-2" id="sm3">
-	<div class="card card-body">
-    <p class="card-text">
-    	The following image shows tweeting temporality distribution for different twitter user groups based on number of tweets. 
-		As it can be seen in the log-log scale, the data for all groups follow a log-normal-like distribution for up to 24-hour period. 
-		Further, these groups tend to have differently shaped tails, like a power-law distribution with different exponents.
-		While the log-normal looking side of the graph has very similar shapes, tails show that more frequently posting twitter users' inter-tweet time is shorter.
-		
-		<br/>
-		 <a href="images/5interevent_time_by_group.png" target="_blank"><img src="images/5interevent_time_by_group.png" width="350"/></a>
-		<hr/>
-		
-		Individuals tend to visit places that they previously visited such as home or work locations. Moreover, these visits are periodic (see: Gonzalez, Hidalgo, and Barabasi [2008]). 
-		The following image is a visualization that shows periodic visiting behavior of Twitter users from Washington, DC. 
-		The blue dotted line shows the probability of visiting the same location after some hours, also named as first pessage time of a place.
-		With this voluntary Twitter data, it is clear to see the periodic visiting behavior is present. 
-		Periodicity appears as 24-hour intervals.
-		The red line would be the probability distribution if individuals visit places randomly. 
-		In other words, this graph shows that we are not random at all, at least when it comes to mobility.
-		<br/>
-		 <a href="images/3fpt_dc.png" target="_blank"><img src="images/3fpt_dc.png" width="350"/></a>
-		<hr/>
-		
-		Zipf's law, in general terms, indicates that frequency of a quantity is inversely propotional to its rank. 
-		Applying to Twitter data, the following graph shows that Zipf's law is present in geo-located Twitter data for Washington, DC regardles of number of unique locations a person visits.
-		<br/>
-		 <a href="images/6zipfs_log_log.png" target="_blank"><img src="images/6zipfs_log_log.png" width="350"/></a>
-		  <br/>
-		<hr/>
-		  This model relies on twitter data when it comes to understanding the attraction visit mobility of people. 
-		  Attraction visits are extracted according to person's tweet location and closeby venues around. 
-		  Here, venues are gathered from Google's Places API by scanning Washington, DC map locations covering all the area. 
-		People's proximity to attractions is the main factor when determining whether that attraction is visited. 
-		Here below, you can see a network of attractions gathered from same-day visits of individuals. 
-		Link weight indicates the frequency of hops between places while the intensity of nodes indicates number of visits.
-		<br/>
-		<a href="images/overall_one_day_weighted_degree_min100.png" target="_blank"><img src="images/overall_one_day_weighted_degree_min100.png" width="350"/></a>
-		  <br/>
-    </p>
-  </div>
-</div>
+{% include_relative summary/sm/attraction.html %}
+{% include_relative summary/sm/home-prediction.html %}
+{% include_relative summary/sm/mobility.html %}
 
 
 <h1>Data-Driven Modeling of Agents</h1>
