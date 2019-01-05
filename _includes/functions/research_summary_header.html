@@ -1,0 +1,11 @@
+<div class="card">
+	<div class="card-header"> {% if include.summary_status == "new" %}
+	<i class="fas fa-plus-square text-success"></i>
+{% elsif include.summary_status == "ongoing" %}
+<i class="fas fa-tasks text-primary"></i>
+{% elsif include.summary_status == "complete" %}
+<i class="fas fa-check-square text-warning"></i>
+{% endif %}
+		<a data-toggle="collapse" href="#{{include.summary_target}}" role="button" aria-expanded="true" aria-controls="{{include.summary_target}}">{{include.summary_title}}</a>
+	</div>
+</div>
