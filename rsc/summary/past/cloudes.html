@@ -1,0 +1,32 @@
+<a href="#clds" class="accordion-toggle">
+	 {% include functions/research_summary_header.html summary_status="complete" %} CLOUDES
+</a>
+<div class="accordion-content" id="clds">
+	Cloudes is a cloud-based discrete-event simulation development tool that&#8217;s solely operating on browser in the front-end and cloud-based infrastructure at the back-end. 
+		I designed the initial software architecture in 2013. A master&#8217;s student from Computer Science Department at ODU helped building the initial interface. 
+		Later, Anthony M. Barraco took the lead on development and made significant improvements on the project. 
+		  This project is active and led by Dr. Jose J Padilla. I am still making contributions to different parts of the project. 
+		  Dr. Saikou Y. Diallo and Chris J. Lynch are other members of the team. You can test the tool at <a title="CLOUDES" href="http://www.cloudes.me">cloudes.me</a>.
+
+     <div id="clds-gallery">
+	  <a href="{{ site.baseurl }}/images/research/cloudes.png">
+	    <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/cloudes.png" />
+	  </a>
+  	</div>
+  
+ 
+  
+  {% include functions/research_summary_footer.html 
+	footer_link="https://www.researchgate.net/publication/269411595_Cloud-based_simulators_Making_simulations_accessible_to_non-experts_and_experts_alike" 
+	footer_link_text="CLOUDES' first Wintersim paper"%}
+</div>
+
+
+
+  <script>
+  lightGallery(document.getElementById('clds-gallery'), {
+    thumbnail:true,
+    animateThumb: true,
+    showThumbByDefault: true
+}); 
+  </script>
