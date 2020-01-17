@@ -1,0 +1,27 @@
+<div class="sidebar-module">
+  {% if site.ShowContactInfo == "True" %}
+
+  {% if site.scholar_url != empty %}
+  <a title="My Google Scholar Profile" href="{{site.scholar_url}}"><img class="icon_large" src="{{ site.baseurl }}/images/icons/scholar.png" alt="Google Scholar"/></a>
+  {% endif %}
+  
+  {% if site.researchgate_username != empty %}
+  <a title="My ResearchGate Profile" href="https://www.researchgate.net/profile/{{site.researchgate_username}}"><img class="icon_large" src="{{ site.baseurl }}/images/icons/RG_square_green.png" alt="ResearchGate"/></a>
+  {% endif %}
+  
+  {% if site.github_username != empty %}
+  <a title="My GitHub Profile" href="https://github.com/{{site.github_username}}"><img class="icon_large" src="{{ site.baseurl }}/images/icons/GitHub-Mark-120px-plus.png" alt="GitHub"/></a>
+  {% endif %}
+  
+  {% if site.twitter_username != empty %}
+  <a href="https://twitter.com/{{site.twitter_username}}" title="TwitterID: {{site.twitter_username}}"><img class="icon_large" src="{{ site.baseurl }}/images/icons/Twitter_Social_Icon_Rounded_Square_Color.png" alt="Twitter"/></a>
+  {% endif %}
+  
+  {% if site.youtube_channel != empty %}
+  <a title="My Youtube Channel" href="https://www.youtube.com/channel/{{site.youtube_channel}}"><img class="icon_large" src="{{ site.baseurl }}/images/icons/youtube_social_squircle_white.png" alt="GitHub"/></a>
+  {% endif %}
+  
+
+  {% endif %}					
+
+</div>

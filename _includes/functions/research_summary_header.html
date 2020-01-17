@@ -1,11 +1,3 @@
-<div class="card">
-	<div class="card-header"> {% if include.summary_status == "new" %}
-	<i class="fas fa-plus-square text-success"></i>
-{% elsif include.summary_status == "ongoing" %}
-<i class="fas fa-tasks text-primary"></i>
-{% elsif include.summary_status == "complete" %}
-<i class="fas fa-check-square text-warning"></i>
-{% endif %}
-		<a data-toggle="collapse" href="#{{include.summary_target}}" role="button" aria-expanded="true" aria-controls="{{include.summary_target}}">{{include.summary_title}}</a>
-	</div>
-</div>
+{% if include.summary_status == "new" %}<i style="color:#888888" class="fas fa-plus-square"></i>
+{% elsif include.summary_status == "ongoing" %}<i style="color:#008500" class="fas fa-sync-alt"></i>
+{% elsif include.summary_status == "complete" %}<i style="color:#FE7B0E" class="fas fa-check-square"></i>{% endif %}
