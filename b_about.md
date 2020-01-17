@@ -10,7 +10,9 @@ I maintain this website as a platform to disseminate my academic efforts as well
 ---
 
 ### Dr. Hamdi Kavak
-My name is Hamdi Kavak - an Assistant Professor at the <a href="https://cos.gmu.edu/cds/">Computational and Data Sciences department</a> at <a href="https://www.gmu.edu">George Mason University (GMU)</a>. I hold a Ph.D. degree and a Master's degree in Modeling and Simulation from Old Dominion University, and a B.Sc. degree in Computer Engineering from Karadeniz Technical University (Turkey). I am a modeling and simulation researcher focused on designing data-driven computational models to tackle domain-specific problems in cybersecurity and urban systems. Apart from modeling and simulation, I make use of machine/statistical learning and network science techniques in my research. See my [research]({{ site.baseurl }}/research/) and [publications]({{ site.baseurl }}/publications/).
+My name is Hamdi Kavak - an Assistant Professor at the <a href="https://cos.gmu.edu/cds/">Computational and Data Sciences department</a> at <a href="https://www.gmu.edu">George Mason University (GMU)</a>. I hold a Ph.D. degree and a Master's degree in Modeling and Simulation from Old Dominion University, and a B.Sc. degree in Computer Engineering from Karadeniz Technical University (Turkey). 
+
+My research focuses on using advancing state-of-the-art in modeling and simulation. Particularly, I contribute at the intersection of simulation modeling and data science. I also make use of data mining techniques to uncover behavioral patterns from publicly available data. In terms of application domains, I make use of cybersecurity and urban research. See my [research]({{ site.baseurl }}/research/) and [publications]({{ site.baseurl }}/publications/).
 
 ---
 
