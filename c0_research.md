@@ -5,7 +5,7 @@ permalink: /research/
 nav: yes
 ---
 
-My research focuses on using advancing state-of-the-art in modeling and simulation. Particularly, I contribute at the intersection of simulation modeling and data science. I also make use of data mining techniques to uncover behavioral patterns from publicly available data. In terms of application domains, I make use of cybersecurity and urban research.
+My research focuses on using advancing state-of-the-art in modeling and simulation. In particular, I contribute at the intersection of simulation modeling and data science. Furthermore, I also make use of data mining techniques to uncover behavioral patterns from publicly available data. Cybersecurity and urban research are main domains for my research.
 
 
 <br/>
