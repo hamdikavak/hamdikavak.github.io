@@ -142,6 +142,7 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 
 
 <a name="others"></a>
+
 ### Other Publications (non-peer reviewed)
 
 11. Procedural City Generation Beyond Game Development  
@@ -161,15 +162,18 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
     [<a title="RG Archive" href="https://www.researchgate.net/publication/316650321_A_Data-Driven_Spatial_Agent-based_Simulation_Application_with_In-memory_Caching_Support">Paper</a>]
 
 <a name="rev"></a>
+
 ### Papers in Progress
 
 1. An Evolution of Verification Perspectives, Characteristics, and Challenges in Modeling and Simulation w/ C.J. Lynch, S.Y. Diallo, and J.J. Padilla  
-     Submitted to PLOS ONE
+	Submitted to PLOS ONE
      
-2. Simulation for Cybersecurity: State of the Art and Future Directions Kavak et al.  
-	   Submitted to the Journal of Cybersecurity (Oxford University Press).
+2. Simulation for Cybersecurity: State of the Art and Future Directions. Kavak et al.  
+	Submitted to the Journal of Cybersecurity (Oxford University Press).
 
-3. Verification and Validation as a Service (H. Kavak et al.).
-4. An empirical investigation into how people learn simulation building (H. Kavak et al.).
+3. An Empirical Investigation on How Modelers Learn to Create Simulation. H. Kavak et al.
+	Submitted to Spring Simulation Conference 2020.
+
+4. Verification and Validation as a Service. H. Kavak et al.
 
 <!---1. A Patterns of Life Simulation for Urban Science (H. Kavak et al.)--->
