@@ -13,6 +13,8 @@ I enjoy advising curious students at all levels from high school to Ph.D. Curren
 * Scott Hopkins - Ph.D. Candidate at Computational and Data Sciences Dept. at George Mason University. 
 * Gideon Gogovi - Ph.D. Candidate at Computational and Data Sciences Dept. at George Mason University. 
 * Tom Wallace - Ph.D. Candidate at Computational and Data Sciences Dept. at George Mason University.
+* Jarrod Grewe - Ph.D. Candidate at Computational and Data Sciences Dept. at George Mason University.
+* Bruce Goldfeder - Ph.D. Student at Computational and Data Sciences Dept. at George Mason University.
 
 <br/>
 ### Current Undergraduate Research Students
