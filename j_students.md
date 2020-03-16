@@ -5,7 +5,7 @@ permalink: /students/
 nav: yes
 ---
 
-I enjoy advising curious students at all levels from high school to Ph.D. Currently, I supervise  undergraduate and graduate students. Over the summer of 2020, I am planning to include high school students in my research activities. See the bottom of this page first if you want to contact me.
+I enjoy advising curious students at all levels from high school to Ph.D. Currently, I supervise  undergraduate and graduate students. Over the summer of 2020, I am planning to integrate high school students into my research activities. See the bottom of this page first if you want to inquire about working under my supervision.
 
 <br/>
 ### Current Ph.D. Dissertation Committee Member
@@ -19,6 +19,7 @@ I enjoy advising curious students at all levels from high school to Ph.D. Curren
 <br/>
 ### Current Undergraduate Research Students
 * Peter Banks - (Spring 2020) Economics major at George Mason University.
+* Gowri Prathap - (Spring 2020) Computational and Data Sciences major at George Mason University.
 
 <br/>
 ### Past Ph.D. Dissertation Committee Member
