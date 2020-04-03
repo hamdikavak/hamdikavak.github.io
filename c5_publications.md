@@ -44,13 +44,13 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 ### Peer-Reviewed Conference Papers
 
 
-94. Location-Based Social Network Data Generation Based on Patterns of Life <span style="color: red;">(~23% full paper acceptance rate)</span>
+94. Location-Based Social Network Data Generation Based on Patterns of Life <span style="color: red;">(~23% full paper acceptance rate)</span>  
      J-S. Kim, H. Jin, <strong>H. Kavak</strong>, O.C. Rouly, A. Crooks, D. Pfoser, C. Wenk and A. Züfle   
      <em>The 21st IEEE International Conference on Mobile Data Management</em>, Versailles, France (Online), June 30-July 03, 2020  
      [Paper]
      [BibTex]
 
-95. Modeling the Modeler: an Empirical Study on How Modelers Learn to Create Simulations 
+95. Modeling the Modeler: an Empirical Study on How Modelers Learn to Create Simulations  
      <strong>H. Kavak</strong>, J.J. Padilla, S.Y. Diallo and A. Barraco   
      <em>The 2020 Spring Simulation Conference</em>, Fairfax, VA (Online), May 18-21, 2020  
      [Paper]
