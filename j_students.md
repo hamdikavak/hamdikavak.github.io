@@ -8,7 +8,12 @@ nav: yes
 I enjoy advising curious students at all levels from high school to Ph.D. Currently, I supervise  undergraduate and graduate students. Over the summer of 2020, I am planning to integrate high school students into my research activities. See the bottom of this page first if you want to inquire about working under my supervision.
 
 <br/>
-### Current Ph.D. Dissertation Committee Member
+### Current Ph.D. Committee Chair
+* Melonie Richey - Ph.D. Candidate at Computational and Data Sciences Dept. at George Mason University. 
+* Paul Cummings - Ph.D. Student at Computational and Data Sciences Dept. at George Mason University. 
+
+<br/>
+### Current Ph.D. Committee Membership
 * Bora Aslan - Ph.D. Candidate at International Relations Dept. at Old Dominion University.
 * Scott Hopkins - Ph.D. Candidate at Computational and Data Sciences Dept. at George Mason University. 
 * Gideon Gogovi - Ph.D. Candidate at Computational and Data Sciences Dept. at George Mason University. 
@@ -19,7 +24,7 @@ I enjoy advising curious students at all levels from high school to Ph.D. Curren
 <br/>
 ### Current Undergraduate Research Students
 * Peter Banks - (Spring 2020) Economics major at George Mason University.
-* Gowri Prathap - (Spring 2020) Computational and Data Sciences major at George Mason University.
+* Gowri Prathap - (Summer 2020) Computational and Data Sciences major at George Mason University.
 
 <br/>
 ### Past Ph.D. Dissertation Committee Member
