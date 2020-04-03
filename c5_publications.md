@@ -44,6 +44,18 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 ### Peer-Reviewed Conference Papers
 
 
+94. Location-Based Social Network Data Generation Based on Patterns of Life <span style="color: red;">(~23% full paper acceptance rate)</span>
+     J-S. Kim, H. Jin, <strong>H. Kavak</strong>, O.C. Rouly, A. Crooks, D. Pfoser, C. Wenk and A. Züfle   
+     <em>The 21st IEEE International Conference on Mobile Data Management</em>, Versailles, France (Online), June 30-July 03, 2020  
+     [Paper]
+     [BibTex]
+
+95. Modeling the Modeler: an Empirical Study on How Modelers Learn to Create Simulations 
+     <strong>H. Kavak</strong>, J.J. Padilla, S.Y. Diallo and A. Barraco   
+     <em>The 2020 Spring Simulation Conference</em>, Fairfax, VA (Online), May 18-21, 2020  
+     [Paper]
+     [BibTex]
+
 96. Simulating Urban Patterns of Life: A Geo-Social Data Generation Framework  
      J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, A. Crooks, D. Pfoser, C. Wenk and A. Züfle   
      <em>2019 ACM SIGSPATIAL Conference</em>, Chicago, IL, July 10-13, 2018  
@@ -166,14 +178,11 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 ### Papers in Progress
 
 1. An Evolution of Verification Perspectives, Characteristics, and Challenges in Modeling and Simulation w/ C.J. Lynch, S.Y. Diallo, and J.J. Padilla  
-	Submitted to PLOS ONE
+	Submitted to PLOS ONE. Revision in progress.
      
 2. Simulation for Cybersecurity: State of the Art and Future Directions. Kavak et al.  
-	Submitted to the Journal of Cybersecurity (Oxford University Press).
+	Submitted to the Journal of Cybersecurity (Oxford University Press). Revision in progress.
 
-3. An Empirical Investigation on How Modelers Learn to Create Simulation. H. Kavak et al.
-	Submitted to Spring Simulation Conference 2020.
-
-4. Verification and Validation as a Service. H. Kavak et al.
+4. Verification and Validation as a Service. H. Kavak et al. to be submitted to WSC 2020.
 
 <!---1. A Patterns of Life Simulation for Urban Science (H. Kavak et al.)--->
