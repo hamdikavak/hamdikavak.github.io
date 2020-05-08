@@ -72,7 +72,7 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
      J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor and A. Züfle  
      <em> 2019 Spring Simulation Conference</em>, Tucson, AZ, April 29 - May 01, 2019  
      [<a title="RG Archive" href="https://www.researchgate.net/profile/Hamdi_Kavak/publication/333457525_Advancing_Simulation_Experimentation_Capabilities_with_Runtime_Interventions/links/5ceedc074585153c3da5362c/Advancing-Simulation-Experimentation-Capabilities-with-Runtime-Interventions.pdf">Paper</a>]
-     [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2018_home_location.bib">BibTex</a>]
+     [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2019_experimentation.bib">BibTex</a>]
 
 99. Fine-Scale Prediction of People's Home Location using Social Media Footprints  
      <strong>H. Kavak</strong>, D. Vernon-Bido and J.J. Padilla   
