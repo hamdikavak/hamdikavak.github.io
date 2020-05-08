@@ -10,9 +10,9 @@ I enjoy advising curious students at all levels from high school to Ph.D. Curren
 <br/>
 ### Current Ph.D. Committee Chair
 * **Melonie Richey** - Computational Social Science Ph.D. Candidate  at GMU
-  * Provisional title: __Modeling Refugee Populations Using Agent-Based Models__
+  * Provisional title: *Modeling Refugee Populations Using Agent-Based Models*
 * **Paul Cummings** - Computational Social Science Ph.D. Student at GMU
-  * Provisional title: __An Integrative Approach to Machine Learning and Agent-Based Model for Optimization and Interpretability__
+  * Provisional title: *An Integrative Approach to Machine Learning and Agent-Based Model for Optimization and Interpretability*
 
 <br/>
 ### Current Ph.D. Committee Membership
@@ -20,7 +20,7 @@ I enjoy advising curious students at all levels from high school to Ph.D. Curren
 * **Scott Hopkins** - Computational Sciences and Informatics Ph.D. Candidate at GMU 
 * **Gideon Gogovi** - Computational Sciences and Informatics Ph.D. Candidate at GMU
 * **Tom Wallace** - Computational Social Science Ph.D. Candidate at GMU
-* **Jarrod Grewe - Computational Sciences and Informatics program Ph.D. Candidate  at GMU
+* **Jarrod Grewe** - Computational Sciences and Informatics program Ph.D. Candidate  at GMU
 * **Bruce Goldfeder** - Computational Sciences and Informatics Ph.D. Candidate at GMU
 
 <br/>
@@ -31,7 +31,7 @@ I enjoy advising curious students at all levels from high school to Ph.D. Curren
 <br/>
 ### Past Ph.D. Dissertation Committee Member
 * **Christine Harvey** - Computational Science and Informatics Ph.D. at GMU (awarded Fall 2019).
-  * Title: [__Modeling, Simulation, and Analysis of the US Organ Transplant System__](https://search.proquest.com/docview/2379670232)
+  * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://search.proquest.com/docview/2379670232)
 
 <br/>
 ### Past Undergraduate Research Students
