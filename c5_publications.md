@@ -14,6 +14,13 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 ### Journal Papers
    
 
+10. A content analysis-based approach to explore simulation verification and identify its current challenges   
+	    C.J. Lynch, S.Y. Diallo, <strong>H. Kavak</strong>, J.J. Padilla   
+	    <em>PLOS One</em>, 2020, doi:10.1371/journal.pone.0232929 
+	    [<a title="Paper" href="http://dx.plos.org/10.1371/journal.pone.0232929">Paper</a>]
+	    [BibTeX]
+
+
 11. Temporal and Spatiotemporal Investigation of Tourist Attraction Visit Sentiment on Twitter <span style="color: red;">(among the top 10% most cited PLOS ONE papers published in 2018)</span>   
 	    J.J. Padilla, <strong>H. Kavak</strong>, C.J. Lynch, S.Y. Diallo, R.J. Gore,   
 	    <em>PLOS One</em>, 2018, doi:10.1371/journal.pone.0198857  
@@ -177,12 +184,10 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 
 ### Papers in Progress
 
-1. An Evolution of Verification Perspectives, Characteristics, and Challenges in Modeling and Simulation w/ C.J. Lynch, S.Y. Diallo, and J.J. Padilla  
-	Submitted to PLOS ONE. Revision in progress.
      
 2. Simulation for Cybersecurity: State of the Art and Future Directions. Kavak et al.  
-	Submitted to the Journal of Cybersecurity (Oxford University Press). Revision in progress.
+	Revision Submitted to the Journal of Cybersecurity (Oxford University Press).
 
-4. Verification and Validation as a Service. H. Kavak et al. to be submitted to WSC 2020.
+4. Verification and Validation as a Service. H. Kavak et al.
 
 <!---1. A Patterns of Life Simulation for Urban Science (H. Kavak et al.)--->
