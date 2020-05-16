@@ -2,7 +2,7 @@
 published: true
 title: Exploring challenges in simulation verification
 layout: post
-category: Journal Articles
+category: Journal-Articles
 tags:
 - PLOS One
 - simulation verification 
