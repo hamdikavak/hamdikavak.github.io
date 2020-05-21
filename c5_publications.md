@@ -59,8 +59,8 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 
 95. Modeling the Modeler: an Empirical Study on How Modelers Learn to Create Simulations  
      <strong>H. Kavak</strong>, J.J. Padilla, S.Y. Diallo and A. Barraco   
-     <em>The 2020 Spring Simulation Conference</em>, Fairfax, VA (Online), May 18-21, 2020  
-     [Paper]
+     <em>The 2020 Spring Simulation Conference</em>, Virtual, May 18-21, 2020  
+     [Paper](https://www.researchgate.net/publication/341553140_Modeling_the_Modeler_An_Empirical_Study_on_How_Modelers_Learn_to_Create_Simulations)
      [BibTex]
 
 96. Simulating Urban Patterns of Life: A Geo-Social Data Generation Framework  
