@@ -12,7 +12,7 @@ I enjoy advising curious students at all levels from high school to Ph.D. Curren
 * **Melonie Richey** - Computational Social Science Ph.D. Candidate  at GMU
   * Provisional title: *Modeling Refugee Populations Using Agent-Based Models*
 * **Paul Cummings** - Computational Social Science Ph.D. Student at GMU
-  * Provisional title: *An Integrative Approach to Machine Learning and Agent-Based Model for Optimization and Interpretability*
+  * Provisional title: *Developing a Near Decomposable and Interpretable Machine Learning and Agent-Based Model for Social Science Theory*
 
 <br/>
 ### Current Ph.D. Committee Membership
