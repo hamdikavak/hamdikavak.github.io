@@ -9,10 +9,9 @@
 }
 
 .site-title {
-  font-size: 48px;
-  line-height: 56px;
+  font-size: 36px;
+  line-height: 36px;
   letter-spacing: -1px;
-  margin-bottom: 0;
   text-align:center;
   a{
     &,
@@ -23,6 +22,14 @@
       text-decoration: none;
     }
   }
+}
+
+.site-tagline{
+	font-size: 14px;
+  	line-height: 14px;
+  	color: $grey-color-light;
+  	font-style: italic;
+  	text-align: center;
 }
 
 .site-meta{
