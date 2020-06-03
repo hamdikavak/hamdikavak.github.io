@@ -9,7 +9,7 @@ I believe teaching and research should support each other as much as possible so
 1. Modeling and Simulation 1 (CDS 230)
 2. Verification and Validation of Models (CSI 709/CSS 739)
 
-
+---
 ### Modeling and Simulation 1 (CDS 230)
 **Semesters offered:** Fall 2019, Spring 2020, Fall 2020 (Online)  
 
@@ -17,6 +17,7 @@ I am the course coordinator and instructor for Modeling and Simulation 1 (CDS 23
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H43B112zfuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
 ---
 ### Verification and Validation of Models (CSI 709/CSS 739)
 **Semesters offered:** Fall 2020 (Online)  
