@@ -5,6 +5,11 @@ permalink: /teaching/
 nav: yes
 ---
 
+I believe teaching and research should support each other as much as possible so that both students and instructors get something intellectually simulating. In that respect, I opted for teaching and designing classes that involve a significant research component. Currently, I am teaching two such classes at  George Mason University.  
+1. Modeling and Simulation 1 (CDS 230)
+2. Verification and Validation of Models (CSI 709/CSS 739)
+
+
 ### Modeling and Simulation 1 (CDS 230)
 **Semesters offered:** Fall 2019, Spring 2020, Fall 2020 (Online)  
 
