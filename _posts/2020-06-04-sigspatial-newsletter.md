@@ -1,6 +1,6 @@
 --- 
 published: true
-title: Leveraging Agent-Based Simulation for Prescriptive Analytics of Disease Spread
+title: Leveraging agent-based simulation for prescriptive analytics of disease spread
 layout: post
 categories: 
 - Research Presentation
