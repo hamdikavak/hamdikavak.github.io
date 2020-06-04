@@ -11,6 +11,7 @@ tags:
 ---
 
 <img src="{{ site.baseurl }}/images/posts/2020/20200604_sigspatial_newsletter.jpg" alt="Simulation Screenshot" />
+<img src="{{ site.baseurl }}/images/posts/2020/20200604_sigspatial_newsletter2.png" alt="Simulation Screenshot2" />
 
 Large location-based social network (LSBN) data sets are indispensable to study complex human phenomena that involve both physical mobility and social interactions. Unfortunately, such large data sets are rare for researchers because businesses that collect such data use them to improve their operations and make a profit. In this recent SIGSPATIAL Special article, we presented our LBSN simulation framework that generates synthetic LSBN data and used it for prescriptive analytics of disease spread. Our simulation framework implements a socially plausible agent-based model to make the dataset realistic. We referenced both our synthetic data generator and related disease spread model in the paper. You can take a look at the abstract and access the paper freely using the reference below.
 
