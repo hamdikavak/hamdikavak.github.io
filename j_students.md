@@ -28,7 +28,7 @@ I enjoy advising curious students at all levels from high school to Ph.D. Curren
 * **Gowri Prathap** - (URSP Summer 2020) Computational and Data Sciences major at GMU.
 
 <br/>
-### Current High School Students
+### Current High School Research Students
 * **Aarav Khanna** - (ASSIP 2020) - Rising Junior at Thomas Jefferson High School for Science and Technology.
 * **David Han** - (ASSIP 2020) - Rising Senior at Thomas Jefferson High School for Science and Technology.
 * **Isheitaa Bansal** - (ASSIP 2020) - Rising Senior at Chantilly High School.
