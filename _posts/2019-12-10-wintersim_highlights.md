@@ -1,6 +1,6 @@
 --- 
 published: true
-title: WinterSim 2019 Highlights - Day 2
+title: WinterSim 2019 highlights - day 2
 layout: post
 categories: 
 - Workshop/Conference Organization

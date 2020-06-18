@@ -1,6 +1,6 @@
 --- 
 published: true
-title: An Urban Research Perspective using Procedural City Generators
+title: An urban research perspective using procedural city generators
 layout: post
 category: Journal Articles
 tags: 

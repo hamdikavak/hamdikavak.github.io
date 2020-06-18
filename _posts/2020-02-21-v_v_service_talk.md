@@ -1,6 +1,6 @@
 --- 
 published: true
-title: Simulation Verification and Validation as a Service
+title: Simulation verification and validation as a service
 layout: post
 categories: 
 - Research Presentation

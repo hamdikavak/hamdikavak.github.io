@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Applying Statistical Debugging for Enhanced Trace Validation of Agent-based Models
+title: Applying statistical debugging for enhanced trace validation of agent-based models
 category: Journal Articles
 tags: 
 - agent-based simulation

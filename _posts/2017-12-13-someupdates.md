@@ -1,6 +1,6 @@
 --- 
 published: true
-title: Short Updates (October-December, 2017)
+title: Short updates (October-December, 2017)
 layout: post
 category: Short Updates
 tags: 

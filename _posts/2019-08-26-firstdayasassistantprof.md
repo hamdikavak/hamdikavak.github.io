@@ -1,6 +1,6 @@
 --- 
 published: true
-title: My First Day as an Assistant Professor
+title: My first day as an assistant professor
 layout: post
 category: Life
 tags: 

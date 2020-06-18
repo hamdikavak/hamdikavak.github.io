@@ -1,6 +1,6 @@
 --- 
 published: true
-title: My New Position
+title: My new position
 layout: post
 category: Life
 tags: 

@@ -1,6 +1,6 @@
 --- 
 published: true
-title: Spring Simulation Conference Deadline Approaching
+title: Spring Simulation Conference deadline approaching
 layout: post
 categories: 
 - Workshop/Conference Organization

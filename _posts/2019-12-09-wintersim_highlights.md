@@ -1,6 +1,6 @@
 --- 
 published: true
-title: WinterSim 2019 Highlights - Day 1
+title: WinterSim 2019 highlights - day 1
 excerpt: "We had a very exciting WinterSim Conference this year. Together with Dr. Abdolreza Abhari, we organized the Big Data in Simulation track at the conference. Our track hosted six excellent talks covering different aspects of the intersection of big data and simulations..."
 layout: post
 categories: 
