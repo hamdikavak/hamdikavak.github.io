@@ -10,7 +10,7 @@ My research focuses on using advancing state-of-the-art in modeling and simulati
 
 <br/>
 ## Active Research Projects
-Here is a list of some research projects that I lead or participate in before. They are organized based on various themes. Click on the title to see the details.
+Here is a list of some research projects that I lead or participate in before. They are organized based on various themes. Click on the title to see the details. __last updated on Jan 22, 2020.__
 
  <i style="color:#888888" class="fas fa-check-square"></i> completed &nbsp;&nbsp; 
  <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp; 
