@@ -1,6 +1,6 @@
 --- 
 published: true
-title: New verification and validation of models class at GMU
+title: New verification and validation of models course at GMU
 layout: post
 categories: 
 - Teaching
