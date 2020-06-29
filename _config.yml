@@ -19,7 +19,7 @@ youtube_channel: UCBijHAVQUO2c9uqCXX3t8Tg
 favicon:     "/images/favicon.ico"
 aboutme: Dr. Hamdi Kavak is an Assistant Professor at George Mason University. # these are shown on aboutme-sidebar.
 aboutme_photo: https://pbs.twimg.com/profile_images/718186961865977856/zXirhM2T_400x400.jpg
-google_analytics_key: UA-5549681-5 # put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
 thumbnail_width: 160
 
 ### Site setting:
