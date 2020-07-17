@@ -46,15 +46,12 @@ I do not have a funded position for now. Check back later.
 * **Isheitaa Bansal** - (ASSIP 2020) - Rising Senior at Chantilly High School.
 * **Rayan Yu ** - (ASSIP 2020) - Rising Senior at James Madison High School.
 
-
 ---
-<br/>
 
 ### Past Ph.D. Dissertation Committee Member
 * **Christine Harvey** - Computational Science and Informatics Ph.D. at GMU (awarded Fall 2019).
-  * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://search.proquest.com/docview/2379670232)
+  * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://search.proquest.com/docview/2379670232)  
 
-<br/>
 ### Past Undergraduate Research Students
 * **Peter Banks** - (Spring 2020) Economics major at GMU.
 
