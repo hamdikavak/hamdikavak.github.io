@@ -5,8 +5,22 @@ permalink: /students/
 nav: yes
 ---
 
-I enjoy advising curious students at all levels from high school to Ph.D. Currently, I supervise  undergraduate and graduate students. Over the summer of 2020, I am planning to integrate high school students into my research activities. See the bottom of this page first if you want to inquire about working under my supervision.
+I enjoy advising curious students at all levels from high school to Ph.D. Currently, I supervise  undergraduate and graduate students. Over the summer of 2020, I am planning to integrate high school students into my research activities. See below first if you want to inquire about working under my supervision.
 
+---
+
+### Are you a current/accepted GMU student interested in working with me?
+Send an email at hkavak [at] gmu.edu and mention three things please:  
+* your research interest
+* your CV/Resume 
+* express whether you need funding/research assistant position (see open positions below).
+
+### Open funded graduate student or post-doc positions
+I do not have a funded position for now. Check back later.
+
+<br/>
+---
+<br/>
 <br/>
 ### Current Ph.D. Committee Chair
 * **Melonie Richey** - Computational Social Science Ph.D. Candidate  at GMU
@@ -35,6 +49,8 @@ I enjoy advising curious students at all levels from high school to Ph.D. Curren
 * **Rayan Yu ** - (ASSIP 2020) - Rising Senior at James Madison High School.
 
 <br/>
+---
+
 ### Past Ph.D. Dissertation Committee Member
 * **Christine Harvey** - Computational Science and Informatics Ph.D. at GMU (awarded Fall 2019).
   * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://search.proquest.com/docview/2379670232)
@@ -43,9 +59,4 @@ I enjoy advising curious students at all levels from high school to Ph.D. Curren
 ### Past Undergraduate Research Students
 * **Peter Banks** - (Spring 2020) Economics major at GMU.
 
----
-### Are you a current/accepted GMU student interested in working with me?
-Send an email at hkavak [at] gmu.edu and mention three things please:  
-* your research interest
-* your CV/Resume 
-* express whether you need funding/research assistant position.
+
