@@ -18,10 +18,8 @@ Send an email at hkavak [at] gmu.edu and mention three things please:
 ### Open funded graduate student or post-doc positions
 I do not have a funded position for now. Check back later.
 
-<br/>
 ---
-<br/>
-<br/>
+  
 ### Current Ph.D. Committee Chair
 * **Melonie Richey** - Computational Social Science Ph.D. Candidate  at GMU
   * Provisional title: *Modeling Refugee Populations Using Agent-Based Models*
