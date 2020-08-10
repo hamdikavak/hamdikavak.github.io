@@ -168,7 +168,7 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
     J-S Kim, <strong>H. Kavak</strong>, C.O. Rouly, H. Jin, A. Crooks, D. Pfoser, C. Wenk, and A. Züfle
     SIGSPATIAL Special, Volume 12 Issue 1, doi:10.1145/3292390.3292397  
     [<a title="RG Archive" href="https://www.researchgate.net/publication/341804755_Location-Based_Social_Simulation_for_Prescriptive_Analytics_of_Disease_Spread">Paper</a>]
-
+	[[BibTex]({{ site.baseurl }}/download/bibs/2020_prescriptive.bib)]
 
 11. Procedural City Generation Beyond Game Development  
     J-S Kim, <strong>H. Kavak</strong> and A. Crooks   
