@@ -12,7 +12,7 @@ tags:
 
 The Fall semester is in its full course and we are starting the first invited lecture for the new [verification and validation of models course](http://hamdikavak.com/course-v-and-v/). [Dr. Christopher J. Lynch](https://www.odu.edu/directory/people/c/clync008#https://www.odu.edu/directory/people/c/clync008) from [VMASC](https://www.odu.edu/vmasc) will give a lecture on Feedback-Driven Runtime Verification on Monday (Sep 21) at 7:20 PM EST. If you're interested in joining the lecture, please email me (see the flyer below) to receive the invitation link.
 
-![Lyncg]({{ site.baseurl }}/images/posts/2020/20200920_lynch_flyer.png.png)
+![Lynch Flyer]({{ site.baseurl }}/images/posts/2020/20200920_lynch_flyer.png)
 
 
 Lecture summary:  
