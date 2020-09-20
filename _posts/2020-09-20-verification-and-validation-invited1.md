@@ -1,6 +1,6 @@
 --- 
 published: true
-title: Verification and Validation of Models - Invited Lectures Series #1
+title: Verification and Validation of Models - Invited Lectures Series - 1
 layout: post
 categories: 
 - Teaching
