@@ -50,12 +50,17 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 
 ### Peer-Reviewed Conference Papers
 
+93. Data-Driven Mobility Models for COVID-19 Simulation  
+     J. Pesavento, A. Chen, R. Yu, J-S. Kim, <strong>H. Kavak</strong>, T. Anderson, and A. Züfle   
+     <em>3rd ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities</em>, Seattle, Washington, USA (Online), November 03-November 06, 2020  
+     [Paper TBA]
+     [BibTex TBA]
 
 94. Location-Based Social Network Data Generation Based on Patterns of Life <span style="color: red;">(~23% full paper acceptance rate)</span>  
      J-S. Kim, H. Jin, <strong>H. Kavak</strong>, O.C. Rouly, A. Crooks, D. Pfoser, C. Wenk and A. Züfle   
      <em>The 21st IEEE International Conference on Mobile Data Management</em>, Versailles, France (Online), June 30-July 03, 2020  
-     [Paper]
-     [BibTex]
+     [Paper TBA]
+     [BibTex TBA]
 
 95. Modeling the Modeler: an Empirical Study on How Modelers Learn to Create Simulations  
      <strong>H. Kavak</strong>, J.J. Padilla, S.Y. Diallo and A. Barraco   
@@ -193,6 +198,8 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
      
 2. Simulation for Cybersecurity: State of the Art and Future Directions. Kavak et al.  
 	Revision Submitted to the Journal of Cybersecurity (Oxford University Press).
+	
+2. Urban Life: A Model of People and Places.  A. Züfle, C. Wenk, D. Pfoser, A. Crooks, <strong>H. Kavak</strong>, J-S. Kim, and H. Jin. Submitted to the Computational and Mathematical Organization Theory.
 
 4. Verification and Validation as a Service. H. Kavak et al.
 
