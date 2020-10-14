@@ -22,9 +22,20 @@ I do not have a funded position for now. Check back later.
   
 ### Current Ph.D. Committee Chair
 * **Melonie Richey** - Computational Social Science Ph.D. Candidate  at GMU
-  * Provisional title: *Modeling Refugee Populations Using Agent-Based Models*
-* **Paul Cummings** - Computational Social Science Ph.D. Student at GMU
-  * Provisional title: *Developing a Near Decomposable and Interpretable Machine Learning and Agent-Based Model for Social Science Theory*
+  * Provisional title: *Modeling Forced Population Migration Using Agent-Based Models*
+  * Expected graduation: *Fall 2020*
+  
+* **Paul Cummings** - Computational Social Science Ph.D. Candidate at GMU
+  * Provisional title: *Developing a Hybrid Machine Learning and Agent-based Model to Examine Decision-Making Heuristics*
+  * Expected graduation: *Fall 2020*
+  
+* **Cody Mitchell** - Computational Sciences and Informatics Ph.D. Student at GMU
+  * Research topic: *Conjugate Learning and PU Learning*
+  * Expected graduation: *Fall 2021*
+  
+* **Na Jiang (Richard)** - Computational Social Science Ph.D. Candidate at GMU
+  * Research topic: *Urban Shrinking*
+  * Expected graduation: *Fall 2022*
 
 <br/>
 ### Current Ph.D. Committee Membership
@@ -40,7 +51,7 @@ I do not have a funded position for now. Check back later.
 * **Gowri Prathap** - (URSP Summer 2020) Computational and Data Sciences major at GMU.
 
 <br/>
-### Current High School Research Students
+### High School Research Students
 * **Aarav Khanna** - (ASSIP 2020) - Rising Junior at Thomas Jefferson High School for Science and Technology.
 * **David Han** - (ASSIP 2020) - Rising Senior at Thomas Jefferson High School for Science and Technology.
 * **Isheitaa Bansal** - (ASSIP 2020) - Rising Senior at Chantilly High School.
