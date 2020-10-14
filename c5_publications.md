@@ -196,10 +196,12 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 ### Papers in Progress
 
      
-2. Simulation for Cybersecurity: State of the Art and Future Directions. Kavak et al.  
+1. Simulation for Cybersecurity: State of the Art and Future Directions. Kavak et al.  
 	Revision Submitted to the Journal of Cybersecurity (Oxford University Press).
 	
 2. Urban Life: A Model of People and Places.  A. Züfle, C. Wenk, D. Pfoser, A. Crooks, <strong>H. Kavak</strong>, J-S. Kim, and H. Jin. Submitted to the Computational and Mathematical Organization Theory.
+
+3. Conjugated Learning: A Novel Semi-Supervised Machine Learning Algorithm. C. Mitchell, <strong>H. Kavak</strong>. Submitted to SIAM International Conference on Data Mining (SDM21)
 
 4. Verification and Validation as a Service. H. Kavak et al.
 
