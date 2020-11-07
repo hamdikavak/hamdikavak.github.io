@@ -12,7 +12,7 @@ tags:
 
 The fourth invited lecture for the new [verification and validation of models course](http://hamdikavak.com/course-v-and-v/) is on Monday (Nov 09, 2020) at 8:00 PM EST. This week, [Dr. Philippe Giabbanelli](https://www.dachb.com/giabbanelli/), Associate Professor at Miami University (OH), will give a lecture titled "How to validate subjective perspectives? A computational examination of Fuzzy Cognitive Maps and Agents’ Cognitive Architectures". If you're interested in joining the lecture, please email me (see the flyer below) to receive the Zoom invitation link.
 
-![Giabbanelli Flyer]({{ site.baseurl }}/images/posts/2020/20201107_giabbanelli_flyer.gif.png)
+![Giabbanelli Flyer]({{ site.baseurl }}/images/posts/2020/20201107_giabbanelli_flyer.gif)
 
 
 Lecture summary:  
