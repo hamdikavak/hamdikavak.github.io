@@ -169,6 +169,13 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 
 ### Other Publications (non-peer reviewed)
 
+
+9. Location-Based Social Simulation for Prescriptive Analytics of Disease Spread  
+    J-S Kim, <strong>H. Kavak</strong>, C.O. Rouly, H. Jin, A. Crooks, D. Pfoser, C. Wenk, and A. Züfle
+    SIGSPATIAL Special, Volume 12 Issue 2, doi:10.1145/3431843.3431848  
+    [<a title="Sigspatial Archive" href="https://www.sigspatial.org/wp-content/uploads/special-issues/12/2/Paper4_Kim.pdf">Paper</a>]
+	[[BibTex]({{ site.baseurl }}/download/bibs/2020_covid19_ensemble.bib)]
+
 10. Location-Based Social Simulation for Prescriptive Analytics of Disease Spread  
     J-S Kim, <strong>H. Kavak</strong>, C.O. Rouly, H. Jin, A. Crooks, D. Pfoser, C. Wenk, and A. Züfle
     SIGSPATIAL Special, Volume 12 Issue 1, doi:10.1145/3292390.3292397  
@@ -201,7 +208,7 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 	
 2. Urban Life: A Model of People and Places.  A. Züfle, C. Wenk, D. Pfoser, A. Crooks, <strong>H. Kavak</strong>, J-S. Kim, and H. Jin. Submitted to the Computational and Mathematical Organization Theory.
 
-3. Conjugated Learning: A Novel Semi-Supervised Machine Learning Algorithm. C. Mitchell, <strong>H. Kavak</strong>. Submitted to SIAM International Conference on Data Mining (SDM21)
+3. Conjugated Learning: A Novel Semi-Supervised Machine Learning Algorithm. C. Mitchell, <strong>H. Kavak</strong>.
 
 4. Verification and Validation as a Service. H. Kavak et al.
 
