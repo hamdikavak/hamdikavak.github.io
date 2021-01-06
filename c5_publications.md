@@ -7,6 +7,8 @@ nav: yes
 
 This page shows my up-to-date publication list, links to papers, and BibTex citation information. Since my contributions mainly target improving the intersection of simulation modeling and data science, I submit papers to conferences and journals that focus on the advancement of the methods rather than domain-specific advancements.
 
+*Last updated on Jan 6, 2021.*
+
 <a href="#journals">Journals</a> | <a href="#conferences">Conferences</a> | <a href="#others">Other Publications</a> | <a href="#rev">Papers In Progress</a>
 <a name="journals"></a>
 
