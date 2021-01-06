@@ -208,8 +208,10 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 	
 2. Urban Life: A Model of People and Places.  A. Züfle, C. Wenk, D. Pfoser, A. Crooks, <strong>H. Kavak</strong>, J-S. Kim, and H. Jin. Submitted to the Computational and Mathematical Organization Theory.
 
-3. Conjugated Learning: A Novel Semi-Supervised Machine Learning Algorithm. C. Mitchell, <strong>H. Kavak</strong>.
+3. Quantitative Comparison of Population Synthesis Techniques for Two Countries. D. Han, I. Bansal, S. Islam, T. Anderson, and <strong>H. Kavak</strong>
 
-4. Verification and Validation as a Service. H. Kavak et al.
+4. Conjugated Learning: A Novel Semi-Supervised Machine Learning Algorithm. C. Mitchell  and <strong>H. Kavak</strong>.
+
+5. Verification and Validation as a Service. H. Kavak et al.
 
 <!---1. A Patterns of Life Simulation for Urban Science (H. Kavak et al.)--->
