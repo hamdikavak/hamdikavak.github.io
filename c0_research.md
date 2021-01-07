@@ -15,9 +15,9 @@ Here is a list of some research projects that I lead or participate in before. T
 *Last updated on Jan 22, 2020.*
 
 
- <i style="color:#888888" class="fas fa-plus-square"></i> new &nbsp;&nbsp; 
- <i style="color:#008500" class="fas fa-sync-alt"></i> ongoing &nbsp;&nbsp;
- <i style="color:#FE7B0E" class="fas fa-check-square"></i> completed  
+ <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp; 
+ <i style="color:#FE7B0E" class="fas fa-sync-alt"></i> ongoing &nbsp;&nbsp;
+ <i style="color:#888888" class="fas fa-check-square"></i> completed  
 
 <br/>
 ### Social Media Analytics
