@@ -5,7 +5,10 @@ permalink: /research/
 nav: yes
 ---
 
-My research focuses on using advancing state-of-the-art in modeling and simulation. In particular, I contribute at the intersection of simulation modeling and data science. Furthermore, I also make use of data mining techniques to uncover behavioral patterns from publicly available data. Cybersecurity and urban research are main domains for my research.
+My research connects two related research areas: Modeling & Simulation and Data Science. If we describe this relationship as a Venn diagram as shown below, my research focuses on areas 1 and 2.
+
+![M&S and Data Science]({{ site.baseurl }}/images/pages/research_area_small.png)  
+
 
 
 <br/>
