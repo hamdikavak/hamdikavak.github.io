@@ -45,6 +45,15 @@ In the summer of 2021, Drs. Taylor Anderson, Andreas Zufle, and I will be conduc
   * Research topic: *TBA*
   * Expected graduation: *Fall 2024*
 
+### Current Master's Committee Chair
+
+* **Maura Lapoff** - Master of Arts in Interdisciplinary Studies (CSS concentration) Student at GMU
+  * Research topic: *Disease modeling*
+  * Expected graduation: *TBA*
+  
+
+
+
 <br/>
 ### Current Ph.D. Committee Membership
 * **Bora Aslan** - Ph.D. Candidate at International Relations Dept. at Old Dominion University.
