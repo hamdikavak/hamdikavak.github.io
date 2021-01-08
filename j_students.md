@@ -45,14 +45,6 @@ In the summer of 2021, Drs. Taylor Anderson, Andreas Zufle, and I will be conduc
   * Research topic: *TBA*
   * Expected graduation: *Fall 2024*
 
-### Current Master's Committee Chair
-
-* **Maura Lapoff** - Master of Arts in Interdisciplinary Studies (CSS concentration) Student at GMU
-  * Research topic: *Disease modeling*
-  * Expected graduation: *TBA*
-  
-
-
 
 <br/>
 ### Current Ph.D. Committee Membership
@@ -62,6 +54,14 @@ In the summer of 2021, Drs. Taylor Anderson, Andreas Zufle, and I will be conduc
 * **Jarrod Grewe** - Computational Sciences and Informatics program Ph.D. Candidate  at GMU
 * **Bruce Goldfeder** - Computational Sciences and Informatics Ph.D. Candidate at GMU
 * **Shatha Alahmadi** - Computational Sciences and Informatics Ph.D. Student at GMU
+
+<br/>
+### Current Master's Committee Chair
+
+* **Maura Lapoff** - Master of Arts in Interdisciplinary Studies (CSS concentration) Student at GMU
+  * Research topic: *Disease modeling*
+  * Expected graduation: *TBA*
+  
 
 <br/>
 ### Current Undergraduate Research Students
