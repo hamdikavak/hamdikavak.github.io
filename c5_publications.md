@@ -172,7 +172,7 @@ This page shows my up-to-date publication list, links to papers, and BibTex cita
 ### Other Publications (non-peer reviewed)
 
 
-9. Location-Based Social Simulation for Prescriptive Analytics of Disease Spread  
+9. COVID-19 ensemble models using representative clustering  
     J-S Kim, <strong>H. Kavak</strong>, C.O. Rouly, H. Jin, A. Crooks, D. Pfoser, C. Wenk, and A. Züfle
     SIGSPATIAL Special, Volume 12 Issue 2, doi:10.1145/3431843.3431848  
     [<a title="Sigspatial Archive" href="https://www.sigspatial.org/wp-content/uploads/special-issues/12/2/Paper4_Kim.pdf">Paper</a>]
