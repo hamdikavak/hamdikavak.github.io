@@ -18,11 +18,10 @@ My research involves two related areas: Modeling & Simulation (M&S) and Data Sci
 <br/>
 Here is a list of research projects that I am involved as a participant, mentor, or lead. Click on the title to see the details.
 
-`
 Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp; 
  <i style="color:#FE7B0E" class="fas fa-sync-alt"></i> ongoing &nbsp;&nbsp;
- <i style="color:#888888" class="fas fa-check-square"></i> completed
-`
+ <i style="color:#888888" class="fas fa-check-square"></i> completed  
+
 <br/>
 ### Social Media Analytics
 
