@@ -24,30 +24,26 @@ Here is a list of research projects that I am involved as a participant, mentor,
 
  <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp; 
  <i style="color:#FE7B0E" class="fas fa-sync-alt"></i> ongoing &nbsp;&nbsp;
- <i style="color:#888888" class="fas fa-check-square"></i> completed  
-
-<br/>
-### Social Media Analytics {.testtest}
+ <i style="color:#888888" class="fas fa-check-square"></i> completed
+    
+### Social Media Analytics
 
 {% include_relative rsc/summary/sm/attraction.html %}
 {% include_relative rsc/summary/sm/home-prediction.html %}
 {% include_relative rsc/summary/sm/mobility.html %}
-
-<br/>
+    
 ### Data-Driven Modeling of Agents
 
 {% include_relative rsc/summary/dd/covid.html %}
 {% include_relative rsc/summary/dd/method.html %}
 {% include_relative rsc/summary/dd/wifi.html %}
 {% include_relative rsc/summary/dd/sm.html %}
-
-<br/>
+    
 ### Simulation Data Analytics
 {% include_relative rsc/summary/simda/pol.html %}
 {% include_relative rsc/summary/simda/vv.html %}
 {% include_relative rsc/summary/simda/heatmap.html %}
-
-<br/>
+    
 ### Simulation of Cybersecurity
 
 <ol>
@@ -56,15 +52,12 @@ Here is a list of research projects that I am involved as a participant, mentor,
 	<li>Towards Modeling Factors that Enable an Attacker</li>
 	<li>A characterization of cybersecurity simulation scenarios</li>
 </ol>
-
-
-<br/>
+    
 ## Past Research Projects
 
 {% include_relative rsc/summary/past/cloudes.html %}
 {% include_relative rsc/summary/past/mscube.html %}
-
-<br/>
+    
 ### Web-based simulations and tools
 <p>Here some simulations written in JavaScript.</p>
 <ul>
