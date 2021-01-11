@@ -25,13 +25,15 @@ Here is a list of research projects that I am involved as a participant, mentor,
  <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp; 
  <i style="color:#FE7B0E" class="fas fa-sync-alt"></i> ongoing &nbsp;&nbsp;
  <i style="color:#888888" class="fas fa-check-square"></i> completed
-    
+  
+  
 ### Social Media Analytics
 
 {% include_relative rsc/summary/sm/attraction.html %}
 {% include_relative rsc/summary/sm/home-prediction.html %}
 {% include_relative rsc/summary/sm/mobility.html %}
-    
+  
+  
 ### Data-Driven Modeling of Agents
 
 {% include_relative rsc/summary/dd/covid.html %}
