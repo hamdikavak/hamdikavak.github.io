@@ -5,8 +5,14 @@ permalink: /research/
 nav: yes
 ---
 <style>
-.testtest {
-  background-color: #FF0000;
+.hl_MSOnly {
+  background-color: #FEEE00;
+}
+.hl_DSForMS {
+  background-color: #80EC80;
+}
+.hl_DS {
+  background-color: #11ECFF;
 }
 </style>
 
@@ -23,19 +29,20 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
  <i style="color:#888888" class="fas fa-check-square"></i> completed  
 
 <br/>
-### Social Media Analytics
-
-{% include_relative rsc/summary/sm/attraction.html %}
-{% include_relative rsc/summary/sm/home-prediction.html %}
-{% include_relative rsc/summary/sm/mobility.html %}
-
-<br/>
-### Data-Driven Modeling of Agents
+<h3 class="hl_DSForMS">Data-Driven Modeling of Agents</h3>
 
 {% include_relative rsc/summary/dd/covid.html %}
 {% include_relative rsc/summary/dd/method.html %}
 {% include_relative rsc/summary/dd/wifi.html %}
 {% include_relative rsc/summary/dd/sm.html %}
+
+
+<br/>
+### Social Media Analytics
+
+{% include_relative rsc/summary/sm/attraction.html %}
+{% include_relative rsc/summary/sm/home-prediction.html %}
+{% include_relative rsc/summary/sm/mobility.html %}
 
 <br/>
 ### Simulation Data Analytics
