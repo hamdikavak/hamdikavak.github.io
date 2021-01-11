@@ -32,6 +32,7 @@ Here is a list of research projects that I am involved as a participant, mentor,
 ### Data-Driven Modeling of Agents
 
 {% include_relative rsc/summary/dd/method.html %}
+{% include_relative rsc/summary/dd/covid.html %}
 {% include_relative rsc/summary/dd/wifi.html %}
 {% include_relative rsc/summary/dd/sm.html %}
 
