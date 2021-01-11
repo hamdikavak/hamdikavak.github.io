@@ -16,7 +16,7 @@ nav: yes
 }
 </style>
 
-*Last updated on Jan 8, 2021.*  
+*Last updated on Jan 11, 2021.*  
 My research involves two related areas: Modeling & Simulation (M&S) and Data Science. If we describe this relationship as a Venn diagram, as shown below, my primary research efforts focus on areas 1 and 2. On the M&S focused research side (area 1), I tackle challenges related to core M&S topics, including verification and validation, conceptual modeling, and M&S tools. My second prominent focus is on using Data Science for M&S (area 2). Particularly, I design and use data-driven simulations, conduct simulation output analytics, and use emerging machine learning techniques in different steps of M&S. While limited, my data science-only focused research (area 3) involves creating and using data science techniques (e.g., machine learning) to solve problems in different domains. Cybersecurity and urban science are the main application domains for my research.  
 
 ![M&S and Data Science]({{ site.baseurl }}/images/pages/research_area_small.png)  
