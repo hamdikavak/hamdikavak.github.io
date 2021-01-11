@@ -11,7 +11,7 @@ nav: yes
 .hl_DSForMS {
   background-color: #80EC80;
 }
-.hl_DS {
+.hl_DSOnly {
   background-color: #11ECFF;
 }
 </style>
@@ -22,7 +22,7 @@ My research involves two related areas: Modeling & Simulation (M&S) and Data Sci
 ![M&S and Data Science]({{ site.baseurl }}/images/pages/research_area_small.png)  
 
 <br/>
-Here is a list of research projects that I am involved as a participant, mentor, or lead. Click on the title to see the details.
+Here is a list of research projects that I am involved as a participant, mentor, or lead and are highlighted according to the schema colors above. Click on the title to see the details.
 
 Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp; 
  <i style="color:#FE7B0E" class="fas fa-sync-alt"></i> ongoing &nbsp;&nbsp;
@@ -38,20 +38,20 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 
 
 <br/>
-### Social Media Analytics
+<h3 class="hl_DSOnly">Social Media Analytics</h3>
 
 {% include_relative rsc/summary/sm/attraction.html %}
 {% include_relative rsc/summary/sm/home-prediction.html %}
 {% include_relative rsc/summary/sm/mobility.html %}
 
 <br/>
-### Simulation Data Analytics
+<h3 class="hl_DSForMS">Simulation Data Analytics</h3>
 {% include_relative rsc/summary/simda/pol.html %}
 {% include_relative rsc/summary/simda/vv.html %}
 {% include_relative rsc/summary/simda/heatmap.html %}
 
 <br/>    
-### Simulation of Cybersecurity
+<h3 class="hl_MSOnly">Simulation of Cybersecurity</h3>
 
 <ol>
 	<li>Current Status and Future Challenges</li>
