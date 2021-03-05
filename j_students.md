@@ -7,7 +7,7 @@ nav: yes
 
 I enjoy advising and supervising curious students at all levels from high school to Ph.D. In this page, you can see the list of students that I supervised over the years. See below first if you want to inquire about working under my supervision.
 
-*Last updated on Jan 7, 2021.*
+*Last updated on March 4, 2021.*
 
 ---
 
@@ -17,12 +17,12 @@ Send an email at hkavak [at] gmu.edu and mention three things please:
 * your CV/Resume 
 * express whether you need funding/research assistant position (see open positions below).
 
-### Open funded graduate student or post-doc positions
-I do not have a funded position for now. Please check back later.
+### Student and post-doc positions
+> I do not have a funded position for now. Please check back later.
 
 
-### Are you an ASSIP 2021 applicant interested in working with me?
-In the summer of 2021, Drs. Taylor Anderson, Andreas Zufle, and I will be conducting a summer impact project supported by GMU's Provost's Office. In this project, we will investigate various aspects of COVID-19 spread from a data-driven perspective and have six ASSIP interns and some undergraduate and graduate students. We will conduct interviews with ASSIP candidates --among those who indicated their interest to work with us-- in the late Feb - early March timeframe. You don't have to send a separate email to me.
+### ASSIP 2021 applicants
+Thank you for your interest in ASSIP 2021. I have received staggering 105 student applications to work in my research group and started evaluating candidates. If you're on my short list, you should receive an invitation email by March 15, 2021.
 
 ---
   
