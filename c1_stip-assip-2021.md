@@ -1,6 +1,6 @@
 ---
 layout: page
-title: STIP/ASSIP 2021
+title: Summer 2021
 permalink: /research-stip-assip-2021/
 nav: yes
 ---
@@ -45,3 +45,12 @@ During the summer of 2021, we will be examining different aspects of the spread 
 - Darius Kianersi (TJ)
 - Srihan Kotnana (Westfield)
 - Nicole Liang (River Hill)
+  
+  
+
+**Mentors:**
+Dr. Taylor Anderson - Geography and GeoInformation Science
+Dr. Hamdi Kavak - Computational and Data Sciences
+Dr. Tim Leslie - Geography and GeoInformation Science
+Dr. Amira Roess - Global and Community Health
+Dr. Andi Züfle - Geography and GeoInformation Science
