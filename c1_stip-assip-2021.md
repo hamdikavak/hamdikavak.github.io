@@ -10,10 +10,10 @@ nav: yes
 During the summer of 2021, we will be examining different aspects of the spread of COVID-19. This examination will incorporate the spatial and temporal variation of individuals’ behavior towards COVID-19. Thus, we will be playing with various datasets concerning daily cases and deaths, mask use, vaccination, human mobility, to name a few.  
   
 
-**Project dates:** June 1, 2021 - August 13, 2021
+### Project Dates
+June 1, 2021 - August 13, 2021
 
-
-## Project Group
+### Project Group
 
 **Graduate Students:**
 - Fahad Aloraini - Computational Social Science
