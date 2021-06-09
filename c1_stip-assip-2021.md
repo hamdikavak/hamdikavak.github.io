@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Data-Driven Analysis of Human Behavior in COVID-19 Simulation Models (STIP - ASSIP 2021)
+title: STIP/ASSIP 2021
 permalink: /research-stip-assip-2021/
 nav: yes
 ---
 
+# Data-Driven Analysis of Human Behavior in COVID-19 Simulation Models (STIP - ASSIP 2021)
 *Last updated on Jun 9, 2021.*  
 During the summer of 2021, we will be examining different aspects of the spread of COVID-19. This examination will incorporate the spatial and temporal variation of individuals’ behavior towards COVID-19. Thus, we will be playing with various datasets concerning daily cases and deaths, mask use, vaccination, human mobility, to name a few.  
   
