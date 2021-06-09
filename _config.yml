@@ -51,6 +51,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      Summer_2021: "Summer 2021"
     cn:
       Aboutme: "关于我"
       Archives: "存档"
@@ -73,6 +74,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      Summer_2021: "Summer 2021"
     jp:
       Aboutme: "著者"
       Archives: "アーカイブ"
@@ -95,6 +97,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      Summer_2021: "Summer 2021"
     pl:
       Aboutme: "O mnie"
       Archives: "Archiwum"
@@ -117,6 +120,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      Summer_2021: "Summer 2021"
     kr:
       Aboutme: "저자 소개"
       Archives: "모든 게시물"
@@ -139,6 +143,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      Summer_2021: "Summer 2021"
     ru:
       Aboutme: "Обо мне" # = 'About me'
       Archives: "Архив"
@@ -161,6 +166,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      Summer_2021: "Summer 2021"
     tr:
       Aboutme: "Hakkımda"
       Archives: "Arşivler"
@@ -183,6 +189,7 @@ locales:
       Teaching: "Dersler"
       Publications: "Yayınlar"
       Students: "Oğrenciler"
+      Summer_2021: "Summer 2021"
     id:
       Aboutme: "Tentang Saya"
       Archives: "Arsip"
@@ -205,6 +212,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      Summer_2021: "Summer 2021"
 
 ### your Blogroll info, only name can shown on the page.
 
