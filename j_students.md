@@ -85,8 +85,8 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 ### Current Undergraduate Research Students
 
 * **Justin Elarde** - (Spring-Summer 2021). Geography and Geoinformation Science major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle.
-    * Received College of Science Undergraduate Research Colloquium Award in Environmental and Earth Sciences.
-    * Received GMU’s OSCAR Student Award
+    * 🏆 Received College of Science Undergraduate Research Colloquium Award in Environmental and Earth Sciences.
+    * 🏆 Received GMU’s OSCAR Student Award
 * **Gowri Prathap** - (URSP Summer 2020) Computational and Data Sciences major at GMU. 
 
 <br/>
@@ -112,7 +112,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 
 ### Past Undergraduate Research Students
 * **Cecelia M Oneill** - (Spring 2021) Geography and Geoinformation Science major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle.
-    * Received College of Science Undergraduate Research Colloquium Award in Environmental and Earth Sciences.
+    * 🏆 Received College of Science Undergraduate Research Colloquium Award in Environmental and Earth Sciences.
 * **Peter Banks** - (Spring 2020) Economics major at GMU.
 
 ### Past High School Research Students
