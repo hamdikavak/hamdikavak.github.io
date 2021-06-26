@@ -13,7 +13,8 @@ I enjoy advising and supervising curious students at all levels from high school
 
 ### Student and post-doc positions
 
-> I am currently (co-)hiring 1 postdoctoral researcher and three Ph.D. students for immediate hiring. Contact me if you want to learn more. I will add detailed posts.
+> I am currently (co-)hiring 1 postdoctoral researcher and three Ph.D. students for immediate immediate openings. Contact me if you want to learn more. I will add detailed posts soon.
+
 > ~~I have a summer research opportunity for 6 undergraduate and 2 graduate students. [See this post]({{ site.baseurl }}/jobs/2021/03/04/summer-research-opportunity.html).~~
 
 
@@ -23,8 +24,10 @@ Send an email at hkavak [at] gmu.edu and mention three things please:
 * your CV/Resume 
 * express whether you need funding/research assistant position (see open positions below).
 
+<!-- 
 ### ASSIP 2021 applicants
-~~Thank you for your interest in ASSIP 2021. I have received staggering 105 student applications to work in my research group and started evaluating candidates. If you're on my short list, you should receive an invitation email by March 15, 2021.~~
+Thank you for your interest in ASSIP 2021. I have received staggering 105 student applications to work in my research group and started evaluating candidates. If you're on my short list, you should receive an invitation email by March 15, 2021.
+-->
 
 ---
   
