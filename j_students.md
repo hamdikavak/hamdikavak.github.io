@@ -35,12 +35,16 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 
   
 * **Cody Mitchell** - Computational Sciences and Informatics Ph.D. Student at GMU
-  * Research topic: *Conjugate Learning: A Novel Semi-Supervised Learning Approach*
+  * Dissertation Title: *Conjugated Learning: Semi-Supervised Learning with Bayesian Inference*
   * Expected graduation: *Summer 2021*
   
 * **Na Jiang (Richard)** - Computational Social Science Ph.D. Student at GMU
-  * Research topic: *Urban Shrinking*
-  * Expected graduation: *Fall 2022*
+  * Dissertation Title: *Exploring Urban Shrinkage via Computational Approaches: A Case Study of Detroit*
+  * Expected graduation: *Fall 2021*
+  
+* **Tom Wallace** - Computational Social Science Ph.D. Candidate at GMU
+  * Research topic: *Deep Q-Learning in Agent-Based Modeling*
+  * Expected graduation: *TBA*
   
 * **Clifton Russ** - Computational Sciences and Informatics Ph.D. Student at GMU
   * Research topic: *TBA*
@@ -48,34 +52,47 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   
 * **Samiul Islam** - Computational Sciences and Informatics Ph.D. Student at GMU
   * Research topic: *TBA*
-  * Expected graduation: *Fall 2024*
-
+  * Expected graduation: *TBA*
+  
+* **Andrew Leach** - Computational Social Science Ph.D. Student at GMU
+  * Research topic: *TBA*
+  * Expected graduation: *TBA*
+  
+* **Clark Petri** - Computational Social Science Ph.D. Student at GMU
+  * Research topic: *TBA*
+  * Expected graduation: *TBA*
 
 <br/>
 ### Current Ph.D. Committee Membership
 * **Bora Aslan** - Ph.D. Candidate at International Relations Dept. at Old Dominion University.
 * **Scott Hopkins** - Computational Sciences and Informatics Ph.D. Candidate at GMU 
-* **Tom Wallace** - Computational Social Science Ph.D. Candidate at GMU
 * **Jarrod Grewe** - Computational Sciences and Informatics program Ph.D. Candidate  at GMU
 * **Bruce Goldfeder** - Computational Sciences and Informatics Ph.D. Candidate at GMU
 * **Shatha Alahmadi** - Computational Sciences and Informatics Ph.D. Student at GMU
+* **Tony Henseler** - Computational Sciences and Informatics Ph.D. Student at GMU
+* **Amira Al-Khulaidy** -Computational Social Science Ph.D. Student at GMU
+
 
 <br/>
 ### Current Master's Committee Chair
 
-* **Maura Lapoff** - Master of Arts in Interdisciplinary Studies (CSS concentration) Student at GMU
-  * Research topic: *Disease modeling*
-  * Expected graduation: *TBA*
+* **Maura Lapoff** - Master of Arts in Interdisciplinary Studies Student (CSS concentration)  at GMU
+  * Graduation project topic: *Computational Social Science in Disease Modeling*
+  * Expected graduation: *Fall 2021*
   
 
 <br/>
 ### Current Undergraduate Research Students
 * **Gowri Prathap** - (URSP Summer 2020) Computational and Data Sciences major at GMU.
+* **Justin Elarde** - (Spring-Summer 2021). Geography and Geoinformation Science major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle.
+    * Received College of Science Undergraduate Research Colloquium Award in Environmental and Earth Sciences.
+    * Received GMU’s OSCAR Student Award
+ 
 
 <br/>
 ### Current High School Research Students
-* **David Han** - (ASSIP 2020) - Rising Senior at Thomas Jefferson High School for Science and Technology  (as of summer 2020).
-* **Isheitaa Bansal** - (ASSIP 2020) - Rising Senior at Chantilly High School (as of summer 2020).
+* **David Han** (ASSIP 2020-2021) - Graduated from Thomas Jefferson High School for Science and Technology. Admitted to Cornell University (Class of 2025).
+* **Aarav Khanna** - (ASSIP 2020) - (ASSIP 2020) - Rising Senior at Thomas Jefferson High School for Science and Technology (as of summer 2021).
 
 ---
 
