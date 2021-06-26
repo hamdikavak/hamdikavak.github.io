@@ -13,7 +13,7 @@ I enjoy advising and supervising curious students at all levels from high school
 
 ### Student and post-doc positions
 
-> I am currently (co-)hiring 1 postdoctoral researcher and three Ph.D. students for immediate immediate openings. Contact me if you want to learn more. I will add detailed posts soon.
+> I am currently (co-)hiring 1 postdoctoral researcher and three Ph.D. students for immediate openings. Contact me if you want to learn more. I will add detailed posts soon.
 
 > ~~I have a summer research opportunity for 6 undergraduate and 2 graduate students. [See this post]({{ site.baseurl }}/jobs/2021/03/04/summer-research-opportunity.html).~~
 
