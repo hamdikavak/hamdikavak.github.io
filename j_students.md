@@ -98,16 +98,16 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 
 ### Past Ph.D. Dissertation Committee Chair
 * **Melonie Richey** - Computational Social Science Ph.D.  at GMU (awarded Fall 2020)
-  * Title: [*Scalable Agent-Based Modeling of Forced Migration*](https://www.dropbox.com/s/fdbpildwkzrat3q/Richey_2020_abstract.pdf?dl=0)
+  * Title: [*Scalable Agent-Based Modeling of Forced Migration*](https://www.proquest.com/docview/2476160231)
   
 * **Paul Cummings** - Computational Social Science Ph.D. Candidate at GMU (awarded Fall 2020)
-  * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.dropbox.com/s/6dl6wf5nhabayc8/PaulCummings_PHD_Abstract.pdf?dl=0)
+  * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)
 
 ### Past Ph.D. Dissertation Committee Member
 * **Gideon Gogovi** - Computational Science and Informatics Ph.D. at GMU (awarded Fall 2020).
-  * Title: [*Polymers and Biomolecules in Solvents: A Molecular Dynamics Study*](https://search.proquest.com)  
+  * Title: [*Polymers and Biomolecules in Solvents: A Molecular Dynamics Study*](https://www.proquest.com/docview/2476829588)  
 * **Christine Harvey** - Computational Science and Informatics Ph.D. at GMU (awarded Fall 2019).
-  * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://search.proquest.com/docview/2379670232)  
+  * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://www.proquest.com/docview/2379670232)  
 
 
 ### Past Undergraduate Research Students
