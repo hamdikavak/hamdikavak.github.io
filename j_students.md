@@ -13,6 +13,8 @@ I enjoy advising and supervising curious students at all levels from high school
 
 ### Student and post-doc positions
 
+> We are looking for a Postdoctoral Research Fellow to join our inter-disciplinary team, which aims to make disease spread models more realistic. The expected start date is within Fall 2021. [Application link](https://jobs.gmu.edu/postings/50646).
+
 > I am currently (co-)hiring 1 postdoctoral researcher and three Ph.D. students for immediate openings. Contact me if you want to learn more. I will add detailed posts soon.
 
 > ~~I have a summer research opportunity for 6 undergraduate and 2 graduate students. [See this post]({{ site.baseurl }}/jobs/2021/03/04/summer-research-opportunity.html).~~
