@@ -15,11 +15,8 @@ I enjoy advising and supervising curious students at all levels from high school
 
 > **Postdoc Position:** We are looking for a Postdoctoral Research Fellow to join our inter-disciplinary team, which aims to make disease spread models more realistic. The expected start date is within Fall 2021. [Application link](https://jobs.gmu.edu/postings/50646).
 
-> **GRA Position &#35;1:** I am looking for a graduate student to work on an agent based modeling of supply chain attacks project. Expected start date is Fall 2021. [Details here]({{ site.baseurl }}/jobs/2021/07/01/funded-phd-position.html)
+> **GRA Position:** We are looking for a graduate student to work on an agent based modeling of supply chain attacks project. Expected start date is Fall 2021. [Details here]({{ site.baseurl }}/jobs/2021/07/01/funded-phd-position.html)
 
-> I am currently (co-)hiring two other Ph.D. students for immediate openings. Contact me if you want to learn more. I will add detailed posts soon.
-
-> ~~I have a summer research opportunity for 6 undergraduate and 2 graduate students. [See this post]({{ site.baseurl }}/jobs/2021/03/04/summer-research-opportunity.html).~~
 
 
 ### Are you a current/accepted GMU student interested in working with me?
