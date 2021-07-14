@@ -1,6 +1,6 @@
 --- 
 published: true
-title: Funded PhD Student Position &#35;1
+title: Funded PhD Student Position
 layout: post
 categories: 
 - Jobs
@@ -12,16 +12,16 @@ tags:
 
 ![JAnstee (WMF), CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]({{ site.baseurl }}/images/posts/2021/2021_now_hiring.png)
 
-I am hiring one Graduate Research Assistant (GRA) to work on a two-year research project to model and simulate attacks on various supply chains. Specifically, the student will employ data- and theory-driven modeling of malicious actors who aim to disrupt supply chain networks. The student will work directly with me and periodically interact with project stakeholders. There will be many opportunities to publish research papers, engage with an interdisciplinary team of scholars, and attend academic conferences.  
+We are hiring one Graduate Research Assistant (GRA) to work on a two-year research project to model and simulate attacks on various supply chains. Specifically, the student will employ data- and theory-driven modeling of malicious actors who aim to disrupt supply chain networks. The student will work directly with me and periodically interact with project stakeholders. There will be many opportunities to publish research papers, engage with an interdisciplinary team of scholars, and attend academic conferences.  
  
-A successful applicant should/will be a graduate student in the Computational Social Science program and work in the Center for Social Complexity at George Mason University.  
+A successful applicant should/will be a graduate student in the Computational Social Science program and work in the Center for Social Complexity at George Mason University. The other investigators who work in this project are Drs. Sean Luke, Carlotta Domeniconi, and Andrew Crooks.  
 
 **Expected qualifications:** 
 - Experience in agent-based modeling, preferably in MASON (Java-based open-source framework).
 - Implementing social science theories of human behavior in code
 - Experience in machine learning
 
-The position will start in the Fall 2021 semester.  
+The position is expected to start in the Fall 2021 semester.  
 
 The compensation of the position is based on College of Science rates for GRAs including tuition, employment in summers, and student health care coverage. Extension of the position is subject to funding and student performance.  
  
