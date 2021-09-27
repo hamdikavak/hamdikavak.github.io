@@ -55,6 +55,11 @@ June 1, 2021 - August 13, 2021
 - Dr. Tim Leslie - Geography and GeoInformation Science
 - Dr. Amira Roess - Global and Community Health
 - Dr. Andi Züfle - Geography and GeoInformation Science
+  
+  
+**Posters:**
+- [Group 1]({{ site.baseurl }}/download/posters/gr1.pdf)
 
- 
-*Last updated on Jun 9, 2021.*  
+
+
+*Last updated on September 27, 2021.*  
