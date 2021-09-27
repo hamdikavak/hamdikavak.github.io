@@ -59,7 +59,11 @@ June 1, 2021 - August 13, 2021
   
 **Posters:**
 - [Group 1]({{ site.baseurl }}/download/posters/gr1.pdf)
-
+- [Group 2]({{ site.baseurl }}/download/posters/gr2.pdf)
+- [Group 3]({{ site.baseurl }}/download/posters/gr3.pdf)
+- [Group 4]({{ site.baseurl }}/download/posters/gr4.pdf)
+- [Group 5]({{ site.baseurl }}/download/posters/gr5.pdf)
+- [Group 6]({{ site.baseurl }}/download/posters/gr6.pdf)
 
 
 *Last updated on September 27, 2021.*  
