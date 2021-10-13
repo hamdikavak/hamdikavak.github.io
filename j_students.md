@@ -7,15 +7,15 @@ nav: yes
 
 I enjoy advising and supervising curious students at all levels from high school to Ph.D. In this page, you can see the list of students that I supervised over the years. See below first if you want to inquire about working under my supervision.
 
-*Last updated on June 25, 2021.*
+*Last updated on October 13, 2021.*
 
 ---
 
 ### Student and post-doc positions
 
-> **Postdoc Position:** We are looking for a Postdoctoral Research Fellow to join our inter-disciplinary team, which aims to make disease spread models more realistic. The expected start date is within Fall 2021. [Application link](https://jobs.gmu.edu/postings/50646).
+> **Postdoc Position:** We are looking for a Postdoctoral Research Fellow to join our inter-disciplinary team, which aims to make disease spread models more realistic. The expected start date is within Spring 2021. [Application link](https://jobs.gmu.edu/postings/51722).
 
-> **GRA Position:** We are looking for a graduate student to work on an agent based modeling of supply chain attacks project. Expected start date is Fall 2021. [Details here]({{ site.baseurl }}/jobs/2021/07/01/funded-phd-position.html)
+> ~~**GRA Position:** We are looking for a graduate student to work on an agent based modeling of supply chain attacks project. Expected start date is Fall 2021. ~~
 
 
 
