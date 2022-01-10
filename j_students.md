@@ -58,11 +58,19 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Research topic: *Deep Q-Learning in Agent-Based Modeling*
   * Expected graduation: *Spring 2022*
   
+* **Ramya Rakkiappan** - Computational Sciences and Informatics Ph.D. Student at GMU
+  * Research topic: *Recidivism, Bias, and Machine Learning*
+  * Expected graduation: *Fall 2023*
+
 * **Clifton Russ** - Computational Sciences and Informatics Ph.D. Student at GMU
+  * Research topic: *Cybersecurity Risk Assessment and Impact of Humans*
+  * Expected graduation: *TBA*
+
+* **Samiul Islam** - Computational Sciences and Informatics Ph.D. Student at GMU
   * Research topic: *TBA*
   * Expected graduation: *TBA*
-  
-* **Samiul Islam** - Computational Sciences and Informatics Ph.D. Student at GMU
+
+**Chaoqian Wang** - Computational Social Science Ph.D. Student at GMU
   * Research topic: *TBA*
   * Expected graduation: *TBA*
   
