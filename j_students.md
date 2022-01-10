@@ -5,25 +5,38 @@ permalink: /students/
 nav: yes
 ---
 
-I enjoy advising and supervising curious students at all levels, from high school to Ph.D. You can see the list of students that I supervised over the years on this page. See below first if you want to inquire about working under my supervision.
+I enjoy advising and supervising curious students at all levels, from high school to Ph.D. You can see the list of students that I supervised over the years on this page. Select one of the menu items below to navigate this page.
+
+- [Open positions](#pos)
+- [Interested in working with me?](#int)
+- [List of students and their work](#lst)
+    - [PhD](#lst-phd)
+    - [Master's](#lst-ms)
+    - [Undergraduate](#lst-ug)
+    - [High school](#lst-hs)
 
 *Last updated on Jan 10, 2022.*
 
 ---
 
-### Student and post-doc positions
+<a name="pos"/>
+## Student and post-doc positions
 
-> **Postdoc Position:** ~~We are looking for a Postdoctoral Research Fellow to join our inter-disciplinary team, which aims to make disease spread models more realistic. The expected start date is within Spring 2021. [Application link](https://jobs.gmu.edu/postings/51722).~~
+No open positions at this point.
+
+> ~~**Postdoc Position:** We are looking for a Postdoctoral Research Fellow to join our inter-disciplinary team, which aims to make disease spread models more realistic. The expected start date is within Spring 2021. [Application link](https://jobs.gmu.edu/postings/51722).~~
 
 > ~~**GRA Position:** We are looking for a graduate student to work on an agent based modeling of supply chain attacks project. Expected start date is Fall 2021.~~
 
 
+<a name="int"/>
 
-### Are you a current/accepted GMU student interested in working with me?
-Send an email at hkavak [at] gmu.edu and mention three things please:  
+## Want to join my research group?
+Send an email at hkavak [at] gmu.edu and mention four things please:  
 * your research interest
 * your CV/Resume 
-* express whether you need funding/research assistant position (see open positions below).
+* are you a current/accapted GMU student
+* express whether you need funding/research assistant position.
 
 <!-- 
 ### ASSIP 2021 applicants
@@ -31,7 +44,10 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 -->
 
 ---
-  
+
+<a name="lst"/>
+## List of students and their work
+
 ### Current Ph.D. Committee Chair
 
   
