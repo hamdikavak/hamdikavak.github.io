@@ -21,6 +21,7 @@ I enjoy advising and supervising curious students at all levels, from high schoo
 
 <a name="pos"/>
 ## Student and post-doc positions
+------
 
 No open positions at this point.
 
@@ -32,6 +33,7 @@ No open positions at this point.
 <a name="int"/>
 
 ## Want to join my research group?
+------
 Send an email at hkavak [at] gmu.edu and mention four things please:  
 * your research interest
 * your CV/Resume 
@@ -47,8 +49,9 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 
 <a name="lst"/>
 ## List of students and their work
+------
 
-### Ph.D. Committee Chair
+#### Ph.D. Committee Chair
 
 * **Na Jiang (Richard)** - Computational Social Science Ph.D. Candidate at GMU
   * Dissertation Title: *Exploring Urban Shrinkage via Computational Approaches: A Case Study of Detroit*
