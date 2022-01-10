@@ -17,12 +17,10 @@ I enjoy advising and supervising curious students at all levels, from high schoo
 
 *Last updated on Jan 10, 2022.*
 
----
 
 <a name="pos"/>
 ## Student and post-doc positions
 ------
-
 No open positions at this point.
 
 > ~~**Postdoc Position:** We are looking for a Postdoctoral Research Fellow to join our inter-disciplinary team, which aims to make disease spread models more realistic. The expected start date is within Spring 2021. [Application link](https://jobs.gmu.edu/postings/51722).~~
@@ -50,7 +48,6 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 <a name="lst"/>
 ## List of students and their work
 ------
-
 #### Ph.D. Committee Chair
 
 * **Na Jiang (Richard)** - Computational Social Science Ph.D. Candidate at GMU
