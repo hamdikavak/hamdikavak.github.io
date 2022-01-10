@@ -74,16 +74,15 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Research topic: *TBA*
   * Expected graduation: *TBA*
 
-* 🎓 **Cody Mitchell** - Computational Sciences and Informatics Ph.D. Student at GMU, awarded Summer 2021.
+* 🎓 **Cody Mitchell** - Computational Sciences and Informatics Ph.D. at GMU, 🎓 Summer 2021.
   * Position after graduation: Lead Machine Learning Engineer at Interos
   * Title: [*Conjugated Learning: Semi-Supervised Learning with Bayesian Inference*](https://www.proquest.com/pqdtglobal/docview/2572959416/C16DBEF75FA1434APQ/)
 
-
-* 🎓 **Melonie Richey** - Computational Social Science Ph.D.  at GMU, awarded Fall 2020. 
+* 🎓 **Melonie Richey** - Computational Social Science Ph.D. at GMU, 🎓 Fall 2020. 
   * Position after graduation: Vice President of Technology Solutions at Altamira Technologies Corporation.
   * Title: [*Scalable Agent-Based Modeling of Forced Migration*](https://www.proquest.com/docview/2476160231)
   
-* 🎓 **Paul Cummings** - Computational Social Science Ph.D. Candidate at GMU, awarded Fall 2020. 
+* 🎓 **Paul Cummings** - Computational Social Science Ph.D. Candidate at GMU, 🎓 Fall 2020. 
   * Position after graduation: Vice President, Transformational Training Systems at Amentum.
   * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)
 
