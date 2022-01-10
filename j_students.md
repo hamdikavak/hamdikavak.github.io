@@ -48,16 +48,11 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 <a name="lst"/>
 ## List of students and their work
 
-### Current Ph.D. Committee Chair
+### Ph.D. Committee Chair
 
-  
-* **Cody Mitchell** - Computational Sciences and Informatics Ph.D. Student at GMU
-  * Dissertation Title: *Conjugated Learning: Semi-Supervised Learning with Bayesian Inference*
-  * Expected graduation: *Summer 2021*
-  
 * **Na Jiang (Richard)** - Computational Social Science Ph.D. Student at GMU
   * Dissertation Title: *Exploring Urban Shrinkage via Computational Approaches: A Case Study of Detroit*
-  * Expected graduation: *Fall 2021*
+  * Expected graduation: *Spring 2022*
   
 * **Tom Wallace** - Computational Social Science Ph.D. Candidate at GMU
   * Research topic: *Deep Q-Learning in Agent-Based Modeling*
@@ -78,6 +73,20 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 * **Clark Petri** - Computational Social Science Ph.D. Student at GMU
   * Research topic: *TBA*
   * Expected graduation: *TBA*
+
+* 🎓 **Cody Mitchell** - Computational Sciences and Informatics Ph.D. Student at GMU, awarded Summer 2021.
+  * Position after graduation: Lead Machine Learning Engineer at Interos
+  * Title: [*Conjugated Learning: Semi-Supervised Learning with Bayesian Inference*](https://www.proquest.com/pqdtglobal/docview/2572959416/C16DBEF75FA1434APQ/)
+
+
+* 🎓 **Melonie Richey** - Computational Social Science Ph.D.  at GMU, awarded Fall 2020. 
+  * Position after graduation: Vice President of Technology Solutions at Altamira Technologies Corporation.
+  * Title: [*Scalable Agent-Based Modeling of Forced Migration*](https://www.proquest.com/docview/2476160231)
+  
+* 🎓 **Paul Cummings** - Computational Social Science Ph.D. Candidate at GMU, awarded Fall 2020. 
+  * Position after graduation: Vice President, Transformational Training Systems at Amentum.
+  * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)
+
 
 <br/>
 ### Current Ph.D. Committee Member
@@ -114,11 +123,6 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 ---
 
 ### Past Ph.D. Dissertation Committee Chair
-* **Melonie Richey** - Computational Social Science Ph.D.  at GMU, awarded Fall 2020. Current position: Vice President of Technology Solutions at Altamira Technologies Corporation.
-  * Title: [*Scalable Agent-Based Modeling of Forced Migration*](https://www.proquest.com/docview/2476160231)
-  
-* **Paul Cummings** - Computational Social Science Ph.D. Candidate at GMU, awarded Fall 2020. Current position: Vice President, Transformational Training Systems at Amentum.
-  * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)
 
 ### Past Ph.D. Dissertation Committee Member
 * **Gideon Gogovi** - Computational Science and Informatics Ph.D. at GMU, awarded Fall 2020. Current position: Adjunct Professor at GMU.
