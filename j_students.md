@@ -48,6 +48,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 <a name="lst"/>
 ## List of students and their work
 ------
+<a name="lst-phd"/>
 #### Ph.D. Committee Chair
 
 * **Na Jiang (Richard)** - Computational Social Science Ph.D. Candidate at GMU
@@ -96,7 +97,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 
 
 <br/>
-### Current Ph.D. Committee Member
+#### Ph.D. Committee Member
 * **Bora Aslan** - Ph.D. Candidate at International Relations Dept. at Old Dominion University.
 * **Scott Hopkins** - Computational Sciences and Informatics Ph.D. Candidate at GMU 
 * **Jarrod Grewe** - Computational Sciences and Informatics program Ph.D. Candidate  at GMU
@@ -104,6 +105,10 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 * **Shatha Alahmadi** - Computational Sciences and Informatics Ph.D. Student at GMU
 * **Tony Henseler** - Computational Sciences and Informatics Ph.D. Student at GMU
 * **Amira Al-Khulaidy** -Computational Social Science Ph.D. Student at GMU
+* 🎓**Gideon Gogovi** - Computational Science and Informatics Ph.D. at GMU, 🎓Fall 2020. 
+  * Title: [*Polymers and Biomolecules in Solvents: A Molecular Dynamics Study*](https://www.proquest.com/docview/2476829588)  
+* 🎓**Christine Harvey** - Computational Science and Informatics Ph.D. at GMU, 🎓Fall 2019.
+  * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://www.proquest.com/docview/2379670232)  
 
 
 <br/>
@@ -129,13 +134,8 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 
 ---
 
-### Past Ph.D. Dissertation Committee Chair
-
 ### Past Ph.D. Dissertation Committee Member
-* **Gideon Gogovi** - Computational Science and Informatics Ph.D. at GMU, awarded Fall 2020. Current position: Adjunct Professor at GMU.
-  * Title: [*Polymers and Biomolecules in Solvents: A Molecular Dynamics Study*](https://www.proquest.com/docview/2476829588)  
-* **Christine Harvey** - Computational Science and Informatics Ph.D. at GMU, awarded Fall 2019. Current position: Principal High Performance and Analytic Computing Architect at MITRE
-  * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://www.proquest.com/docview/2379670232)  
+
 
 
 ### Past Undergraduate Research Students
