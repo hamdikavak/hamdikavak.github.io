@@ -70,7 +70,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Research topic: *TBA*
   * Expected graduation: *TBA*
 
-**Chaoqian Wang** - Computational Social Science Ph.D. Student at GMU
+* **Chaoqian Wang** - Computational Social Science Ph.D. Student at GMU
   * Research topic: *TBA*
   * Expected graduation: *TBA*
   
