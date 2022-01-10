@@ -50,13 +50,13 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 
 ### Ph.D. Committee Chair
 
-* **Na Jiang (Richard)** - Computational Social Science Ph.D. Student at GMU
+* **Na Jiang (Richard)** - Computational Social Science Ph.D. Candidate at GMU
   * Dissertation Title: *Exploring Urban Shrinkage via Computational Approaches: A Case Study of Detroit*
   * Expected graduation: *Spring 2022*
   
 * **Tom Wallace** - Computational Social Science Ph.D. Candidate at GMU
   * Research topic: *Deep Q-Learning in Agent-Based Modeling*
-  * Expected graduation: *TBA*
+  * Expected graduation: *Spring 2022*
   
 * **Clifton Russ** - Computational Sciences and Informatics Ph.D. Student at GMU
   * Research topic: *TBA*
@@ -74,15 +74,15 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Research topic: *TBA*
   * Expected graduation: *TBA*
 
-* 🎓 **Cody Mitchell** - Computational Sciences and Informatics Ph.D. at GMU, 🎓 Summer 2021.
+* 🎓 **Cody Mitchell** - Computational Sciences and Informatics Ph.D. at GMU, 🎓Summer 2021.
   * Position after graduation: Lead Machine Learning Engineer at Interos
   * Title: [*Conjugated Learning: Semi-Supervised Learning with Bayesian Inference*](https://www.proquest.com/pqdtglobal/docview/2572959416/C16DBEF75FA1434APQ/)
 
-* 🎓 **Melonie Richey** - Computational Social Science Ph.D. at GMU, 🎓 Fall 2020. 
+* 🎓 **Melonie Richey** - Computational Social Science Ph.D. at GMU, 🎓Fall 2020. 
   * Position after graduation: Vice President of Technology Solutions at Altamira Technologies Corporation.
   * Title: [*Scalable Agent-Based Modeling of Forced Migration*](https://www.proquest.com/docview/2476160231)
   
-* 🎓 **Paul Cummings** - Computational Social Science Ph.D. Candidate at GMU, 🎓 Fall 2020. 
+* 🎓 **Paul Cummings** - Computational Social Science Ph.D. Candidate at GMU, 🎓Fall 2020. 
   * Position after graduation: Vice President, Transformational Training Systems at Amentum.
   * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)
 
