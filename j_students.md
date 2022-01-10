@@ -15,7 +15,7 @@ I enjoy advising and supervising curious students at all levels, from high schoo
 
 > **Postdoc Position:** ~~We are looking for a Postdoctoral Research Fellow to join our inter-disciplinary team, which aims to make disease spread models more realistic. The expected start date is within Spring 2021. [Application link](https://jobs.gmu.edu/postings/51722).~~
 
-> **GRA Position:** ~~We are looking for a graduate student to work on an agent based modeling of supply chain attacks project. Expected start date is Fall 2021. ~~
+> ~~**GRA Position:** We are looking for a graduate student to work on an agent based modeling of supply chain attacks project. Expected start date is Fall 2021.~~
 
 
 
