@@ -17,7 +17,6 @@ I enjoy advising and supervising curious students at all levels, from high schoo
 
 *Last updated on Jan 10, 2022.*
 
-
 <a name="pos"/>
 ## Student and post-doc positions
 ------
@@ -28,8 +27,8 @@ No open positions at this point.
 > ~~**GRA Position:** We are looking for a graduate student to work on an agent based modeling of supply chain attacks project. Expected start date is Fall 2021.~~
 
 <br/>
-<br/>
 <a name="int"/>
+
 ## Want to join my research group?
 ------
 Send an email at hkavak [at] gmu.edu and mention four things please:  
@@ -37,17 +36,19 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 * your CV/Resume 
 * are you a current/accapted GMU student
 * express whether you need funding/research assistant position.
+
 <!-- 
 ### ASSIP 2021 applicants
 Thank you for your interest in ASSIP 2021. I have received staggering 105 student applications to work in my research group and started evaluating candidates. If you're on my short list, you should receive an invitation email by March 15, 2021.
 -->
 
 <br/>
-<br/>
 <a name="lst"/>
+
 ## List of students and their work
 ------
 <a name="lst-phd"/>
+
 #### Ph.D. Committee Chair
 * **Na Jiang (Richard)** - Computational Social Science Ph.D. Candidate at GMU
   * Dissertation Title: *Exploring Urban Shrinkage via Computational Approaches: A Case Study of Detroit*
@@ -109,6 +110,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 
 <br/>
 <a name="lst-ms"/>
+
 #### Master's Committee Chair
 
 * **Maura Lapoff** - Master of Arts in Interdisciplinary Studies Student (CSS concentration) at GMU
@@ -120,6 +122,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Expected graduation: *Spring 2023*
 
 <br/>
+
 #### MS Committee Member
 * **Moh Mansoor Abdul Bari** - Master of Arts in Interdisciplinary Studies Student (CSS concentration) at GMU
 
