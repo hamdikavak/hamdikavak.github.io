@@ -43,8 +43,6 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 Thank you for your interest in ASSIP 2021. I have received staggering 105 student applications to work in my research group and started evaluating candidates. If you're on my short list, you should receive an invitation email by March 15, 2021.
 -->
 
----
-
 <a name="lst"/>
 ## List of students and their work
 ------
@@ -94,8 +92,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 * 🎓 **Paul Cummings** - Computational Social Science Ph.D. Candidate at GMU, 🎓Fall 2020. 
   * Position after graduation: Vice President, Transformational Training Systems at Amentum.
   * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)  
-
-
+  
 #### Ph.D. Committee Member
 * **Bora Aslan** - Ph.D. Candidate at International Relations Dept. at Old Dominion University.
 * **Scott Hopkins** - Computational Sciences and Informatics Ph.D. Candidate at GMU 
@@ -108,8 +105,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Title: [*Polymers and Biomolecules in Solvents: A Molecular Dynamics Study*](https://www.proquest.com/docview/2476829588)  
 * 🎓**Christine Harvey** - Computational Science and Informatics Ph.D. at GMU, 🎓Fall 2019.
   * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://www.proquest.com/docview/2379670232)  
-
-
+  
 <a name="lst-ms"/>
 #### Master's Committee Chair
 
