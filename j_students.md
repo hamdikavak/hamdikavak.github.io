@@ -95,7 +95,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)  
 
 
-#### Ph.D. Committee Member
+#### <u>Ph.D. Committee Member</u>
 * **Bora Aslan** - Ph.D. Candidate at International Relations Dept. at Old Dominion University.
 * **Scott Hopkins** - Computational Sciences and Informatics Ph.D. Candidate at GMU 
 * **Jarrod Grewe** - Computational Sciences and Informatics program Ph.D. Candidate  at GMU
@@ -111,7 +111,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 <br/>
 <a name="lst-ms"/>
 
-#### Master's Committee Chair
+#### <u>MS Committee Chair</u>
 
 * **Maura Lapoff** - Master of Arts in Interdisciplinary Studies Student (CSS concentration) at GMU
   * Graduation project topic: *Investigations in complexity in the age of COVID-19*
@@ -121,12 +121,12 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Graduation project topic: *Human Mobility Simulation and COVID-19*
   * Expected graduation: *Spring 2023*
 
-#### MS Committee Member
+#### <u>MS Committee Member</u>
 * **Moh Mansoor Abdul Bari** - Master of Arts in Interdisciplinary Studies Student (CSS concentration) at GMU
 
 <br/>
 <a name="lst-ug"/>
-#### Undergraduate Research Students
+#### <u>Undergraduate Research Students</u>
 
 * **Justin Elarde** - (Spring-Summer 2021). Geography and Geoinformation Science major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle.
     * 🏆 Received College of Science Undergraduate Research Colloquium Award in Environmental and Earth Sciences.
