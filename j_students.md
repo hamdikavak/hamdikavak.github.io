@@ -94,7 +94,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Position after graduation: Vice President, Transformational Training Systems at Amentum.
   * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)  
 
-<br/>
+
 #### Ph.D. Committee Member
 * **Bora Aslan** - Ph.D. Candidate at International Relations Dept. at Old Dominion University.
 * **Scott Hopkins** - Computational Sciences and Informatics Ph.D. Candidate at GMU 
