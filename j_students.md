@@ -11,7 +11,7 @@ I enjoy advising and supervising curious students at all levels, from high schoo
 - [Interested in working with me?](#int)
 - [List of students and their work](#lst)
     - [PhD](#lst-phd)
-    - [Master's](#lst-ms)
+    - [MS](#lst-ms)
     - [Undergraduate](#lst-ug)
     - [High school](#lst-hs)
 
@@ -93,10 +93,9 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   
 * 🎓 **Paul Cummings** - Computational Social Science Ph.D. Candidate at GMU, 🎓Fall 2020. 
   * Position after graduation: Vice President, Transformational Training Systems at Amentum.
-  * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)
+  * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)  
 
 
-<br/>
 #### Ph.D. Committee Member
 * **Bora Aslan** - Ph.D. Candidate at International Relations Dept. at Old Dominion University.
 * **Scott Hopkins** - Computational Sciences and Informatics Ph.D. Candidate at GMU 
@@ -111,16 +110,23 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://www.proquest.com/docview/2379670232)  
 
 
-<br/>
-### Current Master's Committee Chair
+<a name="lst-ms"/>
+#### Master's Committee Chair
 
-* **Maura Lapoff** - Master of Arts in Interdisciplinary Studies Student (CSS concentration)  at GMU
-  * Graduation project topic: *Computational Social Science in Disease Modeling*
-  * Expected graduation: *Fall 2021*
+* **Maura Lapoff** - Master of Arts in Interdisciplinary Studies Student (CSS concentration) at GMU
+  * Graduation project topic: *Investigations in complexity in the age of COVID-19*
+  * Expected graduation: *Spring 2022*
+
+* **Justin Elarde** - Computational Science MS student at GMU
+  * Graduation project topic: *Human Mobility Simulation and COVID-19*
+  * Expected graduation: *Spring 2023*
   
 
-<br/>
-### Current Undergraduate Research Students
+#### MS Committee Member
+* **Moh Mansoor Abdul Bari** - Master of Arts in Interdisciplinary Studies Student (CSS concentration) at GMU
+
+<a name="lst-ug"/>
+#### Undergraduate Research Students
 
 * **Justin Elarde** - (Spring-Summer 2021). Geography and Geoinformation Science major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle.
     * 🏆 Received College of Science Undergraduate Research Colloquium Award in Environmental and Earth Sciences.
