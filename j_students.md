@@ -49,7 +49,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 ------
 <a name="lst-phd"/>
 
-#### Ph.D. Committee Chair
+#### __Ph.D. Committee Chair__
 * **Na Jiang (Richard)** - Computational Social Science Ph.D. Candidate at GMU
   * Dissertation Title: *Exploring Urban Shrinkage via Computational Approaches: A Case Study of Detroit*
   * Expected graduation: *Spring 2022*
