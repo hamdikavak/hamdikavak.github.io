@@ -95,6 +95,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)  
   
   
+
 #### Ph.D. Committee Member
 * **Bora Aslan** - Ph.D. Candidate at International Relations Dept. at Old Dominion University.
 * **Scott Hopkins** - Computational Sciences and Informatics Ph.D. Candidate at GMU 
@@ -109,6 +110,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://www.proquest.com/docview/2379670232)  
   
   
+
 <a name="lst-ms"/>
 #### Master's Committee Chair
 
@@ -120,10 +122,12 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Graduation project topic: *Human Mobility Simulation and COVID-19*
   * Expected graduation: *Spring 2023*
   
-
+  
 #### MS Committee Member
 * **Moh Mansoor Abdul Bari** - Master of Arts in Interdisciplinary Studies Student (CSS concentration) at GMU
+  
 
+  
 <a name="lst-ug"/>
 #### Undergraduate Research Students
 
