@@ -121,8 +121,6 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Graduation project topic: *Human Mobility Simulation and COVID-19*
   * Expected graduation: *Spring 2023*
 
-<br/>
-
 #### MS Committee Member
 * **Moh Mansoor Abdul Bari** - Master of Arts in Interdisciplinary Studies Student (CSS concentration) at GMU
 
