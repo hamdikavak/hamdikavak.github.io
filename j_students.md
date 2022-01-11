@@ -26,10 +26,10 @@ No open positions at this point.
 > ~~**Postdoc Position:** We are looking for a Postdoctoral Research Fellow to join our inter-disciplinary team, which aims to make disease spread models more realistic. The expected start date is within Spring 2021. [Application link](https://jobs.gmu.edu/postings/51722).~~
 
 > ~~**GRA Position:** We are looking for a graduate student to work on an agent based modeling of supply chain attacks project. Expected start date is Fall 2021.~~
-  
-  
-<a name="int"/>
 
+<br/>
+<br/>
+<a name="int"/>
 ## Want to join my research group?
 ------
 Send an email at hkavak [at] gmu.edu and mention four things please:  
@@ -37,19 +37,18 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 * your CV/Resume 
 * are you a current/accapted GMU student
 * express whether you need funding/research assistant position.
-
 <!-- 
 ### ASSIP 2021 applicants
 Thank you for your interest in ASSIP 2021. I have received staggering 105 student applications to work in my research group and started evaluating candidates. If you're on my short list, you should receive an invitation email by March 15, 2021.
 -->
-  
-  
+
+<br/>
+<br/>
 <a name="lst"/>
 ## List of students and their work
 ------
 <a name="lst-phd"/>
 #### Ph.D. Committee Chair
-
 * **Na Jiang (Richard)** - Computational Social Science Ph.D. Candidate at GMU
   * Dissertation Title: *Exploring Urban Shrinkage via Computational Approaches: A Case Study of Detroit*
   * Expected graduation: *Spring 2022*
@@ -93,9 +92,8 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 * 🎓 **Paul Cummings** - Computational Social Science Ph.D. Candidate at GMU, 🎓Fall 2020. 
   * Position after graduation: Vice President, Transformational Training Systems at Amentum.
   * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)  
-  
-  
 
+<br/>
 #### Ph.D. Committee Member
 * **Bora Aslan** - Ph.D. Candidate at International Relations Dept. at Old Dominion University.
 * **Scott Hopkins** - Computational Sciences and Informatics Ph.D. Candidate at GMU 
@@ -108,9 +106,8 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Title: [*Polymers and Biomolecules in Solvents: A Molecular Dynamics Study*](https://www.proquest.com/docview/2476829588)  
 * 🎓**Christine Harvey** - Computational Science and Informatics Ph.D. at GMU, 🎓Fall 2019.
   * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://www.proquest.com/docview/2379670232)  
-  
-  
 
+<br/>
 <a name="lst-ms"/>
 #### Master's Committee Chair
 
@@ -121,13 +118,12 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 * **Justin Elarde** - Computational Science MS student at GMU
   * Graduation project topic: *Human Mobility Simulation and COVID-19*
   * Expected graduation: *Spring 2023*
-  
-  
+
+<br/>
 #### MS Committee Member
 * **Moh Mansoor Abdul Bari** - Master of Arts in Interdisciplinary Studies Student (CSS concentration) at GMU
-  
 
-  
+<br/>
 <a name="lst-ug"/>
 #### Undergraduate Research Students
 
@@ -142,9 +138,6 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 * **Aarav Khanna** - (ASSIP 2020) - Rising Senior at Thomas Jefferson High School for Science and Technology (as of summer 2021).
 
 ---
-
-### Past Ph.D. Dissertation Committee Member
-
 
 
 ### Past Undergraduate Research Students
