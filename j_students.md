@@ -49,7 +49,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 ------
 <a name="lst-phd"/>
 
-#### <u>Ph.D. Committee Chair</u> <small><i>(8 current, 3 graduated)</i></small>
+#### <u>Ph.D. Committee Chair</u> <small>(8 current, 3 graduated)</small>
 * **Na Jiang (Richard)** - Computational Social Science Ph.D. Candidate at GMU
   * Dissertation Title: *Exploring Urban Shrinkage via Computational Approaches: A Case Study of Detroit*
   * Expected graduation: *Spring 2022*
@@ -95,17 +95,20 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Title: [*A Hybrid Machine Learning and Agent-Based Modeling Approach to Examine Decision-Making Heuristics*](https://www.proquest.com/docview/2476545206)  
 
 
-#### <u>Ph.D. Committee Member</u>
+#### <u>Ph.D. Committee Member</u> <small>(10 current, 2 graduated)</small>
 * **Bora Aslan** - Ph.D. Candidate at International Relations Dept. at Old Dominion University.
 * **Scott Hopkins** - Computational Sciences and Informatics Ph.D. Candidate at GMU 
 * **Jarrod Grewe** - Computational Sciences and Informatics program Ph.D. Candidate  at GMU
 * **Bruce Goldfeder** - Computational Sciences and Informatics Ph.D. Candidate at GMU
 * **Shatha Alahmadi** - Computational Sciences and Informatics Ph.D. Student at GMU
 * **Tony Henseler** - Computational Sciences and Informatics Ph.D. Student at GMU
-* **Amira Al-Khulaidy** -Computational Social Science Ph.D. Student at GMU
-* 🎓**Gideon Gogovi** - Computational Science and Informatics Ph.D. at GMU, 🎓Fall 2020. 
+* **Amira Al-Khulaidy** - Computational Social Science Ph.D. Student at GMU
+* **Noor Alsafi** - Computational Sciences and Informatics Ph.D. Student at GMU
+* **Wafi Almustafi** - Computational Sciences and Informatics Ph.D. Student at GMU
+* **Salwa Patel Ismail** - Computational Social Science Ph.D. Student at GMU
+* 🎓**Gideon Gogovi** - Computational Sciences and Informatics Ph.D. at GMU, 🎓Fall 2020. 
   * Title: [*Polymers and Biomolecules in Solvents: A Molecular Dynamics Study*](https://www.proquest.com/docview/2476829588)  
-* 🎓**Christine Harvey** - Computational Science and Informatics Ph.D. at GMU, 🎓Fall 2019.
+* 🎓**Christine Harvey** - Computational Sciences and Informatics Ph.D. at GMU, 🎓Fall 2019.
   * Title: [*Modeling, Simulation, and Analysis of the US Organ Transplant System*](https://www.proquest.com/docview/2379670232)  
 
 <br/>
