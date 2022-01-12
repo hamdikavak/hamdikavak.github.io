@@ -130,7 +130,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 <br/>
 <a name="lst-ug"/>
 
-#### <u>Undergraduate Research Students</u>
+#### <u>Undergraduate Research Students</u> <small>(3 current, 10 past)</small>
 
 * **Ekrem Kaya** - (Fall 2021 - current). Computational and Data Sciences major at GMU. 
     * Project: Artificial Intelligence Based Analysis of the Relationship between Mass Media and Social Media in Creating Anti-U.S. Perceptions
@@ -169,20 +169,19 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
     * Subsequent position: Research Professional at Chicago Booth School of Business
 
 
+
 <br/>
-### Current High School Research Students
-* **David Han** (ASSIP 2020-2021) - Graduated from Thomas Jefferson High School for Science and Technology. Admitted to Cornell University (Class of 2025).
-* **Aarav Khanna** - (ASSIP 2020) - Rising Senior at Thomas Jefferson High School for Science and Technology (as of summer 2021).
+<a name="lst-ug"/>
 
----
+#### <u>High School Research Students</u> <small>(3 current, 10 past)</small>
 
-
-### Past Undergraduate Research Students
-* **Cecelia M Oneill** - (Spring 2021) Geography and Geoinformation Science major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle.
-    * 🏆 Received College of Science Undergraduate Research Colloquium Award in Environmental and Earth Sciences.
-* **Peter Banks** - (Spring 2020) Economics major at GMU.
-
-### Past High School Research Students
-* **Isheitaa Bansal** - (ASSIP 2020) - Graduated from Chantilly High School. Admitted to Virginia Tech (Class of 2025).
-* **Rayan Yu** - (ASSIP 2020) - Graduated from James Madison High School. Admitted to The Wharton School of the University of Pennsylvania (Class of 2025).
+* **David Han** (ASSIP 2021 - current) - Graduated from Thomas Jefferson High School for Science and Technology. Cornell University (Class of 2025).
+* **Aarav Khanna** - (ASSIP 2020 - current) - Rising Senior at Thomas Jefferson High School for Science and Technology (as of Summer 2021).
+* **Srihan Kotnana** - (ASSIP 2021 - current) - Westfield High School (as of Summer 2021).
+* **Derek Goh** - (ASSIP 2021) - Thomas Jefferson High School for Science and Technology (as of Summer 2021).
+* **Fiona Zheng** - (ASSIP 2021) - Thomas Jefferson High School for Science and Technology (as of Summer 2021).
+* **Darius Kianersi** - (ASSIP 2021) - Thomas Jefferson High School for Science and Technology (as of Summer 2021).
+* **Nicole Liang** - (ASSIP 2021) - River Hill High School (as of Summer 2021).
+* 🎓**Isheitaa Bansal** - (ASSIP 2020) - Graduated from Chantilly High School. Virginia Tech (Class of 2025).
+* 🎓**Rayan Yu** - (ASSIP 2020) - Graduated from James Madison High School. The Wharton School of the University of Pennsylvania (Class of 2025).
 
