@@ -114,7 +114,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 <br/>
 <a name="lst-ms"/>
 
-#### <u>MS Committee Chair</u>
+#### <u>MS Committee Chair</u> <small>(2 current)</small>
 
 * **Maura Lapoff** - Master of Arts in Interdisciplinary Studies Student (CSS concentration) at GMU
   * Graduation project topic: *Investigations in complexity in the age of COVID-19*
@@ -124,11 +124,12 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
   * Graduation project topic: *Human Mobility Simulation and COVID-19*
   * Expected graduation: *Spring 2023*
 
-#### <u>MS Committee Member</u>
+#### <u>MS Committee Member</u> <small>(1 current)</small>
 * **Moh Mansoor Abdul Bari** - Master of Arts in Interdisciplinary Studies Student (CSS concentration) at GMU
 
 <br/>
 <a name="lst-ug"/>
+
 #### <u>Undergraduate Research Students</u>
 
 * **Ekrem Kaya** - (Fall 2021 - current). Computational and Data Sciences major at GMU. 
@@ -137,12 +138,36 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 
 * **Luke Palmieri** - (Fall 2021 - current). Computational and Data Sciences major at GMU. 
     * Project: Artificial Intelligence Based Analysis of the Relationship between Mass Media and Social Media in Creating Anti-U.S. Perceptions
-    *  🏆 Virtual Virginia Datathon (2021)  runner-up.
+    *  🏆 Virtual Virginia Datathon (2021) runner-up.
 
-* **Justin Elarde** - (Spring-Summer 2021). Geography and Geoinformation Science major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle.
+* **Gowri Prathap** - (Summer 2020 - current). Computational and Data Sciences major at GMU. 
+    * Project: Artificial Intelligence Based Analysis of the Relationship between Mass Media and Social Media in Creating Anti-U.S. Perceptions
+    *  🏆 Undergraduate Research Scholars Program (Summer 2020) recipient.
+
+* 🎓**Alberto Rodriguez** - (Fall 2021). Computational and Data Sciences major at GMU. 🎓 Spring 2021. 
+    * Project: Artificial Intelligence Based Analysis of the Relationship between Mass Media and Social Media in Creating Anti-U.S. Perceptions
+
+* 🎓**Justin Elarde** - (Spring-Summer 2021). Geography and Geoinformation Science major at GMU. 🎓 Spring 2021.  Co-supervised with Taylor Anderson and Andreas Züfle.
+    * Project: An Ensemble Approach to Combine Predictions from COVID-19 Simulations.
     * 🏆 Received College of Science Undergraduate Research Colloquium Award in Environmental and Earth Sciences.
     * 🏆 Received GMU’s OSCAR Student Award
-* **Gowri Prathap** - (URSP Summer 2020) Computational and Data Sciences major at GMU. 
+    * Subsequent position: Data Scientist at Booz Allen Hamilton
+
+* **Dhruv Gandhi** - (Summer Team Impact Project 2021). Computational and Data Sciences major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle. 
+* **Jack (John) Blumstein** - (Summer Team Impact Project 2021). Computational and Data Sciences major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle. 
+* **Radhika Laddha** - (Summer Team Impact Project 2021). Computational and Data Sciences major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle. 
+* **Leela Yaddanapudi** - (Summer Team Impact Project 2021). Computer Science major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle.
+* **Shivani (Sai) Gurrapu** - (Summer Team Impact Project 2021). Computer Science major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle.
+* **Shivani (Sai) Gurrapu** - (Summer Team Impact Project 2021). Computational and Data Sciences major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle.
+
+* 🎓**Cecelia M Oneill** - (Spring 2021). Geography and Geoinformation Science major at GMU. 🎓 Spring 2021.  Co-supervised with Taylor Anderson and Andreas Züfle.
+    * Project: An Ensemble Approach to Combine Predictions from COVID-19 Simulations.
+    * 🏆 Received College of Science Undergraduate Research Colloquium Award in Environmental and Earth Sciences.
+
+* 🎓**Peter Banks** - (Spring 2020). Economics major at GMU. 🎓 Spring 2020.  
+    * Project: Verification and Validation as a Service
+    * Subsequent position: Research Professional at Chicago Booth School of Business
+
 
 <br/>
 ### Current High School Research Students
