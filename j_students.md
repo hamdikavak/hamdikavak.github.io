@@ -169,11 +169,10 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
     * Subsequent position: Research Professional at Chicago Booth School of Business
 
 
-
 <br/>
-<a name="lst-ug"/>
+<a name="lst-hs"/>
 
-#### <u>High School Research Students</u> <small>(3 current, 10 past)</small>
+#### <u>High School Research Students</u> <small>(3 current, 6 past)</small>
 
 * **David Han** (ASSIP 2021 - current) - Graduated from Thomas Jefferson High School for Science and Technology. Cornell University (Class of 2025).
 * **Aarav Khanna** - (ASSIP 2020 - current) - Rising Senior at Thomas Jefferson High School for Science and Technology (as of Summer 2021).
