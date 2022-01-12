@@ -49,7 +49,7 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 ------
 <a name="lst-phd"/>
 
-#### <u>Ph.D. Committee Chair</u> <small>__(8 current, 3 graduated)__</small>
+#### <u>Ph.D. Committee Chair</u> <small><i>(8 current, 3 graduated)</i></small>
 * **Na Jiang (Richard)** - Computational Social Science Ph.D. Candidate at GMU
   * Dissertation Title: *Exploring Urban Shrinkage via Computational Approaches: A Case Study of Detroit*
   * Expected graduation: *Spring 2022*
@@ -128,9 +128,13 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 <a name="lst-ug"/>
 #### <u>Undergraduate Research Students</u>
 
-* **Ekrem Kaya** - (Fall 2021-current). Computational and Data Sciences major at GMU. 
+* **Ekrem Kaya** - (Fall 2021 - current). Computational and Data Sciences major at GMU. 
     * Project: Artificial Intelligence Based Analysis of the Relationship between Mass Media and Social Media in Creating Anti-U.S. Perceptions
     *  🏆 College of Science Promise Scholarship and University Scholars Program recipient.
+
+* **Luke Palmieri** - (Fall 2021 - current). Computational and Data Sciences major at GMU. 
+    * Project: Artificial Intelligence Based Analysis of the Relationship between Mass Media and Social Media in Creating Anti-U.S. Perceptions
+    *  🏆 Virtual Virginia Datathon (2021)  runner-up.
 
 * **Justin Elarde** - (Spring-Summer 2021). Geography and Geoinformation Science major at GMU. Co-supervised with Taylor Anderson and Andreas Züfle.
     * 🏆 Received College of Science Undergraduate Research Colloquium Award in Environmental and Earth Sciences.
