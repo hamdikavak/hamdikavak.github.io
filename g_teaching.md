@@ -25,14 +25,30 @@ I am the course coordinator and instructor for the Modeling and Simulation 1 (CD
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H43B112zfuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
----
 ### Verification and Validation of Models (CSI 709/CSS 739)
-**Semesters offered:** Fall 2020 (Online)  
-
-Computational models come in different forms ranging from machine learning models that predict/classify patterns to agent-based models that investigate emergent phenomena from a bottom-up perspective. Regardless of their form, all computational models should go through the Verification and Validation (V&V) process, which checks the correctness of the model design and performance. The proliferation of high-level frameworks and tools make it possible to bypass or overlook such steps. This graduate-level course aims to teach and improve V&V practices, which is considered as an essential methodological step in model development. Some of the topics include terminology and history of V&V, statistics for V&V, verification techniques, validation techniques, validation of data-driven models, and validation in the absence of data, among many others. Students will further their knowledge with writing assignments and a term project.
+**Semesters offered:** Fall 2020 (Online), Fall 2021  
 
 ![V&V Class]({{ site.baseurl }}/images/pages/vnv_banner.png)  
----
+
+Computational models come in different forms ranging from machine learning models that predict/classify patterns to agent-based models that investigate emergent phenomena from a bottom-up perspective. Regardless of their type, all computational models should go through Verification and Validation (V&V), which checks the correctness of the model's design and performance. The proliferation of high-level frameworks and tools make it possible to bypass or overlook V&V. This graduate-level course aims to teach and improve V&V practices. Topics of the last version of the class are provided below. Students will further their knowledge with writing assignments, paper presentations, and a final project.
+
+**Course topics:**
+- Models in Science
+- Verification and Validation Fundamentals
+- Statistics and Visualization Techniques for Verification and Validation
+- Lightweight, Feedback-Driven Runtime Verification
+- Computational Techniques to Support Simulation Model Validation
+- Verification and Validation of Agent-Based Models
+- Verification and Validation within Cognitive Modeling of Individuals
+- Safer Deep Reinforcement Learning 
+- Validation of Machine Learning Models: Basics
+- Validation of Machine Learning Models: Bias, Fairness, and Assurance
+- Validation of Statistical Models
+- Validation of Network Models
+- Ethics of Model Design and Use
+
+
+
 ---  
 
 ### Spatial Agent-Based Models of Human-Environment Interactions (CSS 645)
