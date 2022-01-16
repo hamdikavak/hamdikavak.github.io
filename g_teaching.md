@@ -14,6 +14,7 @@ I believe teaching and research should support each other as much as possible so
 *Last updated on Jan 16, 2022.*
 
 ---
+<br/>
 
 ### Modeling and Simulation 1 (CDS 230)
 **Semesters offered:** Fall 2019, Spring 2020, Fall 2020 (Online), Spring 2021 (Online), Fall 2021.
@@ -25,6 +26,8 @@ I am the course coordinator and instructor for the Modeling and Simulation 1 (CD
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H43B112zfuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+<br/>
+
 ### Verification and Validation of Models (CSI 709/CSS 739)
 **Semesters offered:** Fall 2020 (Online), Fall 2021  
 
@@ -47,17 +50,17 @@ Computational models come in different forms ranging from machine learning model
 - Validation of Network Models
 - Ethics of Model Design and Use
 
-
-
 ---  
+<br/>
 
 ### Spatial Agent-Based Models of Human-Environment Interactions (CSS 645)
-**Semesters offered:** Spring 2021 (Online)  
+**Semesters offered:** Spring 2021 (Online), Spring 2022  
 
-I will be teaching this class in Spring 2021 as a continuation from Dr. Andrew Crooks' Spring 2020 version.  
+This course will introduce graduate students in the spatial, environmental, and computational social sciences to the use of agent-based techniques as a means of modeling human-environment interactions. Major topics include spatial processes, the use of spatial identifiers to link socioeconomic and biophysical models, and, where possible, links to geographic information and associated technologies. We will cover applications in areas such as agriculture, epidemiology, forestry, biodiversity, habitat degradation, interactions between human populations and nonhuman species, and urban modeling.
 
-Course summary from the university catalog:
+The course will combine literature review with some hands-on modeling. When demo versions are available, we will compile and run models as we review articles based on those models. In addition, students will complete a class project where they develop their own models in their areas of interest. Students with no programming background can develop simple models using NetLogo or AnyLogic. Students with advanced programming abilities are encouraged to develop more sophisticated models using packages such as GAMA, Repast, MASON, Mesa, etc., or may develop their own spatial agent-based model using the programming language of their choice.
 
-```Discusses key challenges in spatial modeling of human-environment interactions. Reviews agent-based modeling applications in urban and rural interactions, agriculture, forestry, and other areas. Hand-on development of simple ABM models. Investigates linkages between GIS and ABM. ```
+
+The design of this class is based on Dr. Andrew Crooks' Spring 2020 version. 
 
 ---
