@@ -5,20 +5,37 @@ permalink: /publications/
 nav: yes
 ---
 
-This page shows my up-to-date publication list, links to papers, and BibTex citation information. Since my contributions mainly target improving the intersection of simulation modeling and data science, I submit papers to conferences and journals that focus on the advancement of the methods rather than domain-specific advancements.
+This page shows my relatively up-to-date publication list, links to papers, and BibTex citation information. Since my contributions mainly target improving the intersection of simulation modeling and data science, I submit papers to conferences and journals that focus on the advancement of the methods rather than domain-specific advancements.
 
-*Last updated on Jan 6, 2021.*
+*Last updated on Jan 17, 2022.*
 
 <a href="#journals">Journals</a> | <a href="#conferences">Conferences</a> | <a href="#others">Other Publications</a> | <a href="#rev">Papers In Progress</a>
 <a name="journals"></a>
 
 
 ### Journal Papers
-   
+
+9. Urban life: a model of people and places   
+	    A. Züfle, C. Wenk, D. Pfoser, C. Crooks, J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, J. Hyunjee,    
+	    <em>Computational and Mathematical Organization Theory</em>, 2021, 10.1007/s10588-021-09348-7 
+	    [<a title="Paper" href="https://link.springer.com/article/10.1007/s10588-021-09348-7">Paper</a>]
+	    [BibTeX]
+
+10. Change of human mobility during COVID-19: A United States case study   
+	    J. Elarde, J-S. Kim, <strong>H. Kavak</strong>, A. Züfle, T. Anderson   
+	    <em>PLOS One</em>, 2021, 10.1371/journal.pone.0259031 
+	    [<a title="Paper" href="http://dx.plos.org/10.1371/journal.pone.0259031">Paper</a>]
+	    [BibTeX]
+
+9. Simulation for Cybersecurity: State of the Art and Future Directions   
+	    <strong>H. Kavak</strong>, J.J. Padilla, D. Vernon-Bido, S.Y. Diallo, R.J. Gore, S. Shetty  
+	    <em>Journal of Cybersecurity</em>, 2021, doi:10.1093/cybsec/tyab005 
+	    [<a title="Paper" href="https://academic.oup.com/cybersecurity/article/7/1/tyab005/6170701">Paper</a>]
+	    [BibTeX]
 
 10. A content analysis-based approach to explore simulation verification and identify its current challenges   
 	    C.J. Lynch, S.Y. Diallo, <strong>H. Kavak</strong>, J.J. Padilla   
-	    <em>PLOS One</em>, 2020, doi:10.1371/journal.pone.0232929 
+	    <em>PLOS One</em>, 2020, doi:10.1371/journal.pone.0232929  
 	    [<a title="Paper" href="http://dx.plos.org/10.1371/journal.pone.0232929">Paper</a>]
 	    [BibTeX]
 
