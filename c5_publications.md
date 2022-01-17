@@ -215,10 +215,20 @@ This page shows my relatively up-to-date publication list, links to papers, and 
     [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2014_social_media.bib">BibTex</a>]
 
 
+<a name="book"></a>
+
+### Book Chapters
+
+
+9. Bias, Fairness, and Assurance in AI: Overview and Synthesis  
+    A. Al-Khulaidy and <strong>H. Kavak</strong>
+    AI Assurance, Edited by Feras Batarseh and Laura Freeman. Springer; 2021  
+    [Paper]
+	[[BibTex]
+
 <a name="others"></a>
 
 ### Other Publications (non-peer reviewed)
-
 
 9. COVID-19 ensemble models using representative clustering  
     J-S Kim, <strong>H. Kavak</strong>, C.O. Rouly, H. Jin, A. Crooks, D. Pfoser, C. Wenk, and A. Züfle
@@ -252,16 +262,13 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 ### Papers in Progress
 
-     
-1. Simulation for Cybersecurity: State of the Art and Future Directions. Kavak et al.  
-	Revision Submitted to the Journal of Cybersecurity (Oxford University Press).
-	
-2. Urban Life: A Model of People and Places.  A. Züfle, C. Wenk, D. Pfoser, A. Crooks, <strong>H. Kavak</strong>, J-S. Kim, and H. Jin. Submitted to the Computational and Mathematical Organization Theory.
+1. Method to Create a Synthetic Population with Social Networks for Geographically Explicit Agent-Based Models. N. Jiang, W.G. Kennedy , A. Crooks, and <strong>H. Kavak</strong>. Revised version submitted to Computational Urban Science.
+
+2. PhyloView: A System to Visualize the Ecology of Infectious Diseases using Phylogenetic Data. M.T. Le , D. Attaway , T. Anderson, <strong>H. Kavak</strong>, A. Roess, A. Züfle. To be submitted to Mobile Data Management 2022.
+
+2. A general epidemic model in an open system considering different preferences towards wearing masks and its application to mask design. C. Wang and <strong>H. Kavak</strong>. Submitted to Bulletin of Mathematical Biology.
 
 3. Quantitative Comparison of Population Synthesis Techniques for Two Countries. D. Han, I. Bansal, S. Islam, T. Anderson, and <strong>H. Kavak</strong>
 
-4. Conjugated Learning: A Novel Semi-Supervised Machine Learning Algorithm. C. Mitchell  and <strong>H. Kavak</strong>.
-
 5. Verification and Validation as a Service. H. Kavak et al.
 
-<!---1. A Patterns of Life Simulation for Urban Science (H. Kavak et al.)--->
