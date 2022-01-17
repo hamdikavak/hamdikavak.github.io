@@ -220,7 +220,7 @@ This page shows my relatively up-to-date publication list, links to papers, and 
     [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2014_social_media.bib">BibTex</a>]
 
 
-<a name="book"></a>
+<a name="books"></a>
 
 ### Book Chapters
 
