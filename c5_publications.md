@@ -67,7 +67,38 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 <a name="conferences"></a>
 
+
 ### Peer-Reviewed Conference Papers
+
+88. Spatiotemporal Prediction of Foot Traffic  
+     S. Islam, D. Gandhi, J. Elarde, T. Anderson, A. Roess, T.F. Leslie, <strong>H. Kavak</strong>, and A. Züfle   
+     <em>5th ACM SIGSPATIAL International Workshop on Location-Based Recommendations, Geosocial Networks, and Geoadvertising</em>, Seattle, Washington, USA (Online), November 2-5, 2021  
+     [Paper TBA]
+     [BibTex TBA]
+
+89. Towards a Verification and Validation Framework for COVID-19 Forecast Models.  
+     M. Lapoff and <strong>H. Kavak</strong> 
+     <em>2021 Annual Modeling and Simulation Conference (ANNSIM)</em>, Fairfax, VA, USA (Online), July 19-22, 2021  
+     [Paper TBA]
+     [BibTex TBA]
+
+90. Generation of Reusable Synthetic Population and Social Networks for Agent-Based Modeling  
+     N. Jiang, <strong>H. Kavak</strong>, W.G. Kennedy, and A. Crooks 
+     <em>2021 Annual Modeling and Simulation Conference (ANNSIM)</em>, Fairfax, VA, USA (Online), July 19-22, 2021  
+     [Paper TBA]
+     [BibTex TBA]
+
+91. Opportunities and challenges in developing covid-19 simulation models: Lessons from six funded projects  
+     P.J. Giabbanelli, J. Badham, B. Castellani, <strong>H. Kavak</strong>, V. Mago, A. Negahban, and S. Swarup  
+     <em>2021 Annual Modeling and Simulation Conference (ANNSIM)</em>, Fairfax, VA, USA (Online), July 19-22, 2021  
+     [Paper TBA]
+     [BibTex TBA]
+
+92. Towards Large-Scale Agent-Based Geospatial Simulation  
+     U. Manzoor, <strong>H. Kavak</strong>, J-S. Kim, A. Crooks, D. Pfoser, A. Züfle, and C. Wenk  
+     <em>2021 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</em>, Washington, DC, USA (Online), July 6-9, 2021  
+     [Paper TBA]
+     [BibTex TBA]
 
 93. Data-Driven Mobility Models for COVID-19 Simulation  
      J. Pesavento, A. Chen, R. Yu, J-S. Kim, <strong>H. Kavak</strong>, T. Anderson, and A. Züfle   
