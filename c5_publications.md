@@ -9,9 +9,14 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 *Last updated on Jan 17, 2022.*
 
-<a href="#journals">Journals</a> | <a href="#conferences">Conferences</a> | <a href="#others">Other Publications</a> | <a href="#rev">Papers In Progress</a>
-<a name="journals"></a>
+- <a href="#journals">Journals</a>
+- <a href="#conferences">Conferences</a>
+- <a href="#books">Book Chapters</a>
+- <a href="#others">Other Publications</a>
+- <a href="#rev">Papers In Progress</a>
 
+
+<a name="journals"></a>
 
 ### Journal Papers
 
