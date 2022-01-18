@@ -37,23 +37,20 @@ Disease spread is heavily influenced by human mobility. In this work, we capture
 	</script>
 
 <br/>
-
 ### Lead Investigators
-
 - Andreas Züfle
 - Hamdi Kavak
 - Taylor Anderson
 
 <br/>
 ### Students and Collaborators
-
 - Justin Elarde (MS student 2020-2022)
 - Joonseok Kim (Postdoctoral researcher 2020-2021)
 - John Pesavento (ASSIP 2020)
 - Andy Chen (ASSIP 2020)
 - Rayan Yu (ASSIP 2020)
 
-&nbsp;
+<br/>
 ### Publications
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3423455.3430305" target="_blank"> <i class="far fa-file"></i> ARIC'20 Paper</a>
