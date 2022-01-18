@@ -36,11 +36,15 @@ Disease spread is heavily influenced by human mobility. In this work, we capture
 	}); 
 	</script>
 
-### Main Investigators
+<br/>
+
+### Lead Investigators
 
 - Andreas Züfle
 - Hamdi Kavak
 - Taylor Anderson
+
+<br/>
 
 ### Students and Collaborators
 
@@ -50,11 +54,14 @@ Disease spread is heavily influenced by human mobility. In this work, we capture
 - Andy Chen (ASSIP 2020)
 - Rayan Yu (ASSIP 2020)
 
+<br/>
+
 ### Publications
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3423455.3430305" target="_blank"> <i class="far fa-file"></i> ARIC'20 Paper</a>
 <hr>
 
+<br/>
 
 ### Funding
 - [NSF Award #2030685](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2030685)
