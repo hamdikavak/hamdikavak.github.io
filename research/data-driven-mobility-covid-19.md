@@ -53,7 +53,7 @@ Disease spread is heavily influenced by human mobility. In this work, we capture
 - Andy Chen (ASSIP 2020)
 - Rayan Yu (ASSIP 2020)
 
-<br/>
+&nbsp;
 ### Publications
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3423455.3430305" target="_blank"> <i class="far fa-file"></i> ARIC'20 Paper</a>
