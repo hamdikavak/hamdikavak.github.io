@@ -7,14 +7,14 @@ permalink: /research/data-driven-mobility-covid-19/
 
 ## Data-driven mobility modeling for COVID-19 simulation
 
-<br/>
+&nbsp;
 
 ### Lead Investigators
 - Andreas Züfle
 - Hamdi Kavak
 - Taylor Anderson
 
-<br/>
+&nbsp;
 
 ### Students and Collaborators
 - Justin Elarde (MS student 2020-2022)
@@ -25,7 +25,7 @@ permalink: /research/data-driven-mobility-covid-19/
 
 <br/>
 
-### <u>Initial work</u>
+#### <u>Initial work</u>
 Disease spread is heavily influenced by human mobility. In this work, we captured human mobility in a data-driven manner based on Latent Dirichlet Allocation (LDA) fed by SafeGraph mobility data and simulated the spread of COVID-19. In our novel approach, LDA treats POIs as "words" and agent home census block groups (CBGs) as "documents" to extract "topics" of POIs that frequently appear together in CBG visits. These topics allow us to simulate agent mobility based on the LDA topic distribution of their home CBG. We compared the LDA based mobility model with competitor approaches including a naive mobility model that assumes visits to POIs are random. This is the first study in the series of several data-driven COVID-19 models we have been developing since the summer of 2020.
 
 <div id="dd-covid-gallery">
