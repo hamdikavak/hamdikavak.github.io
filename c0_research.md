@@ -33,7 +33,7 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 <br/>
 <h3 class="hl_DSForMS">Data-Driven Modeling of Agents</h3>
 
-{% include_relative rsc/summary/dd/covid.html %}
+[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Data-driven mobility modeling for COVID-19 simulation]({{ site.baseurl }}/research/data-driven-mobility-covid-19/)
 {% include_relative rsc/summary/dd/method.html %}
 {% include_relative rsc/summary/dd/wifi.html %}
 {% include_relative rsc/summary/dd/sm.html %}
