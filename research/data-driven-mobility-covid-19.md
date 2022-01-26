@@ -25,7 +25,7 @@ permalink: /research/data-driven-mobility-covid-19/
 <br/>
 
 #### <u>Initial work</u>
-Disease spread is heavily influenced by human mobility. In this work, we captured human mobility in a data-driven manner based on Latent Dirichlet Allocation (LDA) fed by SafeGraph mobility data and simulated the spread of COVID-19. In our novel approach, LDA treats POIs as "words" and agent home census block groups (CBGs) as "documents" to extract "topics" of POIs that frequently appear together in CBG visits. These topics allow us to simulate agent mobility based on the LDA topic distribution of their home CBG. We compared the LDA based mobility model with competitor approaches including a naive mobility model that assumes visits to POIs are random. This is the first study in the series of several data-driven COVID-19 models we have been developing since the summer of 2020.
+Disease spread is heavily influenced by human mobility. In this work, we captured human mobility in a data-driven manner based on Latent Dirichlet Allocation (LDA) fed by SafeGraph mobility data and simulated the spread of COVID-19. In our novel approach, LDA treats POIs as "words" and agent home census block groups (CBGs) as "documents" to extract "topics" of POIs that frequently appear together in CBG visits. These topics allow us to simulate agent mobility based on the LDA topic distribution of their home CBG. We compared the LDA based mobility model with competing approaches including a naive mobility model that assumes visits to POIs are random. This is the first study in the series of several data-driven COVID-19 models we have been developing since the summer of 2020.
 
 <div id="dd-covid-gallery">
         
@@ -46,7 +46,11 @@ Disease spread is heavily influenced by human mobility. In this work, we capture
 <br/>
 
 #### <u>Extensions</u>
-Disease spread is heavily influenced by human mobility. In this work, we captured human mobility in a data-driven manner based on Latent Dirichlet Allocation (LDA) fed by SafeGraph mobility data and simulated the spread of COVID-19. In our novel approach, LDA treats POIs as "words" and agent home census block groups (CBGs) as "documents" to extract "topics" of POIs that frequently appear together in CBG visits. These topics allow us to simulate agent mobility based on the LDA topic distribution of their home CBG. We compared the LDA based mobility model with competitor approaches including a naive mobility model that assumes visits to POIs are random. This is the first study in the series of several data-driven COVID-19 models we have been developing since the summer of 2020.
+We have created several new versions of the mobility model during the second half of 2021. 
+We have implemented a more refined the LDA mobility model that can learn from SafeGraph data patterns monthly. 
+Our initial version of the model used pre-pandemic SafeGraph data. 
+Also, we have implemented a place density-based disease spread mechanism and updated the timing of the disease according to the latest COVID studies.
+Currently, we are working on running the model for a long period of time and simulate the COVID case number patterns seen in the past.
 
 
 <script>
