@@ -4,17 +4,16 @@ title: Data-driven mobility modeling for COVID-19 simulation
 permalink: /research/data-driven-mobility-covid-19/
 ---
 
-
 ## Data-driven mobility modeling for COVID-19 simulation
 
-  
+<br/>
 
 ### Lead Investigators
 - Andreas Züfle
 - Hamdi Kavak
 - Taylor Anderson
 
-  
+<br/>
 
 ### Students and Collaborators
 - Justin Elarde (MS student 2020-2022)
@@ -65,6 +64,7 @@ Disease spread is heavily influenced by human mobility. In this work, we capture
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3423455.3430305" target="_blank"> <i class="far fa-file"></i> ARIC'20 Paper</a>
 
+<br/>
 
 ### Funding
 - [NSF Award #2030685](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2030685)
