@@ -7,7 +7,23 @@ permalink: /research/data-driven-mobility-covid-19/
 
 ## Data-driven mobility modeling for COVID-19 simulation
 
-#### <i>Initial work</i>
+<br/>
+
+### Lead Investigators
+- Andreas Züfle
+- Hamdi Kavak
+- Taylor Anderson
+
+<br/>
+
+### Students and Collaborators
+- Justin Elarde (MS student 2020-2022)
+- Joonseok Kim (Postdoctoral researcher 2020-2021)
+- John Pesavento (ASSIP 2020)
+- Andy Chen (ASSIP 2020)
+- Rayan Yu (ASSIP 2020)
+
+### <i><u>Initial work</u></i>
 Disease spread is heavily influenced by human mobility. In this work, we captured human mobility in a data-driven manner based on Latent Dirichlet Allocation (LDA) fed by SafeGraph mobility data and simulated the spread of COVID-19. In our novel approach, LDA treats POIs as "words" and agent home census block groups (CBGs) as "documents" to extract "topics" of POIs that frequently appear together in CBG visits. These topics allow us to simulate agent mobility based on the LDA topic distribution of their home CBG. We compared the LDA based mobility model with competitor approaches including a naive mobility model that assumes visits to POIs are random. This is the first study in the series of several data-driven COVID-19 models we have been developing since the summer of 2020.
 
 <div id="dd-covid-gallery">
@@ -27,7 +43,7 @@ Disease spread is heavily influenced by human mobility. In this work, we capture
 
 </div>
 
-#### <i>Extensions</i>
+#### <i><u>Extensions</u></i>
 Disease spread is heavily influenced by human mobility. In this work, we captured human mobility in a data-driven manner based on Latent Dirichlet Allocation (LDA) fed by SafeGraph mobility data and simulated the spread of COVID-19. In our novel approach, LDA treats POIs as "words" and agent home census block groups (CBGs) as "documents" to extract "topics" of POIs that frequently appear together in CBG visits. These topics allow us to simulate agent mobility based on the LDA topic distribution of their home CBG. We compared the LDA based mobility model with competitor approaches including a naive mobility model that assumes visits to POIs are random. This is the first study in the series of several data-driven COVID-19 models we have been developing since the summer of 2020.
 
 
@@ -39,28 +55,18 @@ Disease spread is heavily influenced by human mobility. In this work, we capture
 	}); 
 	</script>
 
-<br/>
-### Lead Investigators
-- Andreas Züfle
-- Hamdi Kavak
-- Taylor Anderson
 
 <br/>
-### Students and Collaborators
-- Justin Elarde (MS student 2020-2022)
-- Joonseok Kim (Postdoctoral researcher 2020-2021)
-- John Pesavento (ASSIP 2020)
-- Andy Chen (ASSIP 2020)
-- Rayan Yu (ASSIP 2020)
 
-<br/>
 ### Publications
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3423455.3430305" target="_blank"> <i class="far fa-file"></i> ARIC'20 Paper</a>
 
 <br/>
+
 ### Funding
 - [NSF Award #2030685](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2030685)
 - [NSF Award #2109647](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2109647)
 <hr/>
+
 *Last updated on Jan 17, 2022.*  
