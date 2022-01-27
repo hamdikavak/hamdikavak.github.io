@@ -43,13 +43,12 @@ We have recently witnessed the proliferation of large-scale behavioral data that
 </div>
 <br/>
 
-#### <u>Applications</u>
-We have created several new versions of the mobility model during the second half of 2021. 
-We have implemented a more refined the LDA mobility model that can learn from SafeGraph data patterns monthly. 
-Our initial version of the model used pre-pandemic SafeGraph data. 
-Also, we have implemented a place density-based disease spread mechanism and updated the timing of the disease according to the latest COVID studies.
-Currently, we are working on running the model for a long period of time and simulate the COVID case number patterns seen in the past.
-
+#### <u>Earlier studies: Use of Social Media Data in ABMs</u>
+As a pre-cursor to the data-driven approach, we studied how social media could be used to support agent-based modeling efforts. In the paper cited below (Padilla et al. 2014), three example usages are shown:
+Using large data set processing and sentiment analysis to identify preferences of a population.
+Using agents with machine learning capabilities to learn mobility patterns from individuals' history.
+Identifying preferences and communication patterns based on graph analysis (agent relation).
+The first item in this list was applied in a healthcare-related simulation setting, cited below as Padilla et al. (2015).
 
 <br/>
 
