@@ -114,8 +114,8 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 94. Location-Based Social Network Data Generation Based on Patterns of Life <span style="color: red;">(~23% full paper acceptance rate)</span>  
      J-S. Kim, H. Jin, <strong>H. Kavak</strong>, O.C. Rouly, A. Crooks, D. Pfoser, C. Wenk and A. Züfle   
      <em>The 21st IEEE International Conference on Mobile Data Management</em>, Versailles, France (Online), June 30-July 03, 2020  
-     [Paper TBA]
-     [BibTex TBA]
+    [[Paper](https://www.researchgate.net/profile/Ovi-Rouly/publication/343520283_Location-Based_Social_Network_Data_Generation_Based_on_Patterns_of_Life/links/5f3291f2458515b729159340/Location-Based-Social-Network-Data-Generation-Based-on-Patterns-of-Life.pdf)]
+    [[BibTex]({{ site.baseurl }}/download/bibs/2020_location.bib)]
 
 95. Modeling the Modeler: an Empirical Study on How Modelers Learn to Create Simulations  
      <strong>H. Kavak</strong>, J.J. Padilla, S.Y. Diallo and A. Barraco   
@@ -160,19 +160,19 @@ This page shows my relatively up-to-date publication list, links to papers, and 
     [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2018_cyberloafing.bib">BibTex</a>]
     
 102. Storytelling and Simulation Creation  
-   	J.J. Padilla, C.J. Lynch, <strong>H. Kavak</strong>, Shawn Evett, Devon Nelson, Calvin Carson, and Joshua del Villar  
+       J.J. Padilla, C.J. Lynch, <strong>H. Kavak</strong>, Shawn Evett, Devon Nelson, Calvin Carson, and Joshua del Villar  
     <em>Winter Simulation Conference</em>, Las Vegas, NV, December 3-6, 2017, pp. 4288-4299  
 	[<a title="RG Archive" href="https://www.researchgate.net/publication/321597125_Storytelling_and_Simulation_Creation">Paper</a>]
-   	[<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2017_cloudes_storytelling.bib">BibTex</a>]
+       [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2017_cloudes_storytelling.bib">BibTex</a>]
 
 103. Incorporating Sound Cues in Simulations  
-   	J. Deuro, C.J. Lynch, <strong>H. Kavak</strong>, and J.J. Padilla  
+       J. Deuro, C.J. Lynch, <strong>H. Kavak</strong>, and J.J. Padilla  
     <em>Winter Simulation Conference</em>, Las Vegas, NV, December 3-6, 2017, pp. 4209-4219  
 	[<a title="RG Archive" href="https://www.researchgate.net/publication/321572332_Incorporating_Sound_in_Simulations">Paper</a>]
-   	[<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2017_cloudes_sound.bib">BibTex</a>]
+       [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2017_cloudes_sound.bib">BibTex</a>]
 
 104. Identifying Unexpected Behaviors of Agent-based Models through Spatial Plots and Heat Maps  
-   	C.J. Lynch, <strong>H. Kavak</strong>, D. Vernon-Bido, and R.J. Gore  
+       C.J. Lynch, <strong>H. Kavak</strong>, D. Vernon-Bido, and R.J. Gore  
     <em>Swarmfest 2017</em>, Suffolk, VA, August 11-13, 2017  
 	[<a title="RG Archive" href="https://www.researchgate.net/publication/320357182_Identifying_Unexpected_Behaviors_of_Agent-based_Models_through_Spatial_Plots_and_Heat_Maps">Paper</a>]
 	[<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2017_heat_map.bib">BibTex</a>]
@@ -187,31 +187,31 @@ This page shows my relatively up-to-date publication list, links to papers, and 
     J.J. Padilla, C.J. Lynch, <strong>H. Kavak</strong>, S.Y. Diallo, R.J. Gore, A. Barraco, and B. Jenkins  
     <em>2016 Winter Simulation Conference</em>, Arlington, VA, December, 11-14, 2016, pp. 3375-3384  
     [<a title="RG Archive" href="https://www.researchgate.net/publication/311679896_Using_Simulation_Games_for_Teaching_and_Learning_Discrete-Event_Simulation">Paper</a>]
-  	[<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2016_cloudes_games.bib">BibTex</a>]
+      [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2016_cloudes_games.bib">BibTex</a>]
 
 107. Towards Modeling Factors that Enable an Attacker  
     D. Vernon-Bido, J.J. Padilla, S.Y. Diallo, <strong>H. Kavak</strong>, and R.J. Gore  
     <em>Summer Simulation Conference</em> Montreal, Quebec, Canada, July 24-27, 2016  
     [<a title="RG Archive" href="https://www.researchgate.net/publication/305764162_Towards_Modeling_Factors_that_Enable_an_Attacker">Paper</a>]
-  	[<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2016_attacker.bib">BibTex</a>]
+      [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2016_attacker.bib">BibTex</a>]
 
 108. A characterization of cybersecurity simulation scenarios  
     <strong>H. Kavak</strong>, J.J. Padilla, D. Vernon-Bido,  S.Y. Diallo, and R.J. Gore  
     <em>19th Communications and Networking Simulation Symposium</em>, Pasadena, CA, April 3-6, 2016  
     [<a title="RG Archive" href="https://www.researchgate.net/publication/299820368_A_Characterization_of_Cybersecurity_Simulation_Scenarios">Paper</a>]
-  	[<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2016_scenario.bib">BibTex</a>]
+      [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2016_scenario.bib">BibTex</a>]
 
 109. Modeling and Simulation as a Service (MSaaS) for Education: Learning STEM Concepts through Simulation Use and Building  
     J.J. Padilla, E. Romero-Hall, S.Y. Diallo, A. Barraco, <strong>H. Kavak</strong>, C.J. Lynch, R.J. Gore, and M. Sheth-Chandra  
     <em>2015 Summer Simulation Conference</em>, Chicago, IL, July, 26-29, 2015  
     [<a title="RG Archive" href="https://www.researchgate.net/publication/289530406_Modeling_and_Simulation_as_a_Service_MSaaS_for_Education_Learning_STEM_Concepts_through_Simulation_Use_and_Building">Paper</a>]
-  	[<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2015_cloudes_msaas.bib">BibTex</a>]
+      [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2015_cloudes_msaas.bib">BibTex</a>]
 
 110. Cloud-based Simulators: Making Simulations Accessible to Non-Experts and Experts Alike  
     J.J. Padilla, S.Y. Diallo, A. Barraco, <strong>H. Kavak</strong>, and C.J. Lynch.  
     <em>2014 Winter Simulation Conference</em>, Savannah, GA, December, 7-10, 2014<em>, </em>pp. 3630-3639  
     [<a title="RG Archive" href="https://www.researchgate.net/publication/269411595_Cloud-based_simulators_Making_simulations_accessible_to_non-experts_and_experts_alike">Paper</a>]
-  	[<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2014_cloudes.bib">BibTex</a>]
+      [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2014_cloudes.bib">BibTex</a>]
 
 111. Leveraging Social Media Data in Agent-based Simulations.  
     J.J. Padilla, S.Y. Diallo, <strong>H. Kavak</strong>, O. Sahin, and B. Nicholson.  
