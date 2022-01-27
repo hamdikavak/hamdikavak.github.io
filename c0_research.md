@@ -33,7 +33,7 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 <br/>
 <h3 class="hl_DSForMS">Data-Driven Modeling of Agents</h3>
 
-[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Data-driven Mobility Modeling for COVID-19 Simulation]({{ site.baseurl }}/research/data-driven-mobility-covid-19/)
+[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Data-driven Mobility Modeling for COVID-19 Simulation]({{ site.baseurl }}/research/data-driven-mobility-covid-19/)  
 [<i style="color:#FE7B0E" class="fas fa-check-square"></i> Data-Driven ABM Methodology and Applications]({{ site.baseurl }}/research/data-driven-abm-methodology/)
 
 
