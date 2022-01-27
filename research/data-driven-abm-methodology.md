@@ -10,7 +10,7 @@ permalink: /research/data-driven-abm-methodology/
 
 ### Lead Investigators
 - Hamdi Kavak
-- Jose Padilla
+- Jose Padilla (Advisor)
 
 <br/>
 
@@ -22,7 +22,7 @@ permalink: /research/data-driven-abm-methodology/
 
 <br/>
 
-#### <u>Initial work</u>
+#### <u>Methodology</u>
 We have recently witnessed the proliferation of large-scale behavioral data that can empirically develop agent-based models (ABMs). However,  current practices in agent-based modeling do not offer a structured approach to creating agents or their different computational parts directly from data. This project illustrates an agent-based modeling approach that leverages individual-level data to generate agent behavioral rules and initialize agent attribute values. You will first see a few sketches of this approach below, followed by some related applications.
 
 
