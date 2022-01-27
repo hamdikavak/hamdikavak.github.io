@@ -22,7 +22,7 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 9. Urban life: a model of people and places   
         A. Züfle, C. Wenk, D. Pfoser, C. Crooks, J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, J. Hyunjee,    
-        <em>Computational and Mathematical Organization Theory</em>, 2021, 10.1007/s10588-021-09348-7 
+        <em>Computational and Mathematical Organization Theory</em>, 2021, 10.1007/s10588-021-09348-7  
         [<a title="Paper" href="https://link.springer.com/article/10.1007/s10588-021-09348-7">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2021_urban.bib)]
 
