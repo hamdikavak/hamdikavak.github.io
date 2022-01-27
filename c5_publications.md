@@ -85,7 +85,7 @@ This page shows my relatively up-to-date publication list, links to papers, and 
      M. Lapoff and <strong>H. Kavak</strong> 
      <em>2021 Annual Modeling and Simulation Conference (ANNSIM)</em>, Fairfax, VA, USA (Online), July 19-22, 2021  
      [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/355115037_Towards_a_Verification_and_Validation_Framework_for_COVID-19_Forecast_Models/links/619b13d707be5f31b7a8ad30/Towards-a-Verification-and-Validation-Framework-for-COVID-19-Forecast-Models.pdf)]
-     [[BibTex]({{ site.baseurl }}/download/bibs/2021_generation.bib)]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2021_towards.bib)]
 
 90. Generation of Reusable Synthetic Population and Social Networks for Agent-Based Modeling  
      N. Jiang, <strong>H. Kavak</strong>, W.G. Kennedy, and A. Crooks 
