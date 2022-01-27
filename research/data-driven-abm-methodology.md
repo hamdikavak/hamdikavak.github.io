@@ -42,12 +42,13 @@ We have recently witnessed the proliferation of large-scale behavioral data that
 </div>
 <br/>
 
-#### <u>Earlier studies: Use of Social Media Data in ABMs</u>
+#### <u>Use of Social Media Data in ABMs and Applications</u>
 As a pre-cursor to the data-driven approach, we studied how social media could be used to support agent-based modeling efforts. In the paper cited below (Padilla et al. 2014), three example usages are shown:
-Using large data set processing and sentiment analysis to identify preferences of a population.
-Using agents with machine learning capabilities to learn mobility patterns from individuals' history.
-Identifying preferences and communication patterns based on graph analysis (agent relation).
-The first item in this list was applied in a healthcare-related simulation setting, cited below as Padilla et al. (2015).
+1. Using large data set processing and sentiment analysis to identify preferences of a population.
+2. Using agents with machine learning capabilities to learn mobility patterns from individuals' history.
+3. Identifying preferences and communication patterns based on graph analysis (agent relation).  
+The first item in this list was applied in a healthcare-related simulation setting, cited below as Padilla et al. (2015). 
+Later, a complete version of the approach is formalized, two example applications using different datasets were developed, and the effectiveness of the approach is showcased in Kavak (2019).
 
 <br/>
 

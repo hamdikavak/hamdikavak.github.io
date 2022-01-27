@@ -37,6 +37,7 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 [<i style="color:#888888" class="fas fa-check-square"></i> Data-Driven ABM Methodology and Applications]({{ site.baseurl }}/research/data-driven-abm-methodology/)  
 
 <br/>
+
 <h3 class="hl_DSOnly">Social Media Analytics</h3>
 
 {% include_relative rsc/summary/sm/attraction.html %}
