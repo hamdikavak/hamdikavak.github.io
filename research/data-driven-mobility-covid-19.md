@@ -14,7 +14,7 @@ permalink: /research/data-driven-mobility-covid-19/
 
 <br/>
 
-### Students and Collaborators
+### Student and Senior Collaborators
 - Justin Elarde (GGS undergraduate -> CDS MS student 2020-current)
 - Cecelia M Oneill (GGS undergraduate student - Spring 2021)
 - Joonseok Kim (Postdoctoral researcher 2020-2021)

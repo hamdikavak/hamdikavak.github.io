@@ -149,7 +149,7 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 100. Big Data, Agents, and Machine Learning: towards A Data-Driven Agent-based Modeling Approach  
     <strong>H. Kavak</strong>, J.J. Padilla, C.J. Lynch, and S.Y. Diallo  
     <em>51st Annual Simulation Symposium</em>, Baltimore, MD, April 15-18, 2018, doi: 10.22360/SpringSim.2018.ANSS.021  
-     [<a title="RG Archive" href="https://www.researchgate.net/publication/324941067_Big_Data_Agents_and_Machine_Learning_Towards_a_Data-Driven_Agent-Based_Modeling_Approach">Paper</a>]
+    [<a title="RG Archive" href="https://www.researchgate.net/publication/324941067_Big_Data_Agents_and_Machine_Learning_Towards_a_Data-Driven_Agent-Based_Modeling_Approach">Paper</a>]
     [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2018_data_driven.bib">BibTex</a>]
     
 101. Assessing the Impact of Cyberloafing on Cyber Risk  
