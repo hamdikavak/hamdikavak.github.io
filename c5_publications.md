@@ -28,7 +28,7 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 10. Change of human mobility during COVID-19: A United States case study   
         J. Elarde, J-S. Kim, <strong>H. Kavak</strong>, A. Züfle, T. Anderson   
-        <em>PLOS One</em>, 2021, 10.1371/journal.pone.0259031 
+        <em>PLOS One</em>, 2021, 10.1371/journal.pone.0259031  
         [<a title="Paper" href="http://dx.plos.org/10.1371/journal.pone.0259031">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2021_change.bib)]
 
