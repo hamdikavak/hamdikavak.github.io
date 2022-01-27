@@ -44,7 +44,6 @@ This page shows my relatively up-to-date publication list, links to papers, and 
         [<a title="Paper" href="http://dx.plos.org/10.1371/journal.pone.0232929">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2020_content-analysis.bib)]
 
-
 11. Temporal and Spatiotemporal Investigation of Tourist Attraction Visit Sentiment on Twitter <span style="color: red;">(among the top 10% most cited PLOS ONE papers published in 2018)</span>   
 	    J.J. Padilla, <strong>H. Kavak</strong>, C.J. Lynch, S.Y. Diallo, R.J. Gore,   
 	    <em>PLOS One</em>, 2018, doi:10.1371/journal.pone.0198857  
@@ -145,7 +144,7 @@ This page shows my relatively up-to-date publication list, links to papers, and 
      <strong>H. Kavak</strong>, D. Vernon-Bido and J.J. Padilla   
      <em> SBP-BRIMS Conference 2018</em>, Washington, DC, July 10-13, 2018  
      [<a title="Self-archive" href="{{ site.baseurl }}/download/pubs/home_location_prediction_sbp18.pdf">Paper</a>]
-     [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2019_experimentation.bib">BibTex</a>]
+     [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2018_home_location.bib">BibTex</a>]
      
 100. Big Data, Agents, and Machine Learning: towards A Data-Driven Agent-based Modeling Approach  
     <strong>H. Kavak</strong>, J.J. Padilla, C.J. Lynch, and S.Y. Diallo  
