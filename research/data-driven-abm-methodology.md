@@ -28,30 +28,27 @@ We have recently witnessed the proliferation of large-scale behavioral data that
 
 <div id="dd-gallery">
         
-    <a href="{{ site.baseurl }}/images/research/data_driven_agents/covid/topic_heatmap.png" data-toggle="lightbox" data-gallery="dd-covid-gallery" class="col-sm-4" data-title="Qualitative Analysis of LDA (50 Topics)" data-footer="This visual shows the location and frequency of topic 37 (left) and topic 43 (right).">
-        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/data_driven_agents/covid/topic_heatmap.png" class="img-fluid">
+    <a href="{{ site.baseurl }}/images/research/data_driven_agents/methodology/1approach.png" data-toggle="lightbox" data-gallery="dd-covid-gallery" class="col-sm-4" data-title="Qualitative Analysis of LDA (50 Topics)" data-footer="This visual shows the location and frequency of topic 37 (left) and topic 43 (right).">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/data_driven_agents/methodology/1approach.png" class="img-fluid">
     </a>
-    <a href="{{ site.baseurl }}/images/research/data_driven_agents/covid/infection_prob.png" data-toggle="lightbox" data-gallery="dd-covid-gallery" class="col-sm-4" data-title="Infection Probability" data-footer="How infection probability and number of topics affect disease spread.">
-        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/data_driven_agents/covid/infection_prob.png" class="img-fluid">
+    <a href="{{ site.baseurl }}/images/research/data_driven_agents/methodology/2approach_details.png" data-toggle="lightbox" data-gallery="dd-covid-gallery" class="col-sm-4" data-title="Infection Probability" data-footer="How infection probability and number of topics affect disease spread.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/data_driven_agents/methodology/2approach_details.png" class="img-fluid">
     </a>
-    <a href="{{ site.baseurl }}/images/research/data_driven_agents/covid/generic_quarantine.png" data-toggle="lightbox" data-gallery="dd-covid-gallery" class="col-sm-4" data-title="Generic Quarantine" data-footer="The impact of generic quarantine on disease spread.">
-        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/data_driven_agents/covid/generic_quarantine.png" class="img-fluid">
+    <a href="{{ site.baseurl }}/images/research/data_driven_agents/methodology/3model_selection.png" data-toggle="lightbox" data-gallery="dd-covid-gallery" class="col-sm-4" data-title="Generic Quarantine" data-footer="The impact of generic quarantine on disease spread.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/data_driven_agents/methodology/3model_selection.png" class="img-fluid">
     </a>
-    <a href="{{ site.baseurl }}/images/research/data_driven_agents/covid/poi_closure.png" data-toggle="lightbox" data-gallery="dd-covid-gallery" class="col-sm-4" data-title="Point-of-interest Closure" data-footer="How different point-of-interest closures may impact disease spread.">
-        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/data_driven_agents/covid/poi_closure.png" class="img-fluid">
+    <a href="{{ site.baseurl }}/images/research/data_driven_agents/methodology/4combined.png" data-toggle="lightbox" data-gallery="dd-covid-gallery" class="col-sm-4" data-title="Point-of-interest Closure" data-footer="How different point-of-interest closures may impact disease spread.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/data_driven_agents/methodology/4combined.png" class="img-fluid">
     </a>
-
 </div>
 <br/>
 
-#### <u>Extensions</u>
+#### <u>Applications</u>
 We have created several new versions of the mobility model during the second half of 2021. 
 We have implemented a more refined the LDA mobility model that can learn from SafeGraph data patterns monthly. 
 Our initial version of the model used pre-pandemic SafeGraph data. 
 Also, we have implemented a place density-based disease spread mechanism and updated the timing of the disease according to the latest COVID studies.
 Currently, we are working on running the model for a long period of time and simulate the COVID case number patterns seen in the past.
-
-
 
 
 <br/>
