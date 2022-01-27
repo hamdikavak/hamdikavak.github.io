@@ -56,8 +56,25 @@ Currently, we are working on running the model for a long period of time and sim
 
 ### Publications & Presentations
 
-- <a href="https://dl.acm.org/doi/abs/10.1145/3423455.3430305" target="_blank"> <i class="far fa-file"></i> ARIC'20 Paper</a>
-- 
+- Data-Driven Mobility Models for COVID-19 Simulation  
+  J. Pesavento, A. Chen, R. Yu, J-S. Kim, <strong>H. Kavak</strong>, T. Anderson, and A. Züfle   
+  <em>3rd ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities</em>, Seattle, Washington, USA (Online), November 03-November 06, 2020  
+  [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/347832686_Data-driven_mobility_models_for_COVID-19_simulation/links/61f2d2509a753545e2fe9bbb/Data-driven-mobility-models-for-COVID-19-simulation.pdf)]
+    [[BibTex]({{ site.baseurl }}/download/bibs/2020_data-driven.bib)]
+- COVID-19 ensemble models using representative clustering  
+  J-S Kim, <strong>H. Kavak</strong>, C.O. Rouly, H. Jin, A. Crooks, D. Pfoser, C. Wenk, and A. Züfle
+  SIGSPATIAL Special, Volume 12 Issue 2, doi:10.1145/3431843.3431848  
+  [<a title="Sigspatial Archive" href="https://www.sigspatial.org/wp-content/uploads/special-issues/12/2/Paper4_Kim.pdf">Paper</a>]
+  [[BibTex]({{ site.baseurl }}/download/bibs/2020_covid19_ensemble.bib)]
+- Opportunities and challenges in developing covid-19 simulation models: Lessons from six funded projects  
+  P.J. Giabbanelli, J. Badham, B. Castellani, <strong>H. Kavak</strong>, V. Mago, A. Negahban, and S. Swarup  
+  <em>2021 Annual Modeling and Simulation Conference (ANNSIM)</em>, Fairfax, VA, USA (Online), July 19-22, 2021  
+  [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/355112929_Opportunities_and_Challenges_in_Developing_COVID-19_Simulation_Models_Lessons_from_Six_Funded_Projects/links/61f2d6cc5779d35951da8534/Opportunities-and-Challenges-in-Developing-COVID-19-Simulation-Models-Lessons-from-Six-Funded-Projects.pdf)]
+  [[BibTex]({{ site.baseurl }}/download/bibs/2021_opportunities.bib)]
+- GMU OSCAR Celebration of Success Presentation (Spring 2021)
+  J. Elarde and C. ONeill.
+- GMU College of Science Research Day (Spring 2021)
+  J. Elarde and C. ONeill.
 <br/>
 
 ### Funding
