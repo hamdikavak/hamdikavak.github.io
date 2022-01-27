@@ -71,10 +71,11 @@ Currently, we are working on running the model for a long period of time and sim
   <em>2021 Annual Modeling and Simulation Conference (ANNSIM)</em>, Fairfax, VA, USA (Online), July 19-22, 2021  
   [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/355112929_Opportunities_and_Challenges_in_Developing_COVID-19_Simulation_Models_Lessons_from_Six_Funded_Projects/links/61f2d6cc5779d35951da8534/Opportunities-and-Challenges-in-Developing-COVID-19-Simulation-Models-Lessons-from-Six-Funded-Projects.pdf)]
   [[BibTex]({{ site.baseurl }}/download/bibs/2021_opportunities.bib)]
-- GMU OSCAR Celebration of Success Presentation (Spring 2021)
+- GMU OSCAR Celebration of Success Presentation (Spring 2021).  
   J. Elarde and C. ONeill.
-- GMU College of Science Research Day (Spring 2021)
+- GMU College of Science Research Day (Spring 2021).  
   J. Elarde and C. ONeill.
+
 <br/>
 
 ### Funding
