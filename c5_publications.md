@@ -21,28 +21,28 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 ### Journal Papers
 
 9. Urban life: a model of people and places   
-	    A. Züfle, C. Wenk, D. Pfoser, C. Crooks, J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, J. Hyunjee,    
-	    <em>Computational and Mathematical Organization Theory</em>, 2021, 10.1007/s10588-021-09348-7 
-	    [<a title="Paper" href="https://link.springer.com/article/10.1007/s10588-021-09348-7">Paper</a>]
-	    [BibTeX]
+        A. Züfle, C. Wenk, D. Pfoser, C. Crooks, J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, J. Hyunjee,    
+        <em>Computational and Mathematical Organization Theory</em>, 2021, 10.1007/s10588-021-09348-7 
+        [<a title="Paper" href="https://link.springer.com/article/10.1007/s10588-021-09348-7">Paper</a>]
+        [BibTeX]
 
 10. Change of human mobility during COVID-19: A United States case study   
-	    J. Elarde, J-S. Kim, <strong>H. Kavak</strong>, A. Züfle, T. Anderson   
-	    <em>PLOS One</em>, 2021, 10.1371/journal.pone.0259031 
-	    [<a title="Paper" href="http://dx.plos.org/10.1371/journal.pone.0259031">Paper</a>]
-	    [BibTeX]
+        J. Elarde, J-S. Kim, <strong>H. Kavak</strong>, A. Züfle, T. Anderson   
+        <em>PLOS One</em>, 2021, 10.1371/journal.pone.0259031 
+        [<a title="Paper" href="http://dx.plos.org/10.1371/journal.pone.0259031">Paper</a>]
+        [BibTeX]
 
-9. Simulation for Cybersecurity: State of the Art and Future Directions   
-	    <strong>H. Kavak</strong>, J.J. Padilla, D. Vernon-Bido, S.Y. Diallo, R.J. Gore, S. Shetty  
-	    <em>Journal of Cybersecurity</em>, 2021, doi:10.1093/cybsec/tyab005 
-	    [<a title="Paper" href="https://academic.oup.com/cybersecurity/article/7/1/tyab005/6170701">Paper</a>]
-	    [BibTeX]
+11. Simulation for Cybersecurity: State of the Art and Future Directions   
+         <strong>H. Kavak</strong>, J.J. Padilla, D. Vernon-Bido, S.Y. Diallo, R.J. Gore, S. Shetty  
+         <em>Journal of Cybersecurity</em>, 2021, doi:10.1093/cybsec/tyab005
+         [<a title="Paper" href="https://academic.oup.com/cybersecurity/article/7/1/tyab005/6170701">Paper</a>]
+         [BibTeX]
 
-10. A content analysis-based approach to explore simulation verification and identify its current challenges   
-	    C.J. Lynch, S.Y. Diallo, <strong>H. Kavak</strong>, J.J. Padilla   
-	    <em>PLOS One</em>, 2020, doi:10.1371/journal.pone.0232929  
-	    [<a title="Paper" href="http://dx.plos.org/10.1371/journal.pone.0232929">Paper</a>]
-	    [BibTeX]
+12. A content analysis-based approach to explore simulation verification and identify its current challenges   
+        C.J. Lynch, S.Y. Diallo, <strong>H. Kavak</strong>, J.J. Padilla   
+        <em>PLOS One</em>, 2020, doi:10.1371/journal.pone.0232929  
+        [<a title="Paper" href="http://dx.plos.org/10.1371/journal.pone.0232929">Paper</a>]
+        [BibTeX]
 
 
 11. Temporal and Spatiotemporal Investigation of Tourist Attraction Visit Sentiment on Twitter <span style="color: red;">(among the top 10% most cited PLOS ONE papers published in 2018)</span>   
@@ -90,7 +90,7 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 90. Generation of Reusable Synthetic Population and Social Networks for Agent-Based Modeling  
      N. Jiang, <strong>H. Kavak</strong>, W.G. Kennedy, and A. Crooks 
      <em>2021 Annual Modeling and Simulation Conference (ANNSIM)</em>, Fairfax, VA, USA (Online), July 19-22, 2021  
-     [[Paper]https://www.researchgate.net/profile/Na-Jiang-9/publication/353979890_Generation_of_Reusable_Synthetic_Population_and_Social_Networks_for_Agent-Based_Modeling/links/611d238c169a1a01030d38c1/Generation-of-Reusable-Synthetic-Population-and-Social-Networks-for-Agent-Based-Modeling.pdf]
+     [[Paper](https://www.researchgate.net/profile/Na-Jiang-9/publication/353979890_Generation_of_Reusable_Synthetic_Population_and_Social_Networks_for_Agent-Based_Modeling/links/611d238c169a1a01030d38c1/Generation-of-Reusable-Synthetic-Population-and-Social-Networks-for-Agent-Based-Modeling.pdf)]
      [[BibTex]({{ site.baseurl }}/download/bibs/2021_generation.bib)]
 
 91. Opportunities and challenges in developing covid-19 simulation models: Lessons from six funded projects  
