@@ -78,38 +78,38 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 88. Spatiotemporal Prediction of Foot Traffic  
      S. Islam, D. Gandhi, J. Elarde, T. Anderson, A. Roess, T.F. Leslie, <strong>H. Kavak</strong>, and A. Züfle   
      <em>5th ACM SIGSPATIAL International Workshop on Location-Based Recommendations, Geosocial Networks, and Geoadvertising</em>, Seattle, Washington, USA (Online), November 2-5, 2021  
-     [Paper TBA]
-     [BibTex TBA]
+     [[Paper](https://dl.acm.org/doi/pdf/10.1145/3486183.3490997)]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2021_spatiotemporal.bib)]
 
 89. Towards a Verification and Validation Framework for COVID-19 Forecast Models.  
      M. Lapoff and <strong>H. Kavak</strong> 
      <em>2021 Annual Modeling and Simulation Conference (ANNSIM)</em>, Fairfax, VA, USA (Online), July 19-22, 2021  
-     [Paper TBA]
-     [BibTex TBA]
+     [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/355115037_Towards_a_Verification_and_Validation_Framework_for_COVID-19_Forecast_Models/links/619b13d707be5f31b7a8ad30/Towards-a-Verification-and-Validation-Framework-for-COVID-19-Forecast-Models.pdf)]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2021_generation.bib)]
 
 90. Generation of Reusable Synthetic Population and Social Networks for Agent-Based Modeling  
      N. Jiang, <strong>H. Kavak</strong>, W.G. Kennedy, and A. Crooks 
      <em>2021 Annual Modeling and Simulation Conference (ANNSIM)</em>, Fairfax, VA, USA (Online), July 19-22, 2021  
-     [Paper TBA]
-     [BibTex TBA]
+     [[Paper]https://www.researchgate.net/profile/Na-Jiang-9/publication/353979890_Generation_of_Reusable_Synthetic_Population_and_Social_Networks_for_Agent-Based_Modeling/links/611d238c169a1a01030d38c1/Generation-of-Reusable-Synthetic-Population-and-Social-Networks-for-Agent-Based-Modeling.pdf]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2021_generation.bib)]
 
 91. Opportunities and challenges in developing covid-19 simulation models: Lessons from six funded projects  
      P.J. Giabbanelli, J. Badham, B. Castellani, <strong>H. Kavak</strong>, V. Mago, A. Negahban, and S. Swarup  
      <em>2021 Annual Modeling and Simulation Conference (ANNSIM)</em>, Fairfax, VA, USA (Online), July 19-22, 2021  
-     [Paper TBA]
-     [BibTex TBA]
+     [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/355112929_Opportunities_and_Challenges_in_Developing_COVID-19_Simulation_Models_Lessons_from_Six_Funded_Projects/links/61f2d6cc5779d35951da8534/Opportunities-and-Challenges-in-Developing-COVID-19-Simulation-Models-Lessons-from-Six-Funded-Projects.pdf)]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2021_opportunities.bib)]
 
 92. Towards Large-Scale Agent-Based Geospatial Simulation  
      U. Manzoor, <strong>H. Kavak</strong>, J-S. Kim, A. Crooks, D. Pfoser, A. Züfle, and C. Wenk  
      <em>2021 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</em>, Washington, DC, USA (Online), July 6-9, 2021  
-     [Paper TBA]
-     [BibTex TBA]
+     [[Paper](https://www.researchgate.net/profile/Andrew-Crooks/publication/353043879_Towards_Large-Scale_Agent-Based_Geospatial_Simulation/links/60e5cd6b1c28af345850bdf5/Towards-Large-Scale-Agent-Based-Geospatial-Simulation.pdf)]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2021_towards.bib)]
 
 93. Data-Driven Mobility Models for COVID-19 Simulation  
      J. Pesavento, A. Chen, R. Yu, J-S. Kim, <strong>H. Kavak</strong>, T. Anderson, and A. Züfle   
      <em>3rd ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities</em>, Seattle, Washington, USA (Online), November 03-November 06, 2020  
-     [Paper TBA]
-     [BibTex TBA]
+    [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/347832686_Data-driven_mobility_models_for_COVID-19_simulation/links/61f2d2509a753545e2fe9bbb/Data-driven-mobility-models-for-COVID-19-simulation.pdf)]
+    [[BibTex]({{ site.baseurl }}/download/bibs/2020_data-driven.bib)]
 
 94. Location-Based Social Network Data Generation Based on Patterns of Life <span style="color: red;">(~23% full paper acceptance rate)</span>  
      J-S. Kim, H. Jin, <strong>H. Kavak</strong>, O.C. Rouly, A. Crooks, D. Pfoser, C. Wenk and A. Züfle   
