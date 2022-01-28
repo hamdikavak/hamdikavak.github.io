@@ -45,6 +45,7 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 
 <br/>    
 <h3 class="hl_MSOnly">Modeling and Simulation of Human and Technological Systems</h3>
+[<i style="color:#888888" class="fas fa-check-square"></i> DARPA Urban Life Model]({{ site.baseurl }}/research/modeling-and-simulation-darpa-urban-life/)  
 
 
 <br/>
