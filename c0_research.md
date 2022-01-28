@@ -43,6 +43,10 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 [<i style="color:#888888" class="fas fa-check-square"></i> Predicting People's Home Location From Sparse Footprints]({{ site.baseurl }}/research/social-media-home-location-prediction/)  
 [<i style="color:#888888" class="fas fa-check-square"></i> Ever wondered how tourists feel in their attraction visits?]({{ site.baseurl }}/research/social-media-attraction-visit-sentiment/)  
 
+<br/>    
+<h3 class="hl_MSOnly">Modeling and Simulation of Human and Technological Systems</h3>
+
+
 <br/>
 <h3 class="hl_DSForMS">Simulation Data Analytics</h3>
 {% include_relative rsc/summary/simda/pol.html %}
