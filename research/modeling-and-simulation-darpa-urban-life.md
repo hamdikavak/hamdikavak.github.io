@@ -31,8 +31,7 @@ permalink: /research/modeling-and-simulation-darpa-urban-life/
 
 
 #### <u>Summary</u>
-This project.
-
+This project has generated several agent-based urban social models for DARPA's Ground Truth program. The original model aimed to simulate a small town's patterns of life model based on the population's needs and showcased how such needs can impact social constructs. We have created several different versions of the model and published papers contributing to different aspects of modeling & simulation, and data science aspects. If interested, check the Züfle et al. (2021) paper below, which is published in Computational and Mathematical Organization Theory.
 <br/>
 
 

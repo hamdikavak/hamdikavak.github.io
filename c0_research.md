@@ -44,7 +44,7 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 [<i style="color:#888888" class="fas fa-check-square"></i> Ever wondered how tourists feel in their attraction visits?]({{ site.baseurl }}/research/social-media-attraction-visit-sentiment/)  
 
 <br/>    
-<h3 class="hl_MSOnly">Modeling and Simulation of Human and Technological Systems</h3>
+<h3 class="hl_MSOnly">Modeling and Simulation of Social Systems</h3>
 [<i style="color:#888888" class="fas fa-check-square"></i> DARPA Urban Life Model]({{ site.baseurl }}/research/modeling-and-simulation-darpa-urban-life/)  
 
 
