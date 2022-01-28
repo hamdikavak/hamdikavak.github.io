@@ -39,7 +39,7 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 <br/>
 
 <h3 class="hl_DSOnly">Social Media Analytics</h3>
-[<i style="color:#008500" class="fas fa-plus-square"></i> Untangling Anti-American Misinformation/Disinformation Efforts from Social and Mass Media]({{ site.baseurl }}/research/social-media-misinformation/)
+[<i style="color:#008500" class="fas fa-plus-square"></i> Anti-American Misinformation/Disinformation Efforts in Social and Mass Media]({{ site.baseurl }}/research/social-media-misinformation/)
 
 
 

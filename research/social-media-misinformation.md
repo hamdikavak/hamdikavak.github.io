@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Untangling Anti-American Misinformation/Disinformation Efforts from Social and Mass Media
+title: Anti-American Misinformation/Disinformation Efforts in Social and Mass Media
 permalink: /research/social-media-misinformation/
 ---
 
