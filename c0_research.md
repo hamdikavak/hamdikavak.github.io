@@ -40,13 +40,8 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 
 <h3 class="hl_DSOnly">Social Media Analytics</h3>
 [<i style="color:#008500" class="fas fa-plus-square"></i> Anti-American Misinformation/Disinformation Efforts in Social and Mass Media]({{ site.baseurl }}/research/social-media-misinformation/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> Predicting People's Home Location From Sparse Footprints]({{ site.baseurl }}/research/social-media-home-location-prediction/)
-
-
-
-{% include_relative rsc/summary/sm/attraction.html %}
-{% include_relative rsc/summary/sm/home-prediction.html %}
-{% include_relative rsc/summary/sm/mobility.html %}
+[<i style="color:#888888" class="fas fa-check-square"></i> Predicting People's Home Location From Sparse Footprints]({{ site.baseurl }}/research/social-media-home-location-prediction/)  
+[<i style="color:#888888" class="fas fa-check-square"></i> Ever wondered how tourists feel in their attraction visits?]({{ site.baseurl }}/research/social-media-attraction-visit-sentiment/)  
 
 <br/>
 <h3 class="hl_DSForMS">Simulation Data Analytics</h3>

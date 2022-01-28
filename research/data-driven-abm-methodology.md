@@ -15,10 +15,10 @@ permalink: /research/data-driven-abm-methodology/
 <br/>
 
 ### Student and Senior Collaborators
-- Saikou Diallo (Collaborator Professor 2014-2018)
-- Christopher Lynch (Collaborator Student 2014-2018)
-- Olcay Sahin (Collaborator Student 2013-2014)
-- Brit Nicholson (Collaborator Student 2013-2014)
+- Saikou Diallo (Collaborator faculty 2014-2018)
+- Christopher Lynch (Collaborator student 2014-2018)
+- Olcay Sahin (Collaborator student 2013-2014)
+- Brit Nicholson (Collaborator student 2013-2014)
 
 <br/>
 

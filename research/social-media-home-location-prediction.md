@@ -14,7 +14,7 @@ permalink: /research/social-media-home-location-prediction/
 <br/>
 
 ### Student and Senior Collaborators
-- Daniele Vernon-Bido (Collaborator Student 2017-2018)
+- Daniele Vernon-Bido (Collaborator student 2017-2018)
 
 <br/>
 
