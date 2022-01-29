@@ -101,4 +101,4 @@ Later, a complete version of the approach is formalized, two example application
 	    animateThumb: true,
 	    showThumbByDefault: true
 	}); 
-	</script>
+</script>
