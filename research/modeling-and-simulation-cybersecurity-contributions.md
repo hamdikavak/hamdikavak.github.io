@@ -50,9 +50,12 @@ Two papers (Kavak et al. 2016 & Kavak et al. 2021) referenced below reviewed the
 		</a>
 </div>
 
-#### <u>Wi-Fi Malware Spread</u>
+<br/>
 
-  <div id="wifi-gallery">
+#### <u>Wi-Fi Malware Spread</u>
+This study (Kavak et al. 2016) revisited an existing Wi-Fi malware spread model with current Wi-Fi router data from WiGLE.net with a refined data selection method. Despite ≈88% WPA adoption rate, we found a rapid malware spread occurring in a week and infecting ≈34% of all insecure routers (≈5.4% of all) after two weeks. This result is significantly higher than the original study projection. It occurs due to the increased use of Wi-Fi routers, causing a more tightly connected graph. We argue that this projected risk can increase, especially when zero-day vulnerabilities are found. Ultimately, thorough consideration is needed to assess cybersecurity risks in the Wi-Fi ecosystem and evaluate interventions to stop digital epidemics.
+  
+div id="wifi-gallery">
 
 		<a href="{{ site.baseurl }}/images/research/data_driven_agents/wifi/transition.png" data-toggle="lightbox" data-gallery="wifi-gallery" class="col-sm-4" data-title="Transitions" data-footer="This visual shows possible health state transitions of Wi-Fi router agents.">
 		    <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/data_driven_agents/wifi/transition.png" class="img-fluid">
