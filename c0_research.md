@@ -49,6 +49,11 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 [<i style="color:#888888" class="fas fa-check-square"></i> How Modelers Develop Models?]({{ site.baseurl }}/research/modeling-and-simulation-modeler/)  
 [<i style="color:#888888" class="fas fa-check-square"></i> Contributions to Simulation of Cybersecurity]({{ site.baseurl }}/research/modeling-and-simulation-cybersecurity-contributions/)  
 
+<br/>    
+<h3 class="hl_MSOnly">Verification and Validation</h3>
+[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Verification and Validation Framework for COVID-19 Models]({{ site.baseurl }}/research/data-driven-mobility-covid-19/)  
+
+
 
 
 <br/>
