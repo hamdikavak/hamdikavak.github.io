@@ -28,17 +28,16 @@ permalink: /research/modeling-and-simulation-modeler/
 #### <u>Summary</u>
 This project investigates how CLOUDES' users develop their discrete-event simulation models. We automatically collected dozens of user actions and gained insights into the model-building process. Not surprisingly, beginner-level users use more blocks/edges and make more build errors than intermediate-level users. When examining the users with higher expertise, we note differences related to time spent in the tool, which could be linked to user engagement. The model running failure of beginner-level users may suggest a trial and error approach to building a model rather than an established process. Our project opens a critical line of inquiry focused on user engagement instead of process establishment, which is the current focus in the community.
 
-
 <div id="modeler-gallery">
 
-    <a href="{{ site.baseurl }}/images/research/m-and-s/1modeler-cloudes-interface.png" data-toggle="lightbox" data-gallery="modeler-gallery" class="col-sm-4" data-title="CLOUDES Interace" data-footer="Visual interface of CLOUDES.">
-        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/m-and-s/1modeler-cloudes-interface.png" class="img-fluid">
+    <a href="{{ site.baseurl }}/images/research/m-and-s/modeler/1cloudes-interface.png" data-toggle="lightbox" data-gallery="modeler-gallery" class="col-sm-4" data-title="CLOUDES Interace" data-footer="Visual interface of CLOUDES.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/m-and-s/modeler/1cloudes-interface.png" class="img-fluid">
     </a>
-    <a href="{{ site.baseurl }}/images/research/m-and-s/2modeler-sim-per-user.png" data-toggle="lightbox" data-gallery="modeler-gallery" class="col-sm-4" data-title="Simulation per user distribution" data-footer="Simulation per user distribution.">
-        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/m-and-s/2modeler-sim-per-user.png" class="img-fluid">
+    <a href="{{ site.baseurl }}/images/research/m-and-s/modeler/2sim-per-user.png" data-toggle="lightbox" data-gallery="modeler-gallery" class="col-sm-4" data-title="Simulation per user distribution" data-footer="Simulation per user distribution.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/m-and-s/modeler/2sim-per-user.png" class="img-fluid">
     </a>
-    <a href="{{ site.baseurl }}/images/research/m-and-s/3modeler-sim-activity.png" data-toggle="lightbox" data-gallery="modeler-gallery" class="col-sm-4" data-title="Data columns" data-footer="Data columns">
-        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/m-and-s/3modeler-sim-activity.png" class="img-fluid">
+    <a href="{{ site.baseurl }}/images/research/m-and-s/modeler/3sim-activity.png" data-toggle="lightbox" data-gallery="modeler-gallery" class="col-sm-4" data-title="Data columns" data-footer="Data columns">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/m-and-s/modeler/3sim-activity.png" class="img-fluid">
     </a>
 </div>
 <br/>

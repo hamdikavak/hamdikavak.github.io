@@ -28,10 +28,31 @@ permalink: /research/modeling-and-simulation-cybersecurity-contributions/
 
 
 #### <u>Summary</u>
-This project investigates how CLOUDES' users develop their discrete-event simulation models. We automatically collected dozens of user actions and gained insights into the model-building process. Not surprisingly, beginner-level users use more blocks/edges and make more build errors than intermediate-level users. When examining the users with higher expertise, we note differences related to time spent in the tool, which could be linked to user engagement. The model running failure of beginner-level users may suggest a trial and error approach to building a model rather than an established process. Our project opens a critical line of inquiry focused on user engagement instead of process establishment, which is the current focus in the community.
+Several studies were conducted as part of this project funded by The Office of the Assistant Secretary of Defense for Research and Engineering. These studies investigated the use of modeling and simulation in cybersecurity. Three notable contributions are as follows:
 
+#### <u>Simulation for Cybersecurity</u>
 
-  <div id="dd1-gallery">
+Two papers (Kavak et al. 2016 & Kavak et al. 2021) referenced below reviewed the literature to illustrate what modeling and simulation contributions have been made in the cybersecurity domain and what future directions look viable. The current role that simulation plays in cybersecurity: (1) representative environment building, (2) testing, evaluating, and exploring, (3) training and exercises, (4) risk analysis and assessment, and (5) humans in cybersecurity research. For the future, the advancement of collecting and accessing socio-technological data to inform models, the creation of new theoretical constructs, and the integration and improvement of behavioral models are needed to advance cybersecurity efforts.
+
+<div id="review-gallery">
+
+		<a href="{{ site.baseurl }}/images/research/m-and-s/cyber-review/1cybersecurity-characterization.png" data-toggle="lightbox" data-gallery="review-gallery" class="col-sm-4" data-title="Transitions" data-footer="This visual shows possible health state transitions of Wi-Fi router agents.">
+		    <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/m-and-s/cyber-review/1cybersecurity-characterization.png" class="img-fluid">
+		</a>
+		<a href="{{ site.baseurl }}/images/research/m-and-s/cyber-review/2research-areas.png" data-toggle="lightbox" data-gallery="review-gallery" class="col-sm-4" data-title="WIGLE Data" data-footer="An example WiGLE record.">
+		    <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/m-and-s/cyber-review/2research-areas.png" class="img-fluid">
+		</a>
+		<a href="{{ site.baseurl }}/images/research/m-and-s/cyber-review/3survey-table1.png" data-toggle="lightbox" data-gallery="review-gallery" class="col-sm-4" data-title="Results" data-footer="Simulation results at a glance. A. Snapshots from the spread of the malware at different points in time, taken from one simulation run. B. A time series graph showing the attack rate using multiple simulation runs. C. Final infection rates of different susceptible classes of agents as the average of multiple simulation runs.">
+		    <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/m-and-s/cyber-review/3survey-table1.png" class="img-fluid">
+		</a>
+		<a href="{{ site.baseurl }}/images/research/m-and-s/cyber-review/3survey-table1.png" data-toggle="lightbox" data-gallery="review-gallery" class="col-sm-4" data-title="Results" data-footer="Simulation results at a glance. A. Snapshots from the spread of the malware at different points in time, taken from one simulation run. B. A time series graph showing the attack rate using multiple simulation runs. C. Final infection rates of different susceptible classes of agents as the average of multiple simulation runs.">
+		    <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/m-and-s/cyber-review/3survey-table2.png" class="img-fluid">
+		</a>
+</div>
+
+#### <u>Wi-Fi Malware Spread</u>
+
+  <div id="wifi-gallery">
 
 		<a href="{{ site.baseurl }}/images/research/data_driven_agents/wifi/transition.png" data-toggle="lightbox" data-gallery="wifi-gallery" class="col-sm-4" data-title="Transitions" data-footer="This visual shows possible health state transitions of Wi-Fi router agents.">
 		    <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/data_driven_agents/wifi/transition.png" class="img-fluid">
@@ -74,13 +95,23 @@ This project investigates how CLOUDES' users develop their discrete-event simula
   [<a title="RG Archive" href="https://www.researchgate.net/publication/299820368_A_Characterization_of_Cybersecurity_Simulation_Scenarios">Paper</a>]
   [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2016_scenario.bib">BibTex</a>]
 
+<br/>
 
+### Funding
+- The Office of the Assistant Secretary of Defense for Research and Engineering (OASD(R&E)) under agreement number
+  FAB750-15-2-0120.
 
 <hr/>
 
 *Last updated on Jan 29, 2022.*  
 <script>
-	  lightGallery(document.getElementById('dd1-gallery'), {
+	  lightGallery(document.getElementById('wifi-gallery'), {
+	    thumbnail:true,
+	    animateThumb: true,
+	    showThumbByDefault: true
+	}); 
+
+  lightGallery(document.getElementById('review-gallery'), {
 	    thumbnail:true,
 	    animateThumb: true,
 	    showThumbByDefault: true
