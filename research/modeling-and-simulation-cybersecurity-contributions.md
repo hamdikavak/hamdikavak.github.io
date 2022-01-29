@@ -114,15 +114,16 @@ This study (Vernon-Bido et al. 2016) explores the impact of attack success rate 
 
 *Last updated on Jan 29, 2022.*  
 <script>
-	  lightGallery(document.getElementById('wifi-gallery'), {
+
+lightGallery(document.getElementById('review-gallery'), {
 	    thumbnail:true,
 	    animateThumb: true,
 	    showThumbByDefault: true
 	}); 
 
-  lightGallery(document.getElementById('review-gallery'), {
+	  lightGallery(document.getElementById('wifi-gallery'), {
 	    thumbnail:true,
 	    animateThumb: true,
 	    showThumbByDefault: true
 	}); 
-	</script>
+</script>
