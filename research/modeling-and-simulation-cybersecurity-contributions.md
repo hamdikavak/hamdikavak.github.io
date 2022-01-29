@@ -26,8 +26,8 @@ permalink: /research/modeling-and-simulation-cybersecurity-contributions/
 
 <br/>
 
+### Summary
 
-#### <u>Summary</u>
 Several studies were conducted as part of this project funded by The Office of the Assistant Secretary of Defense for Research and Engineering. These studies investigated the use of modeling and simulation in cybersecurity. Three notable contributions are as follows:
 
 #### <u>Simulation for Cybersecurity</u>
