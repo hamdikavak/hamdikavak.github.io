@@ -31,7 +31,7 @@ This page summarizes some contributions to the verification and validation of si
 
 Verification and validation (V&amp;V) techniques commonly require modelers to collect and statistically analyze large amounts of data which require specific methods for ordering, filtering, or converting data points. Modelers need simple, intuitive, and efficient techniques for gaining insight into unexpected behaviors to help in determining if these behaviors are errors or if they are artifacts resulting from the model's specifications. We present an approach to begin addressing this need by applying heat maps and spatial plots to visually observe unexpected behaviors within agent-based models. Our approach requires the modeler to specify hypotheses about expected model behavior. Agent level outputs of interest are then used to create graphical displays to visually test the hypotheses. Visual identification of unexpected behaviors can direct focus for additional V&amp;V efforts and inform the selection process of follow-on V&amp;V techniques. We apply our approach to a model of obesity.
 
-   <div id="simda1-gallery">
+   <div id="vv-cont-gallery">
     <a href="{{ site.baseurl }}/images/research/v-and-v/heatmap/hm_methodology.jpg" data-toggle="lightbox" data-gallery="attraction-gallery" class="col-sm-4" data-title="Methodology" data-footer="Methodology for visually identifying unexpected behaviors of ABMs to gather insight">
         <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/v-and-v/heatmap/hm_methodology.jpg" class="img-fluid">
     </a>
@@ -69,7 +69,7 @@ Verification and validation (V&amp;V) techniques commonly require modelers to co
 *Last updated on Jan 29, 2022.*  
 
 <script>
-	  lightGallery(document.getElementById('simda1-gallery'), {
+	  lightGallery(document.getElementById('vv-cont-gallery'), {
 	    thumbnail:true,
 	    animateThumb: true,
 	    showThumbByDefault: true
