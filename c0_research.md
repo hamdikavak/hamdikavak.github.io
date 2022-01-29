@@ -47,6 +47,8 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 <h3 class="hl_MSOnly">Modeling and Simulation of Social Systems</h3>
 [<i style="color:#888888" class="fas fa-check-square"></i> DARPA Urban Life Model]({{ site.baseurl }}/research/modeling-and-simulation-darpa-urban-life/)  
 [<i style="color:#888888" class="fas fa-check-square"></i> How Modelers Develop Models?]({{ site.baseurl }}/research/modeling-and-simulation-modeler/)  
+[<i style="color:#888888" class="fas fa-check-square"></i> Contributions to Simulation of Cybersecurity]({{ site.baseurl }}/research/modeling-and-simulation-cybersecurity-contributions/)  
+
 
 
 <br/>
