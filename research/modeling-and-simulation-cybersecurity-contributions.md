@@ -70,6 +70,12 @@ div id="wifi-gallery">
 
 <br/>
 
+#### <u>Modeling Cyber Attackers</u>
+This study (Vernon-Bido et al. 2016) explores the impact of attack success rate and social learning on becoming a cyber attacker. An agent-based model is used to depict the effect of interactions of users and attacks of all users, successful and unsuccessful, have on an individual's decision to become an attacker. The model utilizes rational choice theory, routine activity theory, social learning theory, and perceived behavioral control from the theory of planned behavior to examine factors that move an individual from user to attacker. The model suggests that opportunity has a stronger influence than the rate of successful attacks or the size of the associated group.
+
+
+<br/>
+
 ### Publications & Presentations
 
 - Simulation for Cybersecurity: State of the Art and Future Directions   
