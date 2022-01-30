@@ -60,15 +60,15 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Foot Traffic Prediction]({{ site.baseurl }}/research/human-mobility-foot-traffic/)  
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Change of Human Mobility During COVID-19]({{ site.baseurl }}/research/human-mobility-change-during-covid-19/)
 
+<br/> 
 <h3 class="hl_DSForMS">Simulation Data and Analytics</h3>
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Reusable Synthetic Population Data]({{ site.baseurl }}/research/simulation-data-analytics-reusable-synthetic-population/)  
 
 
 <br/>
 ## Past/Completed Research Projects
-
-{% include_relative rsc/summary/past/cloudes.html %}
-{% include_relative rsc/summary/past/mscube.html %}
+[<i style="color:#888888" class="fas fa-check-square"></i> CLOUDES]({{ site.baseurl }}/research/cloudes/)
+[<i style="color:#888888" class="fas fa-check-square"></i> M&amp;S Cube]({{ site.baseurl }}/research/ms-cube/)
     
 ### Web-based simulations and tools
 <p>Here some simulations written in JavaScript.</p>
@@ -77,34 +77,3 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 <li>Flocking Simulation: <a href="{{ site.baseurl }}/sims/flocking/">Demo</a> &#8211; <a href="https://github.com/hamdikavak/flocking-simulation">Source Code</a></li>
 <li>Google Maps Polygon Extraction Tool: <a href="{{ site.baseurl }}/rsc/demo/maps-api-polygon/">Demo</a> </li>
 </ul>
-
-  <script>
-	// Listen for click on the document
-	document.addEventListener('click', function (event) {
-	  
-	  //Bail if our clicked element doesn't have the class
-	  if (!event.target.classList.contains('accordion-toggle')) return;
-	  
-	  // Get the target content
-	  var content = document.querySelector(event.target.hash);
-	  if (!content) return;
-	  
-	  // Prevent default link behavior
-	  event.preventDefault();
-	  
-	  // If the content is already expanded, collapse it and quit
-	  if (content.classList.contains('active')) {
-	    content.classList.remove('active');
-	    return;
-	  }
-	  
-	  // Get all open accordion content, loop through it, and close it
-	  var accordions = document.querySelectorAll('.accordion-content.active');
-	  for (var i = 0; i < accordions.length; i++) {
-	    accordions[i].classList.remove('active');
-	  }
-	  
-	  // Toggle our content
-	  content.classList.toggle('active');
-	})
-  </script>
