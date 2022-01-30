@@ -2,7 +2,6 @@
 layout: page
 title: Summer_2021
 permalink: /research-stip-assip-2021/
-nav: yes
 ---
 
 
