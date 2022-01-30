@@ -32,7 +32,7 @@ permalink: /research/human-mobility-foot-traffic/
 #### <u>Initial Work</u>
 This project aims to predict future foot traffic: the number of people from each census block group (CBG) that will visit each POI of a study region with potential applications in marketing and advertising. Specifically, we explore different techniques to predict weekly foot traffic data at the POI level. We propose a collaborative filtering approach using tensor factorization, which provides a de-noised estimation of visits in previous weeks for all POI-CBG pairs. Using this tensor, we explore various time series prediction models: weekly rolling average, weighted weekly rolling average, univariate linear regression, polynomial regression, and long short-term memory (LSTM) recurrent neural networks. Our initial results show that collaborative filtering consistently improves the prediction results of all the prediction models. We also found that a simple weighted average always performed better than the more sophisticated approaches. Given this abundance of foot traffic data, this result shows that we can improve the spatiotemporal prediction of foot traffic data by harnessing collaborative filtering.
 
-#### <u>Summary</u>
+#### <u>Extensions</u>
 Currently, we are improving the validation of the initial results and try to extend the study to other regions.
 
 <br/>
