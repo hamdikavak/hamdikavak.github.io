@@ -94,7 +94,7 @@ The verification and validation of Agent-based Models (ABMs) is challenging. The
 
 <hr/>
 
-*Last updated on Jan 29, 2022.*  
+*Last updated on Jan 30, 2022.*  
 
 <script>
 	  lightGallery(document.getElementById('vv-cont-gallery'), {
