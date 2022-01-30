@@ -60,7 +60,6 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 <h3 class="hl_DSForMS">Simulation Data Analytics</h3>
 {% include_relative rsc/summary/simda/pol.html %}
 {% include_relative rsc/summary/simda/vv.html %}
-{% include_relative rsc/summary/simda/heatmap.html %}
 
 <br/>    
 <h3 class="hl_MSOnly">Simulation of Cybersecurity</h3>
