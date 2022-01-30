@@ -23,7 +23,7 @@ My research involves two related areas: Modeling & Simulation (M&S) and Data Sci
 ![M&S and Data Science]({{ site.baseurl }}/images/pages/research_area_small.png)  
 
 <br/>
-Here is a list of research projects that I am involved as a participant, mentor, or lead and are highlighted according to the schema colors above. Click on the title to see the details.
+Here is a list of research projects that I am/was involved as a participant, mentor, or lead and are highlighted according to the schema colors above. Click on the title to see the details.
 
 Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp; 
  <i style="color:#FE7B0E" class="fas fa-sync-alt"></i> ongoing &nbsp;&nbsp;
@@ -55,24 +55,16 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Verification and Validation as a Service]({{ site.baseurl }}/research/verification-and-validation-service/)  
 [<i style="color:#888888" class="fas fa-check-square"></i> Methodological Contributions to Simulation Verification and Validation (Pre 2021)]({{ site.baseurl }}/research/verification-and-validation-pre2021/)
 
-
-<br/>
-<h3 class="hl_DSForMS">Simulation Data Analytics</h3>
-{% include_relative rsc/summary/simda/pol.html %}
-{% include_relative rsc/summary/simda/vv.html %}
-
 <br/>    
-<h3 class="hl_MSOnly">Simulation of Cybersecurity</h3>
+<h3 class="hl_DSOnly">Human Mobility Prediction and Analysis</h3>
+[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Foot Traffic Prediction]({{ site.baseurl }}/research/human-mobility-foot-traffic/)  
+[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Change of Human Mobility During COVID-19]({{ site.baseurl }}/research/human-mobility-change-during-covid-19/)
 
-<ol>
-	<li>Current Status and Future Challenges</li>
-	<li>Assessing the Impact of Cyberloafing on Cyber Risk</li>
-	<li>Towards Modeling Factors that Enable an Attacker</li>
-	<li>A characterization of cybersecurity simulation scenarios</li>
-</ol>
+
+
 
 <br/>
-## Past Research Projects
+## Past/Completed Research Projects
 
 {% include_relative rsc/summary/past/cloudes.html %}
 {% include_relative rsc/summary/past/mscube.html %}
