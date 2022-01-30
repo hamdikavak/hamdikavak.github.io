@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Verification and Validation Methodological Contributions (Pre 2021)
-permalink: /research/verification-and-validation-methodological-contributions-pre2021/
+permalink: /research/verification-and-validation-pre2021/
 ---
 
 ## {{page.title}}
