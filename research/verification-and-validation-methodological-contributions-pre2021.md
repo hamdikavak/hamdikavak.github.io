@@ -5,6 +5,7 @@ permalink: /research/verification-and-validation-methodological-contributions-pr
 ---
 
 ## {{page.title}}
+
 <hr/>
 
 ### Contributors

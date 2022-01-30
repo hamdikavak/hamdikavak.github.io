@@ -54,9 +54,7 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Verification and Validation Framework for COVID-19 Models]({{ site.baseurl }}/research/verification-and-validation-covid-models/)  
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> The Future of Agent-Based Model Verification and Validation]({{ site.baseurl }}/research/verification-and-validation-future-abm/)  
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Verification and Validation as a Service]({{ site.baseurl }}/research/verification-and-validation-service/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> Methodological Contributions to Simulation Verification and Validation (Pre 2021)]({{ site.baseurl }}/research/verification-and-validation-methodological-contributions-pre2021/)  
-
-
+[<i style="color:#888888" class="fas fa-check-square"></i> Methodological Contributions to Simulation Verification and Validation (Pre 2021)]({{ site.baseurl }}/research/verification-and-validation-methodological-contributions-pre2021/)
 
 
 <br/>
