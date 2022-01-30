@@ -46,6 +46,33 @@ Verification and validation (V&amp;V) techniques commonly require modelers to co
 
 <br/>
 
+#### <u>Challenges in Simulation Verification</u>
+
+This study explores semantic changes to the concept of simulation verification over the past six decades using a data-supported, automated content analysis approach. We collect and utilize a corpus of 4,047 peer-reviewed Modeling and Simulation (M&S) publications dealing with a wide range of studies of simulation verification from 1963 to 2015. We group the selected papers by the decade of publication to provide insights and explore the corpus from four perspectives: (i) the positioning of prominent concepts across the corpus as a whole; (ii) a comparison of the prominence of verification, validation, and Verification and Validation (V&V) as separate concepts; (iii) the positioning of the concepts associated explicitly with verification; and (iv) an evaluation of verification’s defining characteristics within each decade. Our analysis reveals unique characterizations of verification in each decade. The insights gathered helped identify and discuss three categories of verification challenges as avenues of future research, awareness, and understanding for researchers, students, and practitioners. These categories include conveying confidence and maintaining ease of use; techniques’ coverage abilities for handling increasing simulation complexities; and new ways to provide error feedback to model users.
+ 
+<div id="vv-challenges-gallery">
+    <a href="{{ site.baseurl }}/images/research/v-and-v/verification-challenges/1approach.png" data-toggle="lightbox" data-gallery="challenges-gallery" class="col-sm-4" data-title="Title" data-footer="Footer">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/v-and-v/verification-challenges/1approach.png" class="img-fluid">
+    </a>
+       <a href="{{ site.baseurl }}/images/research/v-and-v/verification-challenges/2paper-venues.png" data-toggle="lightbox" data-gallery="challenges-gallery" class="col-sm-4" data-title="Title" data-footer="Footer">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/v-and-v/verification-challenges/2paper-venues.png" class="img-fluid">
+    </a>
+       <a href="{{ site.baseurl }}/images/research/v-and-v/verification-challenges/3correlations.png" data-toggle="lightbox" data-gallery="challenges-gallery" class="col-sm-4" data-title="Title" data-footer="Footer">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/v-and-v/verification-challenges/3correlations.png" class="img-fluid">
+    </a>
+       <a href="{{ site.baseurl }}/images/research/v-and-v/verification-challenges/4prominance.png" data-toggle="lightbox" data-gallery="challenges-gallery" class="col-sm-4" data-title="Title" data-footer="Footer">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/v-and-v/verification-challenges/4prominance.png" class="img-fluid">
+    </a>
+
+  </div>
+
+<br/>
+#### <u>V&amp;V Calculator</u>
+
+The verification and validation of Agent-based Models (ABMs) is challenging. The underlying structure of the model and the agents can change over time. Furthermore, the theoretical context of the model is often very different from established models of the same phenomenon. In an effort to overcome these issues, Trace Validation is becoming a common V&V mechanism within the Agent-based Modeling community. In Trace Validation, the characteristics of agents and the model are tracked over time and then analyzed by subject matter experts (SMEs) to gain insight into unexpected and potentially invalid output. In a study published by Gore, Lynch, Kavak (2016), we present our tool, the V&V Calculator, which applies predicates employed in the field of software engineering. The result is a structured trace validation approach with quantifiable measures that facilitates SME exploration and insight into the causes of unexpected output within ABMs.
+
+<br/>
+
 ### Publications & Presentations
 
 - A content analysis-based approach to explore simulation verification and identify its current challenges   
@@ -71,6 +98,14 @@ Verification and validation (V&amp;V) techniques commonly require modelers to co
 
 <script>
 	  lightGallery(document.getElementById('vv-cont-gallery'), {
+	    thumbnail:true,
+	    animateThumb: true,
+	    showThumbByDefault: true
+	}); 
+	</script>
+
+<script>
+	  lightGallery(document.getElementById('vv-challenges-gallery'), {
 	    thumbnail:true,
 	    animateThumb: true,
 	    showThumbByDefault: true
