@@ -36,6 +36,34 @@ In this project, we study mobility change in the US through a five-step process 
 
 Results show that by describing each county as a linear combination of the three latent components, we can explain 59% of the variation in mobility trends across all US counties. Specifically, change in mobility in 2020 for US counties can be explained as a combination of three latent components: 1) long-term reduction in mobility, 2) no change in mobility, and 3) short-term reduction in mobility. Furthermore, we find that geographically close counties are more likely to exhibit a similar change in mobility. Finally, we observe significant correlations between the three latent components of mobility change and various population characteristics, including political leaning, population, COVID-19 cases and deaths, and unemployment.
 
+<div id="change-covid-gallery">
+<a href="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/1approach.png" data-toggle="lightbox" data-gallery="covid-change-gallery" class="col-sm-4" data-title="Title comes here" data-footer="Footer comes here.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/1approach.png" class="img-fluid">
+    </a>
+<a href="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/2-2019vs2020.png" data-toggle="lightbox" data-gallery="covid-change-gallery" class="col-sm-4" data-title="Title comes here" data-footer="Footer comes here.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/2-2019vs2020.png" class="img-fluid">
+    </a>
+<a href="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/3example-counties.png" data-toggle="lightbox" data-gallery="covid-change-gallery" class="col-sm-4" data-title="Title comes here" data-footer="Footer comes here.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/3example-counties.png" class="img-fluid">
+    </a>
+<a href="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/4components.png" data-toggle="lightbox" data-gallery="covid-change-gallery" class="col-sm-4" data-title="Title comes here" data-footer="Footer comes here.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/4components.png" class="img-fluid">
+    </a>
+<a href="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/5county-clusters.png" data-toggle="lightbox" data-gallery="covid-change-gallery" class="col-sm-4" data-title="Title comes here" data-footer="Footer comes here.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/5county-clusters.png" class="img-fluid">
+    </a>
+<a href="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/6county-spatial-clusters.png" data-toggle="lightbox" data-gallery="covid-change-gallery" class="col-sm-4" data-title="Title comes here" data-footer="Footer comes here.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/6county-spatial-clusters.png" class="img-fluid">
+    </a>
+<a href="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/7spatial-autocorrelation.png" data-toggle="lightbox" data-gallery="covid-change-gallery" class="col-sm-4" data-title="Title comes here" data-footer="Footer comes here.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/7spatial-autocorrelation.png" class="img-fluid">
+    </a>
+<a href="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/8correlation.png" data-toggle="lightbox" data-gallery="covid-change-gallery" class="col-sm-4" data-title="Title comes here" data-footer="Footer comes here.">
+        <img width="{{site.thumbnail_width}}" src="{{ site.baseurl }}/images/research/human-mobility/change-covid-19/8correlation.png" class="img-fluid">
+    </a>
+
+</div>
+
 <br/>
 
 
@@ -57,3 +85,10 @@ Results show that by describing each county as a linear combination of the three
 <hr/>
 
 *Last updated on Jan 30, 2022.*  
+<script>
+	  lightGallery(document.getElementById('change-covid-gallery'), {
+	    thumbnail:true,
+	    animateThumb: true,
+	    showThumbByDefault: true
+	}); 
+	</script>
