@@ -80,7 +80,6 @@ Results show that by describing each county as a linear combination of the three
 ### Funding
 - [NSF Award #2030685](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2030685)
 - [NSF Award #2109647](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2109647)
-- George Mason University Office of the Provost and Executive Vice President's 2021 Summer Team Impact Grant.
 
 <hr/>
 
