@@ -233,5 +233,5 @@ kramdown:
         input: GFM
         syntax_highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 10
 excerpt_separator: <!-- more -->
