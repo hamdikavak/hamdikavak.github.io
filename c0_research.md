@@ -31,29 +31,17 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 
 <br/>
 <h3 class="hl_DSForMS">Data-Driven Modeling of Agents</h3>
-
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Data-driven Mobility Modeling for COVID-19 Simulation]({{ site.baseurl }}/research/data-driven-mobility-covid-19/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> Data-Driven ABM Methodology and Applications]({{ site.baseurl }}/research/data-driven-abm-methodology/)  
 
 <br/>
-
 <h3 class="hl_DSOnly">Social Media Analytics</h3>
 [<i style="color:#008500" class="fas fa-plus-square"></i> Anti-American Misinformation/Disinformation Efforts in Social and Mass Media]({{ site.baseurl }}/research/social-media-misinformation/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> Predicting People's Home Location From Sparse Footprints]({{ site.baseurl }}/research/social-media-home-location-prediction/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> Ever wondered how tourists feel in their attraction visits?]({{ site.baseurl }}/research/social-media-attraction-visit-sentiment/)  
-
-<br/>    
-<h3 class="hl_MSOnly">Modeling and Simulation of Social Systems</h3>
-[<i style="color:#888888" class="fas fa-check-square"></i> DARPA Urban Life Model]({{ site.baseurl }}/research/modeling-and-simulation-darpa-urban-life/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> How Modelers Develop Models?]({{ site.baseurl }}/research/modeling-and-simulation-modeler/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> Contributions to Simulation of Cybersecurity]({{ site.baseurl }}/research/modeling-and-simulation-cybersecurity-contributions/)  
 
 <br/>    
 <h3 class="hl_MSOnly">Verification and Validation</h3>
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Verification and Validation Framework for COVID-19 Models]({{ site.baseurl }}/research/verification-and-validation-covid-models/)  
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> The Future of Agent-Based Model Verification and Validation]({{ site.baseurl }}/research/verification-and-validation-future-abm/)  
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Verification and Validation as a Service]({{ site.baseurl }}/research/verification-and-validation-service/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> Methodological Contributions to Simulation Verification and Validation (Pre 2021)]({{ site.baseurl }}/research/verification-and-validation-pre2021/)
 
 <br/>    
 <h3 class="hl_DSOnly">Human Mobility Prediction and Analysis</h3>
@@ -67,8 +55,31 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 
 <br/>
 ## Past/Completed Research Projects
-[<i style="color:#888888" class="fas fa-check-square"></i> CLOUDES]({{ site.baseurl }}/research/cloudes/)
-[<i style="color:#888888" class="fas fa-check-square"></i> M&amp;S Cube]({{ site.baseurl }}/research/ms-cube/)
+
+<br/>
+<h3 class="hl_DSForMS">Data-Driven Modeling of Agents</h3>
+[<i style="color:#888888" class="fas fa-check-square"></i> Data-Driven ABM Methodology and Applications]({{ site.baseurl }}/research/data-driven-abm-methodology/)
+
+<br/>
+
+<h3 class="hl_DSOnly">Social Media Analytics</h3>
+[<i style="color:#888888" class="fas fa-check-square"></i> Predicting People's Home Location From Sparse Footprints]({{ site.baseurl }}/research/social-media-home-location-prediction/)  
+[<i style="color:#888888" class="fas fa-check-square"></i> Ever wondered how tourists feel in their attraction visits?]({{ site.baseurl }}/research/social-media-attraction-visit-sentiment/)
+
+<br/>    
+<h3 class="hl_MSOnly">Modeling and Simulation of Social Systems</h3>
+[<i style="color:#888888" class="fas fa-check-square"></i> DARPA Urban Life Model]({{ site.baseurl }}/research/modeling-and-simulation-darpa-urban-life/)  
+[<i style="color:#888888" class="fas fa-check-square"></i> How Modelers Develop Models?]({{ site.baseurl }}/research/modeling-and-simulation-modeler/)  
+[<i style="color:#888888" class="fas fa-check-square"></i> Contributions to Simulation of Cybersecurity]({{ site.baseurl }}/research/modeling-and-simulation-cybersecurity-contributions/)  
+
+<br/>    
+<h3 class="hl_MSOnly">Verification and Validation</h3>
+[<i style="color:#888888" class="fas fa-check-square"></i> Methodological Contributions to Simulation Verification and Validation (Pre 2021)]({{ site.baseurl }}/research/verification-and-validation-pre2021/)
+
+<br/>    
+<h3 class="hl_MSOnly">Modeling and Simulation Practice</h3>
+[<i style="color:#888888" class="fas fa-check-square"></i> CLOUDES]({{ site.baseurl }}/research/cloudes/)  
+[<i style="color:#888888" class="fas fa-check-square"></i> M&amp;S Cube]({{ site.baseurl }}/research/ms-cube/)  
     
 ### Web-based simulations and tools
 <p>Here some simulations written in JavaScript.</p>
