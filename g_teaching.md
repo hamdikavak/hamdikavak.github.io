@@ -19,7 +19,7 @@ I believe teaching and research should support each other as much as possible so
 ### Modeling and Simulation 1 (CDS 230)
 **Semesters offered:** Fall 2019, Spring 2020, Fall 2020 (Online), Spring 2021 (Online), Fall 2021.
 
-> I will not offer CDS 230 in 2022. You can still check other professors who teaches different sections. My plan is to teach this class again in Spring 2023.
+> I will not offer CDS 230 in 2022. You can still check other professors who teach different sections. I plan to teach this class again in Spring or Fall 2023.
 
 I am the course coordinator and instructor for the Modeling and Simulation 1 (CDS 230) course at George Mason University. In this course, students learn basic modeling and simulation concepts and get familiar with Python. The course website is located at [http://hamdikavak.com/course-modsim-1/](http://hamdikavak.com/course-modsim-1/). You can watch the welcome video to learn more about this course.
 
