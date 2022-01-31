@@ -9,7 +9,7 @@ I believe teaching and research should support each other as much as possible so
  
 1. Modeling and Simulation 1 (CDS 230)
 2. Verification and Validation of Models (CSI 709/CSS 739)
-3. Spatial Agent-Based Models of Human-Environment Interactions (CSS 645)  
+3. Spatial Agent-Based Models of Human-Environment Interactions (CSS 645/GGS 631)  
 
 *Last updated on Jan 16, 2022.*
 
@@ -53,7 +53,7 @@ Computational models come in different forms ranging from machine learning model
 ---  
 <br/>
 
-### Spatial Agent-Based Models of Human-Environment Interactions (CSS 645)
+### Spatial Agent-Based Models of Human-Environment Interactions (CSS 645/GGS 631)
 **Semesters offered:** Spring 2021 (Online), Spring 2022  
 
 This course will introduce graduate students in the spatial, environmental, and computational social sciences to the use of agent-based techniques as a means of modeling human-environment interactions. Major topics include spatial processes, the use of spatial identifiers to link socioeconomic and biophysical models, and, where possible, links to geographic information and associated technologies. We will cover applications in areas such as agriculture, epidemiology, forestry, biodiversity, habitat degradation, interactions between human populations and nonhuman species, and urban modeling.
