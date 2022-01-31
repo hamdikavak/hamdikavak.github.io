@@ -81,7 +81,7 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 [<i style="color:#888888" class="fas fa-check-square"></i> CLOUDES]({{ site.baseurl }}/research/cloudes/)  
 [<i style="color:#888888" class="fas fa-check-square"></i> M&amp;S Cube]({{ site.baseurl }}/research/ms-cube/)  
     
-### Web-based simulations and tools
+## Web-based simulations and tools
 <p>Here some simulations written in JavaScript.</p>
 <ul>
 <li>Segregation Simulation : <a href="{{ site.baseurl }}/sims/segregation/">Demo</a> &#8211; <a href="https://github.com/hamdikavak/segregation-simulation">Source Code</a></li>
