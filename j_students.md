@@ -127,6 +127,8 @@ Thank you for your interest in ASSIP 2021. I have received staggering 105 studen
 #### <u>MS Committee Member</u> <small>(1 current)</small>
 * **Moh Mansoor Abdul Bari** - Master of Arts in Interdisciplinary Studies Student (CSS concentration) at GMU
 
+* **James Stassinos** - GEOINT MS student at GMU
+
 <br/>
 <a name="lst-ug"/>
 
