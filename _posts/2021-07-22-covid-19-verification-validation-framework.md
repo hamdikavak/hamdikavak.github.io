@@ -1,6 +1,6 @@
 --- 
 published: true
-title: New Paper: Verification and Validation Framework for COVID-19 Models 
+title: New Paper\: Verification and Validation Framework for COVID-19 Models 
 layout: post
 categories: 
 - Research Presentation
