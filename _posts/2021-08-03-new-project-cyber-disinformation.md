@@ -1,6 +1,6 @@
 --- 
 published: true
-title: New Project: Curbing the Spread of Misinformation Campaigns
+title: New Project on Curbing the Spread of Misinformation Campaigns
 layout: post
 categories: 
 - New Project
