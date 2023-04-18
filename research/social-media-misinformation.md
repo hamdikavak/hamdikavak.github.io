@@ -15,16 +15,16 @@ permalink: /research/social-media-misinformation/
 
 ### Student and Senior Collaborators
 - Gowri Prathap (CDS undergraduate student - 2021-current)
-- Luke Palmieri (CDS undergraduate student - 2021-current)
-- Ekrem Kaya (CDS undergraduate student - 2021-current)
+- Luke Palmieri (CDS undergraduate student - 2021-2022)
+- Ekrem Kaya (CDS undergraduate student - 2021-2022)
 - Alex Korb (ODU PhD student - 2021-current)
-- Hongyi Wu (Faculty collaborator, ODU)
+- Hongyi Wu (Faculty collaborator, former ODU)
 - Kimberly Perez (Faculty collaborator, TCC)
 
 <br/>
 
 ### Project Dates
-2021-current
+2021-2023
 
 <br/>
 
@@ -38,8 +38,12 @@ To answer this research question, we have been collecting social media and mass 
 
 ### Publications & Presentations
 
-- GMU OSCAR Celebration of Student Success Presentation (Fall 2021).  
-  G. Prathap, E. Kaya, and L. Palmieri.
+- Prathap, G., Kavak, H., Kaya, E., Palmieri, L., Karahan, S., & Korb, A. (2023, February). Anti-American Stance in Turkey: A Twitter Case Study. In _International Conference on Cyber Warfare and Security_, (pp. 309-317).
+- Korb, R., Karahan, S., Prathap, G., Kaya, E., Palmieri, L., & Kavak, H. (2023, February). S-400s, Disinformation, and Anti-American Sentiment in Turkey. In _International Conference on Cyber Warfare and Security_, (pp. 181-188).
+- Prathap, G., Kaya, E., Palmieri, L., Korb, A., Karahan, S., & Kavak, H. (2022, April). A System to Study Anti-American Misinformation and Disinformation Efforts on Social Media. In _2022 Systems and Information Engineering Design Symposium (SIEDS)_ (pp. 31-36). IEEE.
+- Palmieri, L., Kaya, E., Prathap, G., Korb, A., Karahan, S., & Kavak, H. (2022, April). Investigating Disinformation Through the Lens of Mass Media: A System Design. In _2022 Systems and Information Engineering Design Symposium (SIEDS)_ (pp. 55-60). IEEE.
+![image](https://user-images.githubusercontent.com/1854194/232789846-73d6494d-a469-41ba-acd4-06988713cc14.png)
+
 
 <br/>
 
