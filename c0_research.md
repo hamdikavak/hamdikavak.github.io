@@ -18,7 +18,7 @@ nav: yes
 
 My research involves two related areas: Modeling & Simulation (M&S) and Data Science. If we describe this relationship as a Venn diagram, as shown below, my primary research efforts focus on areas 1 and 2. On the M&S-focused research side (area 1), I tackle challenges related to core M&S topics, including verification and validation, conceptual modeling, and M&S tools. My second prominent focus is on using Data Science for M&S (area 2). Particularly, I design and use data-driven simulations, conduct simulation output analytics, and use emerging machine learning techniques in different steps of the M&S process. While limited, my data science-only focused research (area 3) involves creating and using data science techniques (e.g., machine learning) to solve problems in different domains. Cybersecurity and urban science are the main application domains for my research.  
 
-*Last updated on Jan 30, 2022.*  
+*Last updated on Oct 27, 2024.*  
 
 ![M&S and Data Science]({{ site.baseurl }}/images/pages/research_area_small.png)  
 
@@ -32,9 +32,6 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 <br/>
 <h3 class="hl_DSForMS">Data-Driven Modeling of Agents</h3>
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Data-driven Mobility Modeling for COVID-19 Simulation]({{ site.baseurl }}/research/data-driven-mobility-covid-19/)  
-
-<h3 class="hl_DSOnly">Social Media Analytics</h3>
-[<i style="color:#008500" class="fas fa-plus-square"></i> Anti-American Misinformation/Disinformation Efforts in Social and Mass Media]({{ site.baseurl }}/research/social-media-misinformation/)  
  
 <h3 class="hl_MSOnly">Verification and Validation</h3>
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Verification and Validation Framework for COVID-19 Models]({{ site.baseurl }}/research/verification-and-validation-covid-models/)  
@@ -57,6 +54,7 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 [<i style="color:#888888" class="fas fa-check-square"></i> Data-Driven ABM Methodology and Applications]({{ site.baseurl }}/research/data-driven-abm-methodology/)
 
 <h3 class="hl_DSOnly">Social Media Analytics</h3>
+[<i style="color:#008500" class="fas fa-check-square"></i> Anti-American Misinformation/Disinformation Efforts in Social and Mass Media]({{ site.baseurl }}/research/social-media-misinformation/)  
 [<i style="color:#888888" class="fas fa-check-square"></i> Predicting People's Home Location From Sparse Footprints]({{ site.baseurl }}/research/social-media-home-location-prediction/)  
 [<i style="color:#888888" class="fas fa-check-square"></i> Ever wondered how tourists feel in their attraction visits?]({{ site.baseurl }}/research/social-media-attraction-visit-sentiment/)
 
