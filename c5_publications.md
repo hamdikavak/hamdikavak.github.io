@@ -20,7 +20,8 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 ### Journal Papers
 
-My publication list is outdated by close to two years. Update in progress.  
+<span style="color: red;">
+My publication list is outdated by close to two years. Update in progress. </span> 
 
 9. Urban life: a model of people and places   
         A. Züfle, C. Wenk, D. Pfoser, C. Crooks, J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, J. Hyunjee,    
@@ -75,8 +76,8 @@ My publication list is outdated by close to two years. Update in progress.
 
 
 ### Peer-Reviewed Conference Papers
-
-My publication list is outdated by close to two years. Update in progress.  
+<span style="color: red;">
+My publication list is outdated by close to two years. Update in progress. </span> 
 
 88. Spatiotemporal Prediction of Foot Traffic  
      S. Islam, D. Gandhi, J. Elarde, T. Anderson, A. Roess, T.F. Leslie, <strong>H. Kavak</strong>, and A. Züfle   
