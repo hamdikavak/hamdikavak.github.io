@@ -14,24 +14,30 @@ permalink: /research/social-media-misinformation/
 <br/>
 
 ### Student and Senior Collaborators
-- Gowri Prathap (CDS undergraduate student - 2021-current)
-- Luke Palmieri (CDS undergraduate student - 2021-2022)
-- Ekrem Kaya (CDS undergraduate student - 2021-2022)
-- Alex Korb (ODU PhD student - 2021-current)
+- Gowri Prathap (former CDS undergraduate student at GMU)
+- Luke Palmieri (former CDS undergraduate student at GMU)
+- Ekrem Kaya (former CDS undergraduate student at GMU)
+- Alex Korb (PhD student at ODU)
 - Hongyi Wu (Faculty collaborator, former ODU)
 - Kimberly Perez (Faculty collaborator, TCC)
 
 <br/>
 
 ### Project Dates
-2021-2023
+July 1, 2021 - March 31, 2023
 
 <br/>
 
 
 #### <u>Summary</u>
-In this project, we aim to investigate the following research question: To what extent do the actors in mass media and social media affect each other in creating anti-U.S. perceptions through misinformation and disinformation efforts within the U.S. allies (and thus sowing discord within Western alliances)? 
-To answer this research question, we have been collecting social media and mass media data from Turkish-speaking population. These data sources are being investigated using natural language processing tools and political science experts in our team. 
+
+Our research project investigated the spread of anti-American sentiment in Turkey, analyzing both social media and mass media to understand how disinformation shapes public opinion. Using a robust software system, we tracked millions of Turkish tweets and news articles over several years, identifying peaks of negativity associated with key U.S.-related events, such as President Biden’s recognition of the Armenian Genocide and Turkey’s purchase of S-400 missiles from Russia.
+
+Through sentiment and emotion analysis, we observed that Turkish social media content about the U.S. is often dominated by emotions like disgust, anger, and fear. This trend intensified around specific narratives, such as “national defense necessity” and “national pride,” which were particularly amplified in discussions about Turkey’s strategic decisions and relations with the U.S. Our findings reveal that these narratives are often propagated by both human users and automated accounts, showing how bot-like behavior contributes significantly to the spread of anti-American sentiment.
+
+Our work also extended beyond social media to Turkish mass media outlets, where sentiment analysis revealed a similarly strong negative bias toward the U.S., especially in response to politically charged topics. This disinformation ecosystem—spanning both social and mass media—demonstrates how coordinated narratives are used to amplify political divides and solidify opposition toward the U.S. within Turkey.
+
+Collectively, our studies highlight the complex role of disinformation in shaping public sentiment across borders. They underscore the importance of analyzing both the psychological and technological components of disinformation in order to understand—and potentially counter—its impact on international relations. This research is crucial for designing strategies to manage the influence of foreign disinformation and protect the integrity of information ecosystems.
 
 <br/>
 
@@ -51,4 +57,4 @@ To answer this research question, we have been collecting social media and mass 
 
 <hr/>
 
-*Last updated April, 2023.*  
+*Last updated Oct 27, 2024.*  

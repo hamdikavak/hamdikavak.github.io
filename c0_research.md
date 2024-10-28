@@ -54,7 +54,7 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 [<i style="color:#888888" class="fas fa-check-square"></i> Data-Driven ABM Methodology and Applications]({{ site.baseurl }}/research/data-driven-abm-methodology/)
 
 <h3 class="hl_DSOnly">Social Media Analytics</h3>
-[<i style="color:#008500" class="fas fa-check-square"></i> Anti-American Misinformation/Disinformation Efforts in Social and Mass Media]({{ site.baseurl }}/research/social-media-misinformation/)  
+[<i style="color:#888888" class="fas fa-check-square"></i> Anti-American Misinformation/Disinformation Efforts in Social and Mass Media]({{ site.baseurl }}/research/social-media-misinformation/)  
 [<i style="color:#888888" class="fas fa-check-square"></i> Predicting People's Home Location From Sparse Footprints]({{ site.baseurl }}/research/social-media-home-location-prediction/)  
 [<i style="color:#888888" class="fas fa-check-square"></i> Ever wondered how tourists feel in their attraction visits?]({{ site.baseurl }}/research/social-media-attraction-visit-sentiment/)
 
