@@ -20,6 +20,8 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 ### Journal Papers
 
+My publication list is outdated by close to two years. Update in progress.  
+
 9. Urban life: a model of people and places   
         A. Züfle, C. Wenk, D. Pfoser, C. Crooks, J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, J. Hyunjee,    
         <em>Computational and Mathematical Organization Theory</em>, 2021, 10.1007/s10588-021-09348-7  
@@ -73,6 +75,8 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 
 ### Peer-Reviewed Conference Papers
+
+My publication list is outdated by close to two years. Update in progress.  
 
 88. Spatiotemporal Prediction of Foot Traffic  
      S. Islam, D. Gandhi, J. Elarde, T. Anderson, A. Roess, T.F. Leslie, <strong>H. Kavak</strong>, and A. Züfle   
