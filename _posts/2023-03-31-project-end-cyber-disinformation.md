@@ -1,6 +1,6 @@
 --- 
 published: true
-title: Our CCI Project Ended
+title: CCI Project Ended
 layout: post
 categories: 
 - Project Conclusion
