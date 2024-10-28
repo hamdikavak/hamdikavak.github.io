@@ -56,7 +56,7 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 
 
 <h3 class="hl_DSOnly">Human Mobility Prediction and Analysis</h3>
-[<i style="color:#888888" class="fas fa-check-square"></i> Foot Traffic Prediction]({{ site.baseurl }}/research/human-mobility-foot-traffic/)  
+[<i style="color:#888888" class="fas fa-check-square"></i> Foot Traffic Prediction]({{ site.baseurl }}/research%20presentation/2021/11/02/foot-traffic-prediction-paper.html)  
 [<i style="color:#888888" class="fas fa-check-square"></i> Change of Human Mobility During COVID-19]({{ site.baseurl }}/research/human-mobility-change-during-covid-19/)
 
 
