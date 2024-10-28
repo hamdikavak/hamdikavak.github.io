@@ -38,10 +38,6 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> The Future of Agent-Based Model Verification and Validation]({{ site.baseurl }}/research/verification-and-validation-future-abm/)  
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Verification and Validation as a Service]({{ site.baseurl }}/research/verification-and-validation-service/)  
 
-<h3 class="hl_DSOnly">Human Mobility Prediction and Analysis</h3>
-[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Foot Traffic Prediction]({{ site.baseurl }}/research/human-mobility-foot-traffic/)  
-[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Change of Human Mobility During COVID-19]({{ site.baseurl }}/research/human-mobility-change-during-covid-19/)
-
 <h3 class="hl_DSForMS">Simulation Data and Analytics</h3>
 [<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Reusable Synthetic Population Data]({{ site.baseurl }}/research/simulation-data-analytics-reusable-synthetic-population/)  
 
@@ -57,6 +53,12 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 [<i style="color:#888888" class="fas fa-check-square"></i> Anti-American Misinformation/Disinformation Efforts in Social and Mass Media]({{ site.baseurl }}/research/social-media-misinformation/)  
 [<i style="color:#888888" class="fas fa-check-square"></i> Predicting People's Home Location From Sparse Footprints]({{ site.baseurl }}/research/social-media-home-location-prediction/)  
 [<i style="color:#888888" class="fas fa-check-square"></i> Ever wondered how tourists feel in their attraction visits?]({{ site.baseurl }}/research/social-media-attraction-visit-sentiment/)
+
+
+<h3 class="hl_DSOnly">Human Mobility Prediction and Analysis</h3>
+[<i style="color:#888888" class="fas fa-check-square"></i> Foot Traffic Prediction]({{ site.baseurl }}/research/human-mobility-foot-traffic/)  
+[<i style="color:#888888" class="fas fa-check-square"></i> Change of Human Mobility During COVID-19]({{ site.baseurl }}/research/human-mobility-change-during-covid-19/)
+
 
 <h3 class="hl_MSOnly">Modeling and Simulation of Social Systems</h3>
 [<i style="color:#888888" class="fas fa-check-square"></i> DARPA Urban Life Model]({{ site.baseurl }}/research/modeling-and-simulation-darpa-urban-life/)  
