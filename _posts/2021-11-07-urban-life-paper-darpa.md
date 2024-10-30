@@ -18,7 +18,7 @@ About a year ago, our DARPA-funded Ground Truth Project ended while we continued
 
 Through countless iterations, brainstorming meetings, and collaborative research, I have gained invaluable experience improving my analytical rigor and technical expertise in modeling. Moreover, this project helped me cultivate a more nuanced understanding of social dynamics. Each collaborator brought distinctive expertise that shaped the project’s success, from advancing scalability methods to crafting unique agent behaviors. 
 
-Finally, I want to thank everyone involved in this journey. The experiences, lessons, and friendships forged through this project are invaluable, reminding me that our field’s advancements rely on individual achievement and the strength of collaboration and collective passion. While I personally express a bitter farewell to this project, I am sure the experience and the models developed throughout this project will open doors for the entire team in the future.
+Finally, I want to thank everyone involved in this journey. The experiences, lessons, and friendships forged through this project are invaluable, reminding me that our field’s advancements rely on individual achievement and the strength of collaboration and collective passion. While I personally express a bitter farewell to this project, I am sure the experience and the models developed throughout this project will open new doors for our entire team in the future.
 
 You can access  [the final paper here](https://link.springer.com/content/pdf/10.1007/s10588-021-09348-7.pdf) and [source code here](https://github.com/gmuggs/pol). To learn more details about the project, visit [this page]({{ site.baseurl }}/research/modeling-and-simulation-darpa-urban-life/).
 
