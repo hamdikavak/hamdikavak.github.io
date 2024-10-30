@@ -15,7 +15,7 @@ permalink: /research/modeling-and-simulation-darpa-urban-life/
 
 <br/>
 
-### Student and Senior Collaborators
+### Senior Collaborators
 - Joonseok Kim (GMU postdoctoral researcher 2018-2020)
 - Hamdi Kavak (GMU research associate 2018-2020)
 - Umar Manzoor (Tulane postdoctoral researcher 2018-2019)
@@ -86,4 +86,4 @@ This project has generated several agent-based urban social models for DARPA's G
 
 <hr/>
 
-*Last updated on Jan 27, 2022.*  
+*Last updated on Oct 30, 2024.*  
