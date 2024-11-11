@@ -24,23 +24,28 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 
 
+9. Is More Always Better? Unveiling the Impact of Contributor Dynamics on Collaborative Mapping.  
+        A. McGough-Peker, <strong>H. Kavak</strong>, and R. Mahabir     
+        <em>Computational and Mathematical Organization Theory</em>, 2023, doi:10.1007/s10588-023-09383-6  
+        [<a title="Paper" href="https://link.springer.com/content/pdf/10.1007/s10588-023-09383-6.pdf">Paper</a>]
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2023_OSM_journal.bib)]
 
 
 9. A General Epidemic Model and Its Application to Mask Design Considering Different Preferences towards Masks.  
-        C. Wang, and <strong>H. Kavak</strong>     
+        C. Wang, and <strong>H. Kavak</strong>   
         <em>Complexity</em>, 2022, doi:10.1155/2022/1626008  
         [<a title="Paper" href="https://onlinelibrary.wiley.com/doi/epdf/10.1155/2022/1626008">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2022_mask.bib)]
 
 9. A method to create a synthetic population with social networks for geographically-explicit agent-based models.  
         N. Jiang, W.G. Kennedy, A. Crooks, and <strong>H. Kavak</strong>
-        <span style="color: red;">(top 3 most read Computational Urban Science papers in 2022)</span>      
+        <span style="color: red;">(top 3 most read Computational Urban Science papers in 2022)</span>  
         <em>Computational Urban Science</em>, 2022, doi: 10.1007/s43762-022-00034-1  
         [<a title="Paper" href="https://link.springer.com/content/pdf/10.1007/s43762-022-00034-1.pdf">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2022_cus_synthetic.bib)]
 
 9. Urban life: a model of people and places   
-        A. Züfle, C. Wenk, D. Pfoser, C. Crooks, J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, J. Hyunjee,    
+        A. Züfle, C. Wenk, D. Pfoser, C. Crooks, J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, J. Hyunjee    
         <em>Computational and Mathematical Organization Theory</em>, 2021, 10.1007/s10588-021-09348-7  
         [<a title="Paper" href="https://link.springer.com/article/10.1007/s10588-021-09348-7">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2021_urban.bib)]
