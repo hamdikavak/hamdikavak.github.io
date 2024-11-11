@@ -22,11 +22,21 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 
 
+
+
+
+
+9. A General Epidemic Model and Its Application to Mask Design Considering Different Preferences towards Masks.  
+        C. Wang, and <strong>H. Kavak</strong>     
+        <em>Complexity</em>, 2022, doi:10.1155/2022/1626008  
+        [<a title="Paper" href="https://onlinelibrary.wiley.com/doi/epdf/10.1155/2022/1626008">Paper</a>]
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2022_mask.bib)]
+
 9. A method to create a synthetic population with social networks for geographically-explicit agent-based models.  
         N. Jiang, W.G. Kennedy, A. Crooks, and <strong>H. Kavak</strong>
         <span style="color: red;">(top 3 most read Computational Urban Science papers in 2022)</span>      
-        <em>Computational Urban Science</em>, 2022, 10.1007/s43762-022-00034-1  
-        [<a title="Paper" href="https://link.springer.com/article/10.1007/s10588-021-09348-7">Paper</a>]
+        <em>Computational Urban Science</em>, 2022, doi: 10.1007/s43762-022-00034-1  
+        [<a title="Paper" href="https://link.springer.com/content/pdf/10.1007/s43762-022-00034-1.pdf">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2022_cus_synthetic.bib)]
 
 9. Urban life: a model of people and places   
