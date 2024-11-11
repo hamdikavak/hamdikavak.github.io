@@ -1,36 +1,29 @@
 ---
 layout: page
-title: Reusable Synthetic Population Data Generation
-permalink: /research/simulation-data-analytics-reusable-synthetic-population/
+title: Generating Synthetic Populations
+permalink: /research/simulation-data-analytics-synthetic-population/
 ---
 
 ## {{page.title}}
 <hr/>
 
-### Leads
-- Andrew Crooks
-- "Richard" Na Jiang
-
-<br/>
-
-### Student and Senior Collaborators
-- Hamdi Kavak (Faculty collaborator)
-- William Kennedy (Faculty collaborator)
-- Annetta Burger (Former student collaborator)
+Synthetic population generation is a cornerstone of building agent-based models that capture the complexity of real-world systems. By creating realistic populations, we can simulate and predict human behavior, policy impact, and societal trends with better precision. My research pushes the boundaries of synthetic population methodologies to represent population dynamics across domains, from urban planning to public health. Leveraging machine learning and computational techniques, the goal is to improve the quality of synthetic populations and extend the capabilities of agent-based modeling. Particularly, I contribute to three  studies that lay foundational work for this topic. 
 
 
-<br/>
 
-#### <u>Summary</u>
 
-Synthetic populations are of vital interest to Agent-Based Models to create realistic models. This study introduces a new approach that generates a reusable synthetic population using the New York Metro Area as a study area. Our method directly incorporates social networks (i.e., connections within a family or workplace) when creating a synthetic population. To demonstrate the utility and reusability of the synthetic population and to highlight the role of social networks, we show two example applications: traffic dynamics and the spread of disease. These applications demonstrate how other researchers can efficiently utilize our synthetic population method for different modeling problems.
 
-Recently this study is extended to cover more examples and has been accepted to appear in the Journal of Computational Urban Science.
+
+to do: link people, link papers
+
+### Study 3: Reusable Synthetic Populations
+
+In collaboration with [Andrew Crooks](https://www.gisagents.org/), ["Richard" Na Jiang](https://www.urbanagentjiang.net/), [William Kennedy](https://science.gmu.edu/directory/william-kennedy), and [Annetta Burger](https://www.ornl.gov/staff-profile/annetta-g-burger), this study introduces a new approach that generates a reusable synthetic population using the New York Metro Area as a study area. Our method directly incorporates social networks (i.e., connections within a family or workplace) when creating a synthetic population. To demonstrate the utility and reusability of the synthetic population and to highlight the role of social networks, we show two example applications: traffic dynamics and the spread of disease. These applications demonstrate how other researchers can efficiently utilize our synthetic population method for different modeling problems. This study has been extended to cover more examples and has been accepted to appear in the Journal of Computational Urban Science.
 
 <br/>
 
 
-### Publications & Presentations
+#### Publications & Presentations
 
 - Generation of Reusable Synthetic Population and Social Networks for Agent-Based Modeling  
   N. Jiang, <strong>H. Kavak</strong>, W.G. Kennedy, and A. Crooks
@@ -40,4 +33,4 @@ Recently this study is extended to cover more examples and has been accepted to 
 
 <hr/>
 
-*Last updated on Jan 30, 2022.*
+*Last updated on Nov 11, 2024.*

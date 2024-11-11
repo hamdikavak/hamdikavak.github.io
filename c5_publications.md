@@ -20,8 +20,14 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 ### Journal Papers
 
-<span style="color: red;">
-My publication list is outdated by close to two years. Update in progress. </span> 
+
+
+9. A method to create a synthetic population with social networks for geographically-explicit agent-based models.  
+        N. Jiang, W.G. Kennedy, A. Crooks, and <strong>H. Kavak</strong>
+        <span style="color: red;">(top 3 most read Computational Urban Science papers in 2022)</span>      
+        <em>Computational Urban Science</em>, 2022, 10.1007/s43762-022-00034-1  
+        [<a title="Paper" href="https://link.springer.com/article/10.1007/s10588-021-09348-7">Paper</a>]
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2022_cus_synthetic.bib)]
 
 9. Urban life: a model of people and places   
         A. Züfle, C. Wenk, D. Pfoser, C. Crooks, J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, J. Hyunjee,    
