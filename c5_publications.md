@@ -23,7 +23,6 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 
 9. In Silico Human Mobility Data Science: Leveraging Massive Simulated Mobility Data.  
-        N. Jiang, A. Crooks, <strong>H. Kavak</strong>, and W. Wang 
         A. Züfle , D. Pfoser , C. Wenk, A. Crooks, <strong>H. Kavak</strong>, T. Anderson, J-S. Kim, N. Holt, A. Diantonio  
         <em>ACM Transactions on Spatial Algorithms and Systems</em>, 2024, doi:10.1145/3672557  
         [<a title="Paper" href="https://dl.acm.org/doi/pdf/10.1145/3672557">Paper</a>]
