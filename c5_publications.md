@@ -24,8 +24,16 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 
 
+9. Leveraging newspapers to understand urban issues: A longitudinal analysis of urban shrinkage in Detroit.  
+        N. Jiang, A. Crooks, <strong>H. Kavak</strong>, and W. Wang  
+        <em>Environment and Planning B: Urban Analytics and City Science</em>, 2023, doi:10.1177/23998083231204695  
+        [<a title="Paper" href="https://journals.sagepub.com/doi/reader/10.1177/23998083231204695">Paper</a>]
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2023_newspaper.bib)]
+        
+        
+
 9. Is More Always Better? Unveiling the Impact of Contributor Dynamics on Collaborative Mapping.  
-        A. McGough-Peker, <strong>H. Kavak</strong>, and R. Mahabir     
+        A. McGough-Peker, <strong>H. Kavak</strong>, and R. Mahabir  
         <em>Computational and Mathematical Organization Theory</em>, 2023, doi:10.1007/s10588-023-09383-6  
         [<a title="Paper" href="https://link.springer.com/content/pdf/10.1007/s10588-023-09383-6.pdf">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2023_OSM_journal.bib)]
