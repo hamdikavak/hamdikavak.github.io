@@ -22,6 +22,13 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 
 
+9. In Silico Human Mobility Data Science: Leveraging Massive Simulated Mobility Data.  
+        N. Jiang, A. Crooks, <strong>H. Kavak</strong>, and W. Wang 
+        A. Züfle , D. Pfoser , C. Wenk, A. Crooks, <strong>H. Kavak</strong>, T. Anderson, J-S. Kim, N. Holt, A. Diantonio  
+        <em>ACM Transactions on Spatial Algorithms and Systems</em>, 2024, doi:10.1145/3672557  
+        [<a title="Paper" href="https://dl.acm.org/doi/pdf/10.1145/3672557">Paper</a>]
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2024_in-silico.bib)]
+        
 
 
 9. Leveraging newspapers to understand urban issues: A longitudinal analysis of urban shrinkage in Detroit.  
@@ -53,7 +60,7 @@ This page shows my relatively up-to-date publication list, links to papers, and 
         [[BibTeX]({{ site.baseurl }}/download/bibs/2022_cus_synthetic.bib)]
 
 9. Urban life: a model of people and places   
-        A. Züfle, C. Wenk, D. Pfoser, C. Crooks, J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, J. Hyunjee    
+        A. Züfle, C. Wenk, D. Pfoser, A. Crooks, J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, J. Hyunjee    
         <em>Computational and Mathematical Organization Theory</em>, 2021, 10.1007/s10588-021-09348-7  
         [<a title="Paper" href="https://link.springer.com/article/10.1007/s10588-021-09348-7">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2021_urban.bib)]
