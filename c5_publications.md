@@ -22,13 +22,18 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 
 
+
+9. An OpenStreetMap derived building classification dataset for the United States.  
+        HF. Arruda , SM. Reia , KS. Atwal, <strong>H. Kavak</strong>, T. Anderson, and D. Pfoser  
+        <em>Scientific Data</em>, 2024, 10.1038/s41597-024-04046-w  
+        [<a title="Paper" href="https://www.nature.com/articles/s41597-024-04046-w.pdf">Paper</a>]
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2024_building-classification.bib)]  
+
 9. In Silico Human Mobility Data Science: Leveraging Massive Simulated Mobility Data.  
-        A. Züfle , D. Pfoser , C. Wenk, A. Crooks, <strong>H. Kavak</strong>, T. Anderson, J-S. Kim, N. Holt, A. Diantonio  
+        A. Züfle , D. Pfoser , C. Wenk, A. Crooks, <strong>H. Kavak</strong>, T. Anderson, J-S. Kim, N. Holt, and A. Diantonio  
         <em>ACM Transactions on Spatial Algorithms and Systems</em>, 2024, doi:10.1145/3672557  
         [<a title="Paper" href="https://dl.acm.org/doi/pdf/10.1145/3672557">Paper</a>]
-        [[BibTeX]({{ site.baseurl }}/download/bibs/2024_in-silico.bib)]
-        
-
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2024_in-silico.bib)]  
 
 9. Leveraging newspapers to understand urban issues: A longitudinal analysis of urban shrinkage in Detroit.  
         N. Jiang, A. Crooks, <strong>H. Kavak</strong>, and W. Wang  
