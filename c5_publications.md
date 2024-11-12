@@ -7,7 +7,7 @@ nav: yes
 
 This page shows my relatively up-to-date publication list, links to papers, and BibTex citation information. Since my contributions mainly target improving the intersection of simulation modeling and data science, I submit papers to conferences and journals that focus on the advancement of the methods rather than domain-specific advancements.
 
-*Last updated on Jan 27, 2022.*
+*Last updated on Nov 11, 2024.*
 
 - <a href="#journals">Journals</a>
 - <a href="#conferences">Conferences</a>
@@ -19,7 +19,6 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 <a name="journals"></a>
 
 ### Journal Papers
-
 
 
 
@@ -116,8 +115,27 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 
 ### Peer-Reviewed Conference Papers
-<span style="color: red;">
-My publication list is outdated by close to two years. Update in progress. </span> 
+
+
+
+85. Phyloview: A system to visualize the ecology of infectious diseases using phylogenetic data  
+     MT. Le, D. Attaway, T. Anderson, <strong>H. Kavak</strong>, A. Roess, and A. Züfle     
+     <em>23rd IEEE International Conference on Mobile Data Management (MDM)</em>, Paphos, Cyprus (Online), June 6-9, 2022; IEEE, doi: 10.1109/MDM55031.2022.00051  
+     [[Paper](https://par.nsf.gov/servlets/purl/10409330)]
+     [[BibTex]()]
+
+86. A System to Study Anti-American Misinformation and Disinformation Efforts on Social Media  
+     G. Prathap, E. Kaya, L. Palmieri, A. Korb, S. Karahan, and <strong>H. Kavak</strong>   
+     <em>2022 Systems and Information Engineering Design Symposium (SIEDS)</em>, Charlottesville, VA, USA (Online), April 28-29, 2022; IEEE, doi: 10.1109/SIEDS55548.2022.9799334  
+     [[Paper](https://ieeexplore.ieee.org/abstract/document/9799334)]
+     [[BibTex]()]
+
+87. Investigating Disinformation Through the Lens of Mass Media: A System Design  
+     L. Palmieri, E. Kaya, G. Prathap, and <strong>H. Kavak</strong>   
+     <em>2022 Systems and Information Engineering Design Symposium (SIEDS)</em>, Charlottesville, VA, USA (Online), April 28-29, 2022; IEEE, doi: 10.1109/SIEDS55548.2022.9799320  
+     [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/361527142_Investigating_Disinformation_Through_the_Lens_of_Mass_Media_A_System_Design/links/62c89b373bbe636e0c4bd3bf/Investigating-Disinformation-Through-the-Lens-of-Mass-Media-A-System-Design.pdf)]
+     [[BibTex]()]
+
 
 88. Spatiotemporal Prediction of Foot Traffic  
      S. Islam, D. Gandhi, J. Elarde, T. Anderson, A. Roess, T.F. Leslie, <strong>H. Kavak</strong>, and A. Züfle   
