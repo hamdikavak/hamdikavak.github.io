@@ -118,6 +118,22 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 
 
+
+
+
+83. Mitigation of Optimized Pharmaceutical Supply Chain Disruptions by Criminal Agents  
+     A. Rana, <strong>H. Kavak</strong>, A. Crooks, C. Domeniconi, S. Luke, and J. Jones       
+     <em>2022 International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS)</em>, Pittsburg, PA, USA, September 20-22, 2022; Springer, doi: 10.1007/978-3-031-17114-7_2  
+     [[Paper](https://cs.gmu.edu/~sean/papers/sbpbrims22.pdf)]
+     [[BibTex]()]
+
+84. Using Generative Adversarial Networks to Assist Synthetic Population Creation for Simulations  
+     S Kotnana, D. Han, T. Anderson, A. Züfle, and <strong>H. Kavak</strong>     
+     <em>2022 Annual Modeling and Simulation Conference (ANNSIM)</em>, San Diego, CA, USA, July 18-20, 2022; IEEE, doi: 10.23919/ANNSIM55834.2022.9859422  
+     [[Paper](https://par.nsf.gov/servlets/purl/10409331)]
+     [[BibTex]()]
+
+
 85. Phyloview: A system to visualize the ecology of infectious diseases using phylogenetic data  
      MT. Le, D. Attaway, T. Anderson, <strong>H. Kavak</strong>, A. Roess, and A. Züfle     
      <em>23rd IEEE International Conference on Mobile Data Management (MDM)</em>, Paphos, Cyprus (Online), June 6-9, 2022; IEEE, doi: 10.1109/MDM55031.2022.00051  
