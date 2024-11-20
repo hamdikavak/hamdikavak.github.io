@@ -118,7 +118,18 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 
 
+81. Imitation Learning for Social Simulation  
+     J. Downes and <strong>H. Kavak</strong>       
+     <em>2022 International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS)</em>, Pittsburg, PA, USA, September 20-22, 2022; Springer, doi: 10.1007/978-3-031-17114-7_17  
+     [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-17114-7_17)]
+     [[BibTex]()]
 
+
+82. Evacuation in the Presence of Bad Actors  
+     C. Petri and <strong>H. Kavak</strong>       
+     <em>2022 International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS)</em>, Pittsburg, PA, USA, September 20-22, 2022;  
+     [[Paper](https://sbp-brims.org/2022/papers/working-papers/2022_SBP-BRiMS_Final_Paper_PDF_1702.pdf)]
+     [[BibTex]()]
 
 
 83. Mitigation of Optimized Pharmaceutical Supply Chain Disruptions by Criminal Agents  
