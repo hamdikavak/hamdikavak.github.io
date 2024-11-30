@@ -119,6 +119,17 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 
 
+
+
+
+79. Human Mobility-based Synthetic Social Network Generation  
+     K. Gallagher, S. Kotnana, S. Satishkumar, K. Siripurapu, J. Elarde, T. Anderson, A. Züfle and <strong>H. Kavak</strong>       
+     <em>2nd ACM SIGSPATIAL International Workshop on Animal Movement Ecology and Human Mobility</em>, Seattle, WA, USA, November 1, 2022; ACM, doi: 10.1145/3557921.3565540  
+     [[Paper](https://dl.acm.org/doi/pdf/10.1145/3557921.3565540)]
+     [[BibTex]()]
+
+
+
 80. Revisiting Linus’ Law in OpenStreetMap: An Agent-Based Approach <span style="color: red;">(Received best student paper award)</span>  
      A. McGough-Peker,  <strong>H. Kavak</strong>, and R. Mahabir  
      <em>2022 International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS)</em>, Pittsburg, PA, USA, September 20-22, 2022; Springer, doi: 10.1007/978-3-031-17114-7_12  
