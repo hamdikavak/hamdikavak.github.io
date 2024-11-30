@@ -7,7 +7,7 @@ nav: yes
 
 This page shows my relatively up-to-date publication list, links to papers, and BibTex citation information. Since my contributions mainly target improving the intersection of simulation modeling and data science, I submit papers to conferences and journals that focus on the advancement of the methods rather than domain-specific advancements.
 
-*Last updated on Nov 11, 2024.*
+*Last updated on Nov 30, 2024.*
 
 - <a href="#journals">Journals</a>
 - <a href="#conferences">Conferences</a>
@@ -116,6 +116,14 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 ### Peer-Reviewed Conference Papers
 
+
+
+
+80. Revisiting Linus’ Law in OpenStreetMap: An Agent-Based Approach <span style="color: red;">(Received best student paper award)</span>  
+     A. McGough-Peker,  <strong>H. Kavak</strong>, and R. Mahabir  
+     <em>2022 International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS)</em>, Pittsburg, PA, USA, September 20-22, 2022; Springer, doi: 10.1007/978-3-031-17114-7_12  
+     [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-17114-7_12)]
+     [[BibTex]()]
 
 
 81. Imitation Learning for Social Simulation  
