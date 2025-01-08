@@ -5,7 +5,8 @@ permalink: /publications/
 nav: yes
 ---
 
-This page shows my relatively up-to-date publication list, links to papers, and BibTex citation information. Since my contributions mainly target improving the intersection of simulation modeling and data science, I submit papers to conferences and journals that focus on the advancement of the methods rather than domain-specific advancements.
+
+This page showcases my publications, organized by categories such as journal articles, conference proceedings, and more. Each entry includes links to the full papers and BibTeX citation details. Publications are arranged in reverse chronological order, with the most recent works listed first.  
 
 *Last updated on Jan 8, 2025.*
 
