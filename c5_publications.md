@@ -121,7 +121,13 @@ This page showcases my publications, organized by categories such as journal art
 
 
 
-76. A Large-Scale Agent-Based Model Using The Spiral Software Development Process  
+74. The Effect of Empathy on Happiness in Social Networks: An Agent-Based Simulation Study  
+     N. Bishop and <strong>H. Kavak</strong>   
+     <em>2023 Annual Modeling and Simulation Conference (ANNSIM)</em>, Hamilton, ON, Canada; May 23-26, 2023; IEEE  
+     [[Paper](https://ieeexplore.ieee.org/abstract/document/10155390)]
+     [[BibTex]()]
+
+75. A Large-Scale Agent-Based Model Using The Spiral Software Development Process  
      M. Malikov, F. Aloraini, <strong>H. Kavak</strong>, W. Kennedy, and A. Crooks   
      <em>2023 Annual Modeling and Simulation Conference (ANNSIM)</em>, Hamilton, ON, Canada; May 23-26, 2023; IEEE  
      [[Paper](https://www.researchgate.net/profile/Andrew-Crooks/publication/371938832_DEVELOPING_A_LARGE-SCALE_AGENT-BASED_MODEL_USING_THE_SPIRAL_SOFTWARE_DEVELOPMENT_PROCESS/links/649c8f948de7ed28ba6186db/DEVELOPING-A-LARGE-SCALE-AGENT-BASED-MODEL-USING-THE-SPIRAL-SOFTWARE-DEVELOPMENT-PROCESS.pdf)]
