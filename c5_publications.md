@@ -119,6 +119,11 @@ This page showcases my publications, organized by categories such as journal art
 
 
 
+96. Massive Trajectory Data Based on Patterns of Life<span style="color: red;">(Received best data paper award)</span>  
+     H. Amiri, S. Ruan, J-S. Kim, H. Jin, <strong>H. Kavak</strong>, A. Crooks, D. Pfoser, C. Wenk and A. Züfle   
+     <em>2023 ACM SIGSPATIAL Conference</em>, Hamburg, Germany, Nov 13-16, 2023; doi: 10.1145/3589132.3625592  
+     [<a title="Paper" href="https://www.osti.gov/servlets/purl/2267639">Paper</a>]
+     [[BibTex]()]
 
 
 74. The Effect of Empathy on Happiness in Social Networks: An Agent-Based Simulation Study  
@@ -248,13 +253,13 @@ This page showcases my publications, organized by categories such as journal art
 
 93. Data-Driven Mobility Models for COVID-19 Simulation  
      J. Pesavento, A. Chen, R. Yu, J-S. Kim, <strong>H. Kavak</strong>, T. Anderson, and A. Züfle   
-     <em>3rd ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities</em>, Seattle, Washington, USA (Online), November 03-November 06, 2020  
+     <em>3rd ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities</em>, Seattle, Washington, USA (Online), November 3, 2020  
     [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/347832686_Data-driven_mobility_models_for_COVID-19_simulation/links/61f2d2509a753545e2fe9bbb/Data-driven-mobility-models-for-COVID-19-simulation.pdf)]
     [[BibTex]({{ site.baseurl }}/download/bibs/2020_data-driven.bib)]
 
 94. Location-Based Social Network Data Generation Based on Patterns of Life <span style="color: red;">(~23% full paper acceptance rate)</span>  
      J-S. Kim, H. Jin, <strong>H. Kavak</strong>, O.C. Rouly, A. Crooks, D. Pfoser, C. Wenk and A. Züfle   
-     <em>The 21st IEEE International Conference on Mobile Data Management</em>, Versailles, France (Online), June 30-July 03, 2020  
+     <em>The 21st IEEE International Conference on Mobile Data Management</em>, Versailles, France (Online), June 30-July 3, 2020  
     [[Paper](https://www.researchgate.net/profile/Ovi-Rouly/publication/343520283_Location-Based_Social_Network_Data_Generation_Based_on_Patterns_of_Life/links/5f3291f2458515b729159340/Location-Based-Social-Network-Data-Generation-Based-on-Patterns-of-Life.pdf)]
     [[BibTex]({{ site.baseurl }}/download/bibs/2020_location.bib)]
 
@@ -266,8 +271,8 @@ This page showcases my publications, organized by categories such as journal art
 
 96. Simulating Urban Patterns of Life: A Geo-Social Data Generation Framework  
      J-S. Kim, <strong>H. Kavak</strong>, U. Manzoor, A. Crooks, D. Pfoser, C. Wenk and A. Züfle   
-     <em>2019 ACM SIGSPATIAL Conference</em>, Chicago, IL, July 10-13, 2018  
-     [<a title="RG Archive" href="https://www.researchgate.net/profile/Andrew_Crooks/publication/337064055_Simulating_Urban_Patterns_of_Life_A_Geo-Social_Data_Generation_Framework/links/5dc34648a6fdcc2d2ff7cf9e/Simulating-Urban-Patterns-of-Life-A-Geo-Social-Data-Generation-Framework.pdf">Paper</a>]
+     <em>2019 ACM SIGSPATIAL Conference</em>, Chicago, IL, Nov 5-8, 2019; doi: 10.1145/3347146.3359106  
+     [<a title="Paper" href="https://par.nsf.gov/servlets/purl/10187146">Paper</a>]
      [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2019_urban_pol.bib">BibTex</a>]
 
 97. Location-Based Social Simulation <span style="color: red;">(Best vision paper runner-up)</span>  
