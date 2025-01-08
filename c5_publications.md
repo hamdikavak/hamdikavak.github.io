@@ -118,8 +118,15 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 
 
+⧫Korb A, Karahan S, ⧫Prathap G, ⧫Kaya E, ⧫Palmieri L, Kavak H. S-400s, disinformation, and anti-american sentiment in Turkey. In:  International Conference on Cyber Warfare and Security 2023. vol. 18, no. 1, pp. 181-188. 2023. doi: 10.34190/iccws.18.1.992
 
 
+
+78. S-400s, Disinformation, and Anti-american Sentiment in Turkey  
+     A. Korb, S. Karahan, G. Prathap, E. Kaya, L. Palmieri, and <strong>H. Kavak</strong>       
+     <em>International Conference on Cyber Warfare and Security 2023</em>, Towson, MD, USA, March 9-10, 2023; ACM, doi: 10.34190/iccws.18.1.992  
+     [[Paper](https://papers.academic-conferences.org/index.php/iccws/article/view/992/954)]
+     [[BibTex]()]
 
 
 79. Human Mobility-based Synthetic Social Network Generation  
