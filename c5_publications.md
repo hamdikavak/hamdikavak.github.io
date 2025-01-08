@@ -7,7 +7,7 @@ nav: yes
 
 This page shows my relatively up-to-date publication list, links to papers, and BibTex citation information. Since my contributions mainly target improving the intersection of simulation modeling and data science, I submit papers to conferences and journals that focus on the advancement of the methods rather than domain-specific advancements.
 
-*Last updated on Nov 30, 2024.*
+*Last updated on Jan 8, 2025.*
 
 - <a href="#journals">Journals</a>
 - <a href="#conferences">Conferences</a>
@@ -116,6 +116,13 @@ This page shows my relatively up-to-date publication list, links to papers, and 
 
 ### Peer-Reviewed Conference Papers
 
+
+
+76. Simulation and Optimization Techniques for the Mitigation of Disruptions to Supply Chains  
+     R Patel, A. Rana, S. Luke, C. Domeniconi, <strong>H. Kavak</strong>, J. Jones, and A. Crooks   
+     <em>2023 Annual Modeling and Simulation Conference (ANNSIM)</em>, Hamilton, ON, Canada; May 23-26, 2024; IEEE  
+     [[Paper](https://cs.gmu.edu/~sean/papers/annsim23modeling.pdf)]
+     [[BibTex]()]
 
 
 77. Anti-american stance in Turkey: A twitter case study  
