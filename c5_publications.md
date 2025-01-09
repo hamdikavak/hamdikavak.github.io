@@ -119,8 +119,27 @@ This page showcases my publications, organized by categories such as journal art
 
 
 
-96. Massive Trajectory Data Based on Patterns of Life <span style="color: red;">(Received best data paper award)</span>  
-     H. Amiri, S. Ruan, J-S. Kim, H. Jin, <strong>H. Kavak</strong>, A. Crooks, D. Pfoser, C. Wenk and A. Züfle   
+70. The Patterns of Life Human Mobility Simulation  
+     H. Amiri, W. Kohn, S. Ruan, J-S. Kim, <strong>H. Kavak</strong>, A. Crooks, D. Pfoser, C. Wenk, and A. Züfle   
+     <em>2024 ACM SIGSPATIAL Conference</em>, Atlanta, GA, USA; Oct 29-Nov 1, 2024; doi: 10.1145/3678717.3691319 
+     [<a title="Paper" href="https://dl.acm.org/doi/pdf/10.1145/3678717.3691319">Paper</a>]
+     [[BibTex]()]
+
+
+71. Simulating Elections in the Context of Voter Behavior and Election Rules  
+     M. Hammer and <strong>H. Kavak</strong>   
+     <em>2024 Annual Modeling and Simulation Conference (ANNSIM)</em>, Washington, DC, USA May 20-23, 2024; IEEE; doi: 10.23919/ANNSIM61499.2024.10732640
+     [[Paper](https://ieeexplore.ieee.org/abstract/document/10732640)]
+     [[BibTex]()]
+
+72. Incorporating Trauma Propagation and Transmission in Agent-Based Models: A Preliminary Framework  
+     N. Bishop and <strong>H. Kavak</strong>   
+     <em>2024 Annual Modeling and Simulation Conference (ANNSIM)</em>, Washington, DC, USA May 20-23, 2024; IEEE; doi: 10.23919/ANNSIM61499.2024.10732632 
+     [[Paper](https://ieeexplore.ieee.org/abstract/document/10732632)]
+     [[BibTex]()]
+
+73. Massive Trajectory Data Based on Patterns of Life <span style="color: red;">(Received best data paper award)</span>  
+     H. Amiri, S. Ruan, J-S. Kim, H. Jin, <strong>H. Kavak</strong>, A. Crooks, D. Pfoser, C. Wenk, and A. Züfle   
      <em>2023 ACM SIGSPATIAL Conference</em>, Hamburg, Germany, Nov 13-16, 2023; doi: 10.1145/3589132.3625592  
      [<a title="Paper" href="https://www.osti.gov/servlets/purl/2267639">Paper</a>]
      [[BibTex]()]
