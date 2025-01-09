@@ -22,16 +22,21 @@ This page showcases my publications, organized by categories such as journal art
 ### Journal Papers
 
 
+9. Function and Form of US Cities.  
+        SM. Reia, T. Anderson, HF. Arruda, KS. Atwal, S. Ruan, <strong>H. Kavak</strong>, and D. Pfoser  
+        <em>Computers, Environment and Urban Systems</em>, 2024, 116(2024): 102221; doi: 10.1016/j.compenvurbsys.2024.102221  
+        [<a title="Paper" href="https://arxiv.org/pdf/2406.04543">Paper</a>]
+        [[BibTeX]()]  
 
 9. An OpenStreetMap derived building classification dataset for the United States.  
-        HF. Arruda , SM. Reia , KS. Atwal, <strong>H. Kavak</strong>, T. Anderson, and D. Pfoser  
-        <em>Scientific Data</em>, 2024, 10.1038/s41597-024-04046-w  
+        HF. Arruda, SM. Reia, S. Ruan, KS. Atwal, <strong>H. Kavak</strong>, T. Anderson, and D. Pfoser  
+        <em>Scientific Data</em>, 2024, doi: 10.1038/s41597-024-04046-w  
         [<a title="Paper" href="https://www.nature.com/articles/s41597-024-04046-w.pdf">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2024_building-classification.bib)]  
 
 9. In Silico Human Mobility Data Science: Leveraging Massive Simulated Mobility Data.  
         A. Züfle , D. Pfoser , C. Wenk, A. Crooks, <strong>H. Kavak</strong>, T. Anderson, J-S. Kim, N. Holt, and A. Diantonio  
-        <em>ACM Transactions on Spatial Algorithms and Systems</em>, 2024, doi:10.1145/3672557  
+        <em>ACM Transactions on Spatial Algorithms and Systems</em>, 2024, doi: 10.1145/3672557  
         [<a title="Paper" href="https://dl.acm.org/doi/pdf/10.1145/3672557">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2024_in-silico.bib)]  
 
@@ -116,7 +121,6 @@ This page showcases my publications, organized by categories such as journal art
 
 
 ### Peer-Reviewed Conference Papers
-
 
 
 70. The Patterns of Life Human Mobility Simulation  
