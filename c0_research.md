@@ -18,7 +18,7 @@ nav: yes
 
 My research involves two related areas: Modeling & Simulation (M&S) and Data Science. If we describe this relationship as a Venn diagram, as shown below, my primary research efforts focus on areas 1 and 2. On the M&S-focused research side (area 1), I tackle challenges related to core M&S topics, including verification and validation, conceptual modeling, and M&S tools. My second prominent focus is on using Data Science for M&S (area 2). Particularly, I design and use data-driven simulations, conduct simulation output analytics, and use emerging machine learning techniques in different steps of the M&S process. While limited, my data science-only focused research (area 3) involves creating and using data science techniques (e.g., machine learning) to solve problems in different domains. Cybersecurity and urban science are the main application domains for my research.  
 
-*Last updated on Oct 27, 2024.*  
+*Last updated on Sep 15, 2026.*  
 
 ![M&S and Data Science]({{ site.baseurl }}/images/pages/research_area_small.png)  
 
@@ -57,7 +57,8 @@ Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp
 
 <h3 class="hl_DSOnly">Human Mobility Prediction and Analysis</h3>
 [<i style="color:#888888" class="fas fa-check-square"></i> Foot Traffic Prediction]({{ site.baseurl }}/research%20presentation/2021/11/02/foot-traffic-prediction-paper.html)  
-[<i style="color:#888888" class="fas fa-check-square"></i> Change of Human Mobility During COVID-19]({{ site.baseurl }}/research/human-mobility-change-during-covid-19/)
+[<i style="color:#888888" class="fas fa-check-square"></i> Change of Human Mobility During COVID-19]({{ site.baseurl }}/research/human-mobility-change-during-covid-19/)  
+<i style="color:#888888" class="fas fa-check-square"></i> METROPOL: Modeling and Encoding TRajectories Of Patterns Of Life &#8212; IARPA-funded (HAYSTAC program), Co-PI, 2023&#8211;2026. <!-- TODO(Hamdi): add a dedicated project page + description when you have time; this was your largest grant (~$2.9M) and had no page at all. -->
 
 
 <h3 class="hl_MSOnly">Modeling and Simulation of Social Systems</h3>

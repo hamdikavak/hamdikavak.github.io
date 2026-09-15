@@ -5,21 +5,20 @@ permalink: /teaching/
 nav: yes
 ---
 
-I believe teaching and research should support each other as much as possible so that both students and instructors get something intellectually stimulating. In that respect, I opted for teaching and designing classes that involve a significant research component. Currently, I am teaching three such courses at George Mason University.
- 
-1. Modeling and Simulation 1 (CDS 230)
-2. Verification and Validation of Models (CSI 709/CSS 739)
-3. Spatial Agent-Based Models of Human-Environment Interactions (CSS 645/GGS 631)  
+I believe teaching and research should support each other as much as possible so that both students and instructors get something intellectually stimulating. In that respect, I opted for teaching and designing classes that involve a significant research component. Below are the courses I have taught at George Mason University.
 
-*Last updated on Jan 16, 2022.*
+1. Modeling and Simulation 1 (CDS 230)
+2. Verification and Validation of Models (CSS 717, formerly cross-listed as CSI 709/CSS 739)
+3. Spatial Agent-Based Models of Human-Environment Interactions (CSS 645/GGS 631)
+4. Scientific Information and Data Visualization (CDS 301)
+
+*Last updated on Sep 15, 2026.*
 
 ---
 <br/>
 
 ### Modeling and Simulation 1 (CDS 230)
 **Semesters offered:** Fall 2019, Spring 2020, Fall 2020 (Online), Spring 2021 (Online), Fall 2021.
-
-> I will not offer CDS 230 in 2022. You can still check other professors who teach different sections. I plan to teach this class again in Spring or Fall 2023.
 
 I am the course coordinator and instructor for the Modeling and Simulation 1 (CDS 230) course at George Mason University. In this course, students learn basic modeling and simulation concepts and get familiar with Python. The course website is located at [http://hamdikavak.com/course-modsim-1/](http://hamdikavak.com/course-modsim-1/). You can watch the welcome video to learn more about this course.
 
@@ -28,8 +27,10 @@ I am the course coordinator and instructor for the Modeling and Simulation 1 (CD
 ---
 <br/>
 
-### Verification and Validation of Models (CSI 709/CSS 739)
-**Semesters offered:** Fall 2020 (Online), Fall 2021  
+### Verification and Validation of Models (CSS 717)
+**Semesters offered:** Fall 2020 (Online), Fall 2021, Fall 2022, Fall 2023, Fall 2025, Fall 2026.
+
+*(Originally cross-listed as CSI 709/CSS 739; approved as a permanent course under the code CSS 717 in May 2024.)*
 
 ![V&V Class]({{ site.baseurl }}/images/pages/vnv_banner.png)  
 
@@ -54,13 +55,20 @@ Computational models come in different forms ranging from machine learning model
 <br/>
 
 ### Spatial Agent-Based Models of Human-Environment Interactions (CSS 645/GGS 631)
-**Semesters offered:** Spring 2021 (Online), Spring 2022  
+**Semesters offered:** Spring 2021 (Online), Spring 2022, Spring 2024, Spring 2026.
 
 This course will introduce graduate students in the spatial, environmental, and computational social sciences to the use of agent-based techniques as a means of modeling human-environment interactions. Major topics include spatial processes, the use of spatial identifiers to link socioeconomic and biophysical models, and, where possible, links to geographic information and associated technologies. We will cover applications in areas such as agriculture, epidemiology, forestry, biodiversity, habitat degradation, interactions between human populations and nonhuman species, and urban modeling.
 
 The course will combine literature review with some hands-on modeling. When demo versions are available, we will compile and run models as we review articles based on those models. In addition, students will complete a class project where they develop their own models in their areas of interest. Students with no programming background can develop simple models using NetLogo or AnyLogic. Students with advanced programming abilities are encouraged to develop more sophisticated models using packages such as GAMA, Repast, MASON, Mesa, etc., or may develop their own spatial agent-based model using the programming language of their choice.
 
-
 The design of this class is based on Dr. Andrew Crooks' Spring 2020 version. 
+
+---
+<br/>
+
+### Scientific Information and Data Visualization (CDS 301)
+**Semesters offered:** Fall 2024, Fall 2025, Fall 2026 (Online Asynchronous).
+
+This course equips students with the knowledge and skills to communicate scientific information and data through compelling visualizations. Topics include visual perception and cognitive biases, principles of effective data visualization, color theory and accessibility, and visualizing different data types (time series, distributions, relationships, and geospatial data), with hands-on exercises in Python (Matplotlib, Seaborn, Plotly, Dash, NetworkX, and GeoPandas), Gephi, and QGIS. The course culminates in a final project where students visualize a non-trivial dataset of their choice and present their work.
 
 ---
