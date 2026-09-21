@@ -64,7 +64,11 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 {% endfor %}
 {% for s in site.data.students.phd_chair.alumni %}
 * 🎓 **{{ s.name }}** - {{ s.program }} Ph.D. at GMU, 🎓{{ s.graduated }}.
+  {%- if s.dissertation_url %}
+  * Dissertation Title: [*{{ s.dissertation }}*]({{ s.dissertation_url }})
+  {%- else %}
   * Dissertation Title: *{{ s.dissertation }}*
+  {%- endif %}
   {%- if s.award %}
   * {{ s.award }}
   {%- endif %}
@@ -80,7 +84,11 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 {% endfor %}
 {% for s in site.data.students.phd_member.alumni %}
 * 🎓**{{ s.name }}** - Ph.D. at GMU, 🎓{{ s.graduated }}.
+  {%- if s.dissertation_url %}
+  * Dissertation Title: [*{{ s.dissertation }}*]({{ s.dissertation_url }})
+  {%- else %}
   * Dissertation Title: *{{ s.dissertation }}*
+  {%- endif %}
 {% endfor %}
 
 <br/>
