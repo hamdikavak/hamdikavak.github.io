@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Students
+title: Students & Postdocs
 permalink: /students/
 nav: yes
 ---
 
-I enjoy advising and supervising curious students at all levels, from high school to Ph.D. You can see the list of students that I supervised over the years on this page. Select one of the menu items below to navigate this page.
+I enjoy advising and supervising curious students at all levels, from high school to Ph.D., and mentoring postdoctoral researchers. You can see the list of people I've supervised over the years on this page. Select one of the menu items below to navigate this page.
 
 - [Open positions](#pos)
 - [Interested in working with me?](#int)
+- [Postdoctoral Researchers](#pd)
 - [List of students and their work](#lst)
-    - [Postdoctoral Researchers](#lst-pd)
     - [PhD](#lst-phd)
     - [MS](#lst-ms)
     - [Undergraduate](#lst-ug)
@@ -36,16 +36,12 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 * express whether you need funding/research assistant position.
 
 <br/>
-<a name="lst"/>
+<a name="pd"/>
 
-## List of students and their work
+## Postdoctoral Researchers
 ------
-
-<a name="lst-pd"/>
-
-#### <u>Postdoctoral Researchers</u>
 {% for p in site.data.students.postdocs.alumni %}
-* {% if p.subsequent_position %}🎓{% endif %}**{{ p.name }}** ({{ p.period }})
+* **{{ p.name }}** ({{ p.period }})
   * Co-mentored with {{ p.co_mentors }} on {{ p.project }}.
   {%- if p.subsequent_position %}
   * Subsequent position: {{ p.subsequent_position }}
@@ -53,6 +49,11 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 {% endfor %}
 
 <br/>
+<a name="lst"/>
+
+## List of students and their work
+------
+
 <a name="lst-phd"/>
 
 #### <u>Ph.D. Committee Chair</u> <small>({{ site.data.students.phd_chair.current.size }} current, {{ site.data.students.phd_chair.alumni.size }} graduated)</small>

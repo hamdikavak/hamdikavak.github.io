@@ -52,6 +52,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      "Students & Postdocs": "Students & Postdocs"
       Summer_2021: "Summer 2021"
     cn:
       Aboutme: "关于我"
@@ -75,6 +76,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      "Students & Postdocs": "Students & Postdocs"
       Summer_2021: "Summer 2021"
     jp:
       Aboutme: "著者"
@@ -98,6 +100,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      "Students & Postdocs": "Students & Postdocs"
       Summer_2021: "Summer 2021"
     pl:
       Aboutme: "O mnie"
@@ -121,6 +124,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      "Students & Postdocs": "Students & Postdocs"
       Summer_2021: "Summer 2021"
     kr:
       Aboutme: "저자 소개"
@@ -144,6 +148,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      "Students & Postdocs": "Students & Postdocs"
       Summer_2021: "Summer 2021"
     ru:
       Aboutme: "Обо мне" # = 'About me'
@@ -167,6 +172,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      "Students & Postdocs": "Students & Postdocs"
       Summer_2021: "Summer 2021"
     tr:
       Aboutme: "Hakkımda"
@@ -190,6 +196,7 @@ locales:
       Teaching: "Dersler"
       Publications: "Yayınlar"
       Students: "Oğrenciler"
+      "Students & Postdocs": "Oğrenciler ve Doktora Sonrası Araştırmacılar"
       Summer_2021: "Summer 2021"
     id:
       Aboutme: "Tentang Saya"
@@ -213,6 +220,7 @@ locales:
       Teaching: "Teaching"
       Publications: "Publications"
       Students: "Students"
+      "Students & Postdocs": "Students & Postdocs"
       Summer_2021: "Summer 2021"
 
 ### your Blogroll info, only name can shown on the page.
