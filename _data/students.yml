@@ -156,6 +156,11 @@ ms_member:
       project: "Elements of Urban Development in New York City: A venue-based quantitative analysis of New York Boroughs"
 
 undergrad:
+  current:
+    - name: "Ezgi Pinar"
+      school: "Shenandoah University"
+      program: "ASSIP 2025 – present"
+      project: "Immersive Agent-Based Modeling through Virtual Reality: Implementation and Case Studies"
   alumni:
     - name: "Steven Tai"
       note: "Studying COVID-19 Spread Through Spatiotemporal Mapping and Phylogenetic Techniques. Undergraduate Research Scholars Program (Summer 2022) recipient."
@@ -189,7 +194,22 @@ undergrad:
       note: "Verification and Validation as a Service. Subsequent position: Research Professional at Chicago Booth School of Business."
 
 high_school:
+  current:
+    - name: "Shreya Rachakonda"
+      program: "ASSIP 2025 – present"
+      project: "Physical Random Number Generators for Agent-Based Models"
+    - name: "Michael Wang"
+      program: "ASSIP 2025 – present"
+      project: "Immersive Agent-Based Modeling through Virtual Reality: Implementation and Case Studies"
+    - name: "Arnav Merla"
+      program: "ASSIP 2025 – present"
+      project: "Analyzing Visualization Practices in Modeling and Simulation"
+    - name: "Manil Singh-Prasad"
+      program: "ASSIP 2025 – present"
+      project: "Analyzing Visualization Practices in Modeling and Simulation"
   alumni:
+    - name: "Raahim Javaid"
+      note: "ASSIP 2025. Physical Random Number Generators for Agent-Based Models."
     - name: "Srihan Kotnana"
       note: "ASSIP 2021–2022, Westfield High School. College: University of Texas at Austin (Class of 2026)."
     - name: "Aarav Khanna"

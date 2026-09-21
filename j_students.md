@@ -105,7 +105,12 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 <br/>
 <a name="lst-ug"/>
 
-#### <u>Undergraduate Research Students</u> <small>({{ site.data.students.undergrad.alumni.size }} past)</small>
+#### <u>Undergraduate Research Students</u> <small>({{ site.data.students.undergrad.current.size | default: 0 }} current, {{ site.data.students.undergrad.alumni.size }} past)</small>
+{% for s in site.data.students.undergrad.current %}
+* **{{ s.name }}** - {{ s.school }}
+    * Project: *{{ s.project }}*
+    * {{ s.program }}
+{% endfor %}
 {% for s in site.data.students.undergrad.alumni %}
 * 🎓**{{ s.name }}**
     * {{ s.note }}
@@ -114,7 +119,12 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 <br/>
 <a name="lst-hs"/>
 
-#### <u>High School Research Students</u> <small>({{ site.data.students.high_school.alumni.size }} past)</small>
+#### <u>High School Research Students</u> <small>({{ site.data.students.high_school.current.size | default: 0 }} current, {{ site.data.students.high_school.alumni.size }} past)</small>
+{% for s in site.data.students.high_school.current %}
+* **{{ s.name }}**
+  * Project: *{{ s.project }}*
+  * {{ s.program }}
+{% endfor %}
 {% for s in site.data.students.high_school.alumni %}
 * 🎓**{{ s.name }}**
   * {{ s.note }}
