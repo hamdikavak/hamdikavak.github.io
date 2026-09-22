@@ -51,14 +51,14 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 #### <u>PhD Students</u> <small>({{ site.data.students.phd_chair.current.size }} as committee chair, {{ site.data.students.phd_member.current.size }} as committee member)</small>
 
 **As committee chair:**
-{% for s in site.data.students.phd_chair.current %}
+{% for s in site.data.students.phd_chair.current -%}
 * **{{ s.name }}** - {{ s.program }} Ph.D. student at GMU
   * Research topic: *{{ s.topic }}*
   * Expected graduation: *{{ s.expected_graduation | default: "TBD" }}*
 {% endfor %}
 
 **As committee member:**
-{% for s in site.data.students.phd_member.current %}
+{% for s in site.data.students.phd_member.current -%}
 * **{{ s.name }}** - {{ s.program }} Ph.D. student at GMU
 {% endfor %}
 
@@ -70,14 +70,14 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 #### <u>MS Students</u> <small>({{ ms_chair_current_size }} as committee chair, {{ ms_member_current_size }} as committee member)</small>
 {% if ms_chair_current_size > 0 %}
 **As committee chair:**
-{% for s in site.data.students.ms_chair.current %}
+{% for s in site.data.students.ms_chair.current -%}
 * **{{ s.name }}** - MS student at GMU
   * Project: *{{ s.project }}*
 {% endfor %}
 {% endif %}
 {% if ms_member_current_size > 0 %}
 **As committee member:**
-{% for s in site.data.students.ms_member.current %}
+{% for s in site.data.students.ms_member.current -%}
 * **{{ s.name }}** - MS student at GMU
 {% endfor %}
 {% endif %}
@@ -89,7 +89,7 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 <a name="current-ug"/>
 
 #### <u>Undergraduate Research Students</u> <small>({{ site.data.students.undergrad.current.size | default: 0 }} current)</small>
-{% for s in site.data.students.undergrad.current %}
+{% for s in site.data.students.undergrad.current -%}
 * **{{ s.name }}** - {{ s.school }}
     * Project: *{{ s.project }}*
     * {{ s.program }}
@@ -99,7 +99,7 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 <a name="current-hs"/>
 
 #### <u>High School Research Students</u> <small>({{ site.data.students.high_school.current.size | default: 0 }} current)</small>
-{% for s in site.data.students.high_school.current %}
+{% for s in site.data.students.high_school.current -%}
 * **{{ s.name }}**
   * Project: *{{ s.project }}*
   * {{ s.program }}
@@ -114,7 +114,7 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 <a name="alumni-pd"/>
 
 #### <u>Postdoctoral Researchers</u> <small>({{ site.data.students.postdocs.alumni.size }})</small>
-{% for p in site.data.students.postdocs.alumni %}
+{% for p in site.data.students.postdocs.alumni -%}
 * **{{ p.name }}** ({{ p.period }})
   * Co-mentored with {{ p.co_mentors }} on {{ p.project }}.
   {%- if p.subsequent_position %}
@@ -128,7 +128,7 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 #### <u>PhD Alumni</u> <small>({{ site.data.students.phd_chair.alumni.size }} chaired, {{ site.data.students.phd_member.alumni.size }} as committee member)</small>
 
 **Chaired:**
-{% for s in site.data.students.phd_chair.alumni %}
+{% for s in site.data.students.phd_chair.alumni -%}
 * 🎓 **{{ s.name }}** - {{ s.program }} Ph.D. at GMU, 🎓{{ s.graduated }}.
   {%- if s.dissertation_url %}
   * Dissertation Title: [*{{ s.dissertation }}*]({{ s.dissertation_url }})
@@ -144,7 +144,7 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 {% endfor %}
 
 **As committee member:**
-{% for s in site.data.students.phd_member.alumni %}
+{% for s in site.data.students.phd_member.alumni -%}
 * 🎓**{{ s.name }}** - {{ s.program }} Ph.D. at GMU, 🎓{{ s.graduated }}.
   {%- if s.dissertation_url %}
   * Dissertation Title: [*{{ s.dissertation }}*]({{ s.dissertation_url }})
@@ -159,13 +159,13 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 #### <u>MS Alumni</u> <small>({{ site.data.students.ms_chair.alumni.size }} chaired, {{ site.data.students.ms_member.alumni.size }} as committee member)</small>
 
 **Chaired:**
-{% for s in site.data.students.ms_chair.alumni %}
+{% for s in site.data.students.ms_chair.alumni -%}
 * 🎓**{{ s.name }}** - {{ s.program }}, MS degree awarded at GMU, {{ s.graduated }}.
   * Project title: *{{ s.project }}*
 {% endfor %}
 
 **As committee member:**
-{% for s in site.data.students.ms_member.alumni %}
+{% for s in site.data.students.ms_member.alumni -%}
 * 🎓**{{ s.name }}** - {{ s.program }}, MS degree awarded at GMU, {{ s.graduated }}.
   * Proj. title: *{{ s.project }}*
 {% endfor %}
@@ -174,7 +174,7 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 <a name="alumni-ug"/>
 
 #### <u>Undergraduate Alumni</u> <small>({{ site.data.students.undergrad.alumni.size }})</small>
-{% for s in site.data.students.undergrad.alumni %}
+{% for s in site.data.students.undergrad.alumni -%}
 * 🎓**{{ s.name }}**
     * {{ s.note }}
 {% endfor %}
@@ -183,7 +183,7 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 <a name="alumni-hs"/>
 
 #### <u>High School Alumni</u> <small>({{ site.data.students.high_school.alumni.size }})</small>
-{% for s in site.data.students.high_school.alumni %}
+{% for s in site.data.students.high_school.alumni -%}
 * 🎓**{{ s.name }}**
   * {{ s.note }}
 {% endfor %}
