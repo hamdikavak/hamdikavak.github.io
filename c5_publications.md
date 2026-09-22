@@ -62,7 +62,7 @@ This page showcases my publications, organized by categories such as journal art
         SM. Reia, T. Anderson, HF. Arruda, KS. Atwal, S. Ruan, <strong>H. Kavak</strong>, and D. Pfoser  
         <em>Computers, Environment and Urban Systems</em>, 2024, 116(2024): 102221; doi: 10.1016/j.compenvurbsys.2024.102221  
         [<a title="Paper" href="https://arxiv.org/pdf/2406.04543">Paper</a>]
-        [[BibTeX]()]  
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2024_j_us_cities.bib)]  
 
 9. An OpenStreetMap derived building classification dataset for the United States.  
         HF. Arruda, SM. Reia, S. Ruan, KS. Atwal, <strong>H. Kavak</strong>, T. Anderson, and D. Pfoser  
@@ -99,7 +99,7 @@ This page showcases my publications, organized by categories such as journal art
 
 9. A method to create a synthetic population with social networks for geographically-explicit agent-based models.  
         N. Jiang, W.G. Kennedy, A. Crooks, and <strong>H. Kavak</strong>
-        <span style="color: red;">(top 3 most read Computational Urban Science papers in 2022)</span>  
+        <span style="background-color:#fff4d6; color:#8a6100; padding:2px 8px; border-radius:12px; font-weight:600; font-size:0.9em; white-space:nowrap;">🏆 Top 3 Most-Read Computational Urban Science Paper (2022)</span>  
         <em>Computational Urban Science</em>, 2022, doi: 10.1007/s43762-022-00034-1  
         [<a title="Paper" href="https://link.springer.com/content/pdf/10.1007/s43762-022-00034-1.pdf">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2022_cus_synthetic.bib)]
@@ -128,7 +128,7 @@ This page showcases my publications, organized by categories such as journal art
         [<a title="Paper" href="http://dx.plos.org/10.1371/journal.pone.0232929">Paper</a>]
         [[BibTeX]({{ site.baseurl }}/download/bibs/2020_content-analysis.bib)]
 
-11. Temporal and Spatiotemporal Investigation of Tourist Attraction Visit Sentiment on Twitter <span style="color: red;">(among the top 10% most cited PLOS ONE papers published in 2018)</span>   
+11. Temporal and Spatiotemporal Investigation of Tourist Attraction Visit Sentiment on Twitter <span style="background-color:#fff4d6; color:#8a6100; padding:2px 8px; border-radius:12px; font-weight:600; font-size:0.9em; white-space:nowrap;">🏆 Top 10% Most-Cited PLOS ONE Paper (2018)</span>   
 	    J.J. Padilla, <strong>H. Kavak</strong>, C.J. Lynch, S.Y. Diallo, R.J. Gore,   
 	    <em>PLOS One</em>, 2018, doi:10.1371/journal.pone.0198857  
 	    [<a title="Paper" href="http://dx.plos.org/10.1371/journal.pone.0198857">Paper</a>]
@@ -199,121 +199,121 @@ This page showcases my publications, organized by categories such as journal art
      H. Amiri, W. Kohn, S. Ruan, J-S. Kim, <strong>H. Kavak</strong>, A. Crooks, D. Pfoser, C. Wenk, and A. Züfle   
      <em>2024 ACM SIGSPATIAL Conference</em>, Atlanta, GA, USA; Oct 29-Nov 1, 2024; doi: 10.1145/3678717.3691319 
      [<a title="Paper" href="https://dl.acm.org/doi/pdf/10.1145/3678717.3691319">Paper</a>]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2024_c_patterns_of_life.bib)]
 
 
 71. Simulating Elections in the Context of Voter Behavior and Election Rules  
      M. Hammer and <strong>H. Kavak</strong>   
      <em>2024 Annual Modeling and Simulation Conference (ANNSIM)</em>, Washington, DC, USA May 20-23, 2024; IEEE; doi: 10.23919/ANNSIM61499.2024.10732640
      [[Paper](https://ieeexplore.ieee.org/abstract/document/10732640)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2024_c_elections.bib)]
 
 72. Incorporating Trauma Propagation and Transmission in Agent-Based Models: A Preliminary Framework  
      N. Bishop and <strong>H. Kavak</strong>   
      <em>2024 Annual Modeling and Simulation Conference (ANNSIM)</em>, Washington, DC, USA May 20-23, 2024; IEEE; doi: 10.23919/ANNSIM61499.2024.10732632 
      [[Paper](https://ieeexplore.ieee.org/abstract/document/10732632)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2024_c_trauma.bib)]
 
-73. Massive Trajectory Data Based on Patterns of Life <span style="color: red;">(Received best data paper award)</span>  
+73. Massive Trajectory Data Based on Patterns of Life <span style="background-color:#fff4d6; color:#8a6100; padding:2px 8px; border-radius:12px; font-weight:600; font-size:0.9em; white-space:nowrap;">🏆 Best Data Paper Award</span>  
      H. Amiri, S. Ruan, J-S. Kim, H. Jin, <strong>H. Kavak</strong>, A. Crooks, D. Pfoser, C. Wenk, and A. Züfle   
      <em>2023 ACM SIGSPATIAL Conference</em>, Hamburg, Germany, Nov 13-16, 2023; doi: 10.1145/3589132.3625592  
      [<a title="Paper" href="https://www.osti.gov/servlets/purl/2267639">Paper</a>]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2023_c_massive_trajectory.bib)]
 
 
 74. The Effect of Empathy on Happiness in Social Networks: An Agent-Based Simulation Study  
      N. Bishop and <strong>H. Kavak</strong>   
      <em>2023 Annual Modeling and Simulation Conference (ANNSIM)</em>, Hamilton, ON, Canada; May 23-26, 2023; IEEE  
      [[Paper](https://ieeexplore.ieee.org/abstract/document/10155390)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2023_c_empathy_happiness.bib)]
 
 75. A Large-Scale Agent-Based Model Using The Spiral Software Development Process  
      M. Malikov, F. Aloraini, <strong>H. Kavak</strong>, W. Kennedy, and A. Crooks   
      <em>2023 Annual Modeling and Simulation Conference (ANNSIM)</em>, Hamilton, ON, Canada; May 23-26, 2023; IEEE  
      [[Paper](https://www.researchgate.net/profile/Andrew-Crooks/publication/371938832_DEVELOPING_A_LARGE-SCALE_AGENT-BASED_MODEL_USING_THE_SPIRAL_SOFTWARE_DEVELOPMENT_PROCESS/links/649c8f948de7ed28ba6186db/DEVELOPING-A-LARGE-SCALE-AGENT-BASED-MODEL-USING-THE-SPIRAL-SOFTWARE-DEVELOPMENT-PROCESS.pdf)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2023_c_spiral_development.bib)]
      
 
 76. Simulation and Optimization Techniques for the Mitigation of Disruptions to Supply Chains  
      R. Patel, A. Rana, S. Luke, C. Domeniconi, <strong>H. Kavak</strong>, J. Jones, and A. Crooks   
      <em>2023 Annual Modeling and Simulation Conference (ANNSIM)</em>, Hamilton, ON, Canada; May 23-26, 2023; IEEE  
      [[Paper](https://cs.gmu.edu/~sean/papers/annsim23modeling.pdf)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2023_c_supply_chain_mitigation.bib)]
 
 
 77. Anti-american stance in Turkey: A twitter case study  
      G. Prathap, A. Korb, L. Palmieri, E. Kaya, S. Karahan, and <strong>H. Kavak</strong>       
      <em>International Conference on Cyber Warfare and Security 2023</em>, Towson, MD, USA, March 9-10, 2023; ACM, doi: 10.34190/iccws.18.1.1003  
      [[Paper](https://papers.academic-conferences.org/index.php/iccws/article/view/1003)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2023_c_antiamerican_twitter.bib)]
 
 
 78. S-400s, Disinformation, and Anti-american Sentiment in Turkey  
      A. Korb, S. Karahan, G. Prathap, E. Kaya, L. Palmieri, and <strong>H. Kavak</strong>       
      <em>International Conference on Cyber Warfare and Security 2023</em>, Towson, MD, USA, March 9-10, 2023; ACM, doi: 10.34190/iccws.18.1.992  
      [[Paper](https://papers.academic-conferences.org/index.php/iccws/article/view/992/954)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2023_c_s400_disinformation.bib)]
 
 
 79. Human Mobility-based Synthetic Social Network Generation  
      K. Gallagher, S. Kotnana, S. Satishkumar, K. Siripurapu, J. Elarde, T. Anderson, A. Züfle and <strong>H. Kavak</strong>       
      <em>2nd ACM SIGSPATIAL International Workshop on Animal Movement Ecology and Human Mobility</em>, Seattle, WA, USA, November 1, 2022; ACM, doi: 10.1145/3557921.3565540  
      [[Paper](https://dl.acm.org/doi/pdf/10.1145/3557921.3565540)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2022_c_mobility_social_network.bib)]
 
 
 
-80. Revisiting Linus’ Law in OpenStreetMap: An Agent-Based Approach <span style="color: red;">(Received best student paper award)</span>  
+80. Revisiting Linus’ Law in OpenStreetMap: An Agent-Based Approach <span style="background-color:#fff4d6; color:#8a6100; padding:2px 8px; border-radius:12px; font-weight:600; font-size:0.9em; white-space:nowrap;">🏆 Best Student Paper Award</span>  
      A. McGough-Peker,  <strong>H. Kavak</strong>, and R. Mahabir  
      <em>2022 International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS)</em>, Pittsburg, PA, USA, September 20-22, 2022; Springer, doi: 10.1007/978-3-031-17114-7_12  
      [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-17114-7_12)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2022_c_linus_law.bib)]
 
 
 81. Imitation Learning for Social Simulation  
      J. Downes and <strong>H. Kavak</strong>       
      <em>2022 International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS)</em>, Pittsburg, PA, USA, September 20-22, 2022; Springer, doi: 10.1007/978-3-031-17114-7_17  
      [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-17114-7_17)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2022_c_imitation_learning.bib)]
 
 
 82. Evacuation in the Presence of Bad Actors  
      C. Petri and <strong>H. Kavak</strong>       
      <em>2022 International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS)</em>, Pittsburg, PA, USA, September 20-22, 2022;  
      [[Paper](https://sbp-brims.org/2022/papers/working-papers/2022_SBP-BRiMS_Final_Paper_PDF_1702.pdf)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2022_c_evacuation_bad_actors.bib)]
 
 
 83. Mitigation of Optimized Pharmaceutical Supply Chain Disruptions by Criminal Agents  
      A. Rana, <strong>H. Kavak</strong>, A. Crooks, C. Domeniconi, S. Luke, and J. Jones       
      <em>2022 International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS)</em>, Pittsburg, PA, USA, September 20-22, 2022; Springer, doi: 10.1007/978-3-031-17114-7_2  
      [[Paper](https://cs.gmu.edu/~sean/papers/sbpbrims22.pdf)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2022_c_pharma_supply_chain.bib)]
 
 84. Using Generative Adversarial Networks to Assist Synthetic Population Creation for Simulations  
      S Kotnana, D. Han, T. Anderson, A. Züfle, and <strong>H. Kavak</strong>     
      <em>2022 Annual Modeling and Simulation Conference (ANNSIM)</em>, San Diego, CA, USA, July 18-20, 2022; IEEE, doi: 10.23919/ANNSIM55834.2022.9859422  
      [[Paper](https://par.nsf.gov/servlets/purl/10409331)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2022_c_gan_synthetic_population.bib)]
 
 
 85. Phyloview: A system to visualize the ecology of infectious diseases using phylogenetic data  
      MT. Le, D. Attaway, T. Anderson, <strong>H. Kavak</strong>, A. Roess, and A. Züfle     
      <em>23rd IEEE International Conference on Mobile Data Management (MDM)</em>, Paphos, Cyprus (Online), June 6-9, 2022; IEEE, doi: 10.1109/MDM55031.2022.00051  
      [[Paper](https://par.nsf.gov/servlets/purl/10409330)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2022_c_phyloview.bib)]
 
 86. A System to Study Anti-American Misinformation and Disinformation Efforts on Social Media  
      G. Prathap, E. Kaya, L. Palmieri, A. Korb, S. Karahan, and <strong>H. Kavak</strong>   
      <em>2022 Systems and Information Engineering Design Symposium (SIEDS)</em>, Charlottesville, VA, USA (Online), April 28-29, 2022; IEEE, doi: 10.1109/SIEDS55548.2022.9799334  
      [[Paper](https://ieeexplore.ieee.org/abstract/document/9799334)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2022_c_misinformation_social_media.bib)]
 
 87. Investigating Disinformation Through the Lens of Mass Media: A System Design  
      L. Palmieri, E. Kaya, G. Prathap, and <strong>H. Kavak</strong>   
      <em>2022 Systems and Information Engineering Design Symposium (SIEDS)</em>, Charlottesville, VA, USA (Online), April 28-29, 2022; IEEE, doi: 10.1109/SIEDS55548.2022.9799320  
      [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/361527142_Investigating_Disinformation_Through_the_Lens_of_Mass_Media_A_System_Design/links/62c89b373bbe636e0c4bd3bf/Investigating-Disinformation-Through-the-Lens-of-Mass-Media-A-System-Design.pdf)]
-     [[BibTex]()]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2022_c_mass_media_disinformation.bib)]
 
 
 88. Spatiotemporal Prediction of Foot Traffic  
@@ -344,7 +344,7 @@ This page showcases my publications, organized by categories such as journal art
      U. Manzoor, <strong>H. Kavak</strong>, J-S. Kim, A. Crooks, D. Pfoser, A. Züfle, and C. Wenk  
      <em>2021 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</em>, Washington, DC, USA (Online), July 6-9, 2021  
      [[Paper](https://www.researchgate.net/profile/Andrew-Crooks/publication/353043879_Towards_Large-Scale_Agent-Based_Geospatial_Simulation/links/60e5cd6b1c28af345850bdf5/Towards-Large-Scale-Agent-Based-Geospatial-Simulation.pdf)]
-     [[BibTex]({{ site.baseurl }}/download/bibs/2021_towards.bib)]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2021_c_large_scale_geospatial.bib)]
 
 93. Data-Driven Mobility Models for COVID-19 Simulation  
      J. Pesavento, A. Chen, R. Yu, J-S. Kim, <strong>H. Kavak</strong>, T. Anderson, and A. Züfle   
@@ -352,7 +352,7 @@ This page showcases my publications, organized by categories such as journal art
     [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/347832686_Data-driven_mobility_models_for_COVID-19_simulation/links/61f2d2509a753545e2fe9bbb/Data-driven-mobility-models-for-COVID-19-simulation.pdf)]
     [[BibTex]({{ site.baseurl }}/download/bibs/2020_data-driven.bib)]
 
-94. Location-Based Social Network Data Generation Based on Patterns of Life <span style="color: red;">(~23% full paper acceptance rate)</span>  
+94. Location-Based Social Network Data Generation Based on Patterns of Life <span style="color:#666; font-size:0.9em;">(~23% full paper acceptance rate)</span>  
      J-S. Kim, H. Jin, <strong>H. Kavak</strong>, O.C. Rouly, A. Crooks, D. Pfoser, C. Wenk and A. Züfle   
      <em>The 21st IEEE International Conference on Mobile Data Management</em>, Versailles, France (Online), June 30-July 3, 2020  
     [[Paper](https://www.researchgate.net/profile/Ovi-Rouly/publication/343520283_Location-Based_Social_Network_Data_Generation_Based_on_Patterns_of_Life/links/5f3291f2458515b729159340/Location-Based-Social-Network-Data-Generation-Based-on-Patterns-of-Life.pdf)]
@@ -370,7 +370,7 @@ This page showcases my publications, organized by categories such as journal art
      [<a title="Paper" href="https://par.nsf.gov/servlets/purl/10187146">Paper</a>]
      [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2019_urban_pol.bib">BibTex</a>]
 
-97. Location-Based Social Simulation <span style="color: red;">(Best vision paper runner-up)</span>  
+97. Location-Based Social Simulation <span style="background-color:#fff4d6; color:#8a6100; padding:2px 8px; border-radius:12px; font-weight:600; font-size:0.9em; white-space:nowrap;">🏆 Best Vision Paper Runner-Up</span>  
      <strong>H. Kavak</strong>, J-S. Kim, A. Crooks, D. Pfoser, C. Wenk and A. Züfle  
      <em>16th International Symposium on Spatial and Temporal Databases (SSTD 2019)</em>, Vienna, Austria, August 19-21, 2019  
      [<a title="ACM DL Archive" href="https://dl.acm.org/doi/10.1145/3340964.3340995">Paper</a>]
@@ -494,7 +494,7 @@ This page showcases my publications, organized by categories such as journal art
     [<a title="RG Archive" href="https://www.researchgate.net/publication/328944888_Procedural_city_generation_beyond_game_development">Paper</a>]
     [<a title="BibTeX" href="{{ site.baseurl }}/download/bibs/2019_procedural.bib">BibTex</a>]
 
-12. Human Mobility Simulation Framework Using Big Data and Agents <span style="color: red;">(Best presentation award)</span>  
+12. Human Mobility Simulation Framework Using Big Data and Agents <span style="background-color:#fff4d6; color:#8a6100; padding:2px 8px; border-radius:12px; font-weight:600; font-size:0.9em; white-space:nowrap;">🏆 Best Presentation Award</span>  
     <strong>H. Kavak</strong> and J.J. Padilla   
     2016 Spring Simulation Conference, Poster Session and Student Colloquium,  doi:10.13140/RG.2.1.4179.7522  
     [<a title="RG Archive" href="https://www.researchgate.net/publication/299889096_Human_Mobility_Simulation_Framework_Using_Big_Data_and_Agents">Poster</a>]
