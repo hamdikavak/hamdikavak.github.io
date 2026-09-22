@@ -467,10 +467,10 @@ This page showcases my publications, organized by categories such as journal art
 
 
 9. Bias, Fairness, and Assurance in AI: Overview and Synthesis  
-    A. Al-Khulaidy Stine and <strong>H. Kavak</strong>
-    AI Assurance, Edited by Feras Batarseh and Laura Freeman. Springer; 2021  
-    [Paper]
-	[[BibTex]
+    A. Al-Khulaidy Stine and <strong>H. Kavak</strong>  
+    <em>AI Assurance: Towards Trustworthy, Explainable, Safe, and Ethical AI</em>, Edited by Feras A. Batarseh and Laura J. Freeman. Academic Press, 2023, 125-151; doi: 10.1016/B978-0-323-91919-7.00016-0  
+    [<a title="Paper" href="https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780323919197000160">Paper</a>]
+    [[BibTex]({{ site.baseurl }}/download/bibs/2023_book_ai_assurance.bib)]
 
 <a name="others"></a>
 
@@ -509,4 +509,8 @@ This page showcases my publications, organized by categories such as journal art
 ### Papers in Progress
 
 1. Immersive Agent-Based Modeling through Virtual Reality: Implementation and Case Studies. M. Wang, N.E. Pinar, and <strong>H. Kavak</strong>. To be submitted to Journal of Simulation Practice and Theory.
+
+2. Synthetic Populations for Public Health Policy and Planning. E. Von Hoene, <strong>H. Kavak</strong>, and T. Anderson. Book chapter to appear in <em>Synthetic Population: Predicting Futures with Realistic Digital Communities</em>, edited by Ed Hua, Bianica Pires, and Jon Cline.
+
+3. Surrogate Modeling for Agent-Based Simulation. <strong>H. Kavak</strong>. Book chapter to appear in <em>Artificial Intelligence in Modeling and Simulation</em>, edited by Philippe J. Giabbanelli.
 
