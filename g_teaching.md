@@ -12,9 +12,9 @@ I believe teaching and research should support each other as much as possible so
 3. 🟢 Spatial Agent-Based Models of Human-Environment Interactions (CSS 645/GGS 631)
 4. 🔴 Modeling and Simulation 1 (CDS 230)
 
-🟢 Actively taught &nbsp;&nbsp; 🔴 Not currently offered
+<small>🟢 Actively taught &nbsp;&nbsp; 🔴 Not currently offered</small>
 
-*Last updated on Sep 15, 2026.*
+*Last updated on Sep 22, 2026.*
 
 ---
 <br/>
@@ -52,7 +52,7 @@ This course equips students with the knowledge and skills to communicate scienti
 
 ![CSS 717 Class]({{ site.baseurl }}/images/pages/css717_title.jpg)  
 
-Computational models come in different forms ranging from machine learning models that predict/classify patterns to agent-based models that investigate emergent phenomena from a bottom-up perspective. Regardless of their type, all computational models should go through Verification and Validation (V&V), which checks the correctness of the model's design and performance. The proliferation of high-level frameworks and tools make it possible to bypass or overlook V&V. This graduate-level course aims to teach and improve V&V practices. Topics of the last version of the class are provided below. Students will further their knowledge with writing assignments, paper presentations, and a final project.
+Computational models come in different forms ranging from machine learning models that predict/classify patterns to agent-based models that investigate emergent phenomena from a bottom-up perspective. Regardless of their type, all computational models should go through Verification and Validation (V&V), which checks the correctness of the model's design and performance. The proliferation of high-level frameworks and tools make it possible to bypass or overlook V&V. This graduate-level course aims to teach and improve V&V practices. Topics from the current offering are listed below. Students will further their knowledge with writing assignments, paper presentations, and a final project.
 
 **Course topics:**
 - Models in Science
