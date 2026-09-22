@@ -508,11 +508,5 @@ This page showcases my publications, organized by categories such as journal art
 
 ### Papers in Progress
 
-1. Method to Create a Synthetic Population with Social Networks for Geographically Explicit Agent-Based Models. N. Jiang, W.G. Kennedy , A. Crooks, and <strong>H. Kavak</strong>. Revised version submitted to Computational Urban Science.
-
-2. PhyloView: A System to Visualize the Ecology of Infectious Diseases using Phylogenetic Data. M.T. Le , D. Attaway , T. Anderson, <strong>H. Kavak</strong>, A. Roess, A. Züfle. To be submitted to Mobile Data Management 2022.
-
-2. A general epidemic model in an open system considering different preferences towards wearing masks and its application to mask design. C. Wang and <strong>H. Kavak</strong>. Submitted to Bulletin of Mathematical Biology.
-
-5. Verification and Validation as a Service. H. Kavak et al.
+1. Immersive Agent-Based Modeling through Virtual Reality: Implementation and Case Studies. M. Wang, N.E. Pinar, and <strong>H. Kavak</strong>. To be submitted to Journal of Simulation Practice and Theory.
 
