@@ -31,7 +31,9 @@ Legend: ➕ new &nbsp;&nbsp;
 
 <br/>
 {% for cat in site.data.research.categories -%}
-{% assign cat_current = site.data.research.projects | where: "category", cat.name | where_exp: "p", "p.status == 'new' or p.status == 'ongoing'" -%}
+{% assign cat_new_only = site.data.research.projects | where: "category", cat.name | where: "status", "new" -%}
+{% assign cat_ongoing_only = site.data.research.projects | where: "category", cat.name | where: "status", "ongoing" -%}
+{% assign cat_current = cat_new_only | concat: cat_ongoing_only -%}
 {% if cat_current.size > 0 -%}
 <h3 class="{{ cat.color_class }}">{{ cat.name }}</h3>
 {% for p in cat_current -%}
