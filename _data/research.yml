@@ -1,0 +1,116 @@
+# Research page data for /research/. Edit this file to add/update projects;
+# c0_research.md renders it automatically. Each project's "status" (new,
+# ongoing, or completed) determines which section it appears in and which
+# icon it gets -- no need to move entries between sections by hand.
+#
+# Categories are listed once, in display order, with their M&S/Data-Science
+# color coding. A category heading is only shown in a section (current or
+# past) if it has at least one project with a matching status there.
+
+categories:
+  - name: "Data-Driven Modeling of Agents"
+    color_class: "hl_DSForMS"
+  - name: "Verification and Validation"
+    color_class: "hl_MSOnly"
+  - name: "Simulation Data and Analytics"
+    color_class: "hl_DSForMS"
+  - name: "Social Media Analytics"
+    color_class: "hl_DSOnly"
+  - name: "Human Mobility Prediction and Analysis"
+    color_class: "hl_DSOnly"
+  - name: "Modeling and Simulation of Social Systems"
+    color_class: "hl_MSOnly"
+  - name: "Modeling and Simulation Practice"
+    color_class: "hl_MSOnly"
+
+projects:
+  - title: "Data-driven Mobility Modeling for COVID-19 Simulation"
+    category: "Data-Driven Modeling of Agents"
+    status: "ongoing"
+    link: "/research/data-driven-mobility-covid-19/"
+
+  - title: "Verification and Validation Framework for COVID-19 Models"
+    category: "Verification and Validation"
+    status: "ongoing"
+    link: "/research/verification-and-validation-covid-models/"
+
+  - title: "The Future of Agent-Based Model Verification and Validation"
+    category: "Verification and Validation"
+    status: "ongoing"
+    link: "/research/verification-and-validation-future-abm/"
+
+  - title: "Verification and Validation as a Service"
+    category: "Verification and Validation"
+    status: "ongoing"
+    link: "/research/verification-and-validation-service/"
+
+  - title: "Reusable Synthetic Population Data"
+    category: "Simulation Data and Analytics"
+    status: "ongoing"
+    link: "/research/simulation-data-analytics-reusable-synthetic-population/"
+
+  - title: "Data-Driven ABM Methodology and Applications"
+    category: "Data-Driven Modeling of Agents"
+    status: "completed"
+    link: "/research/data-driven-abm-methodology/"
+
+  - title: "Anti-American Misinformation/Disinformation Efforts in Social and Mass Media"
+    category: "Social Media Analytics"
+    status: "completed"
+    link: "/research/social-media-misinformation/"
+
+  - title: "Predicting People's Home Location From Sparse Footprints"
+    category: "Social Media Analytics"
+    status: "completed"
+    link: "/research/social-media-home-location-prediction/"
+
+  - title: "Ever wondered how tourists feel in their attraction visits?"
+    category: "Social Media Analytics"
+    status: "completed"
+    link: "/research/social-media-attraction-visit-sentiment/"
+
+  - title: "Foot Traffic Prediction"
+    category: "Human Mobility Prediction and Analysis"
+    status: "completed"
+    link: "/research%20presentation/2021/11/02/foot-traffic-prediction-paper.html"
+
+  - title: "Change of Human Mobility During COVID-19"
+    category: "Human Mobility Prediction and Analysis"
+    status: "completed"
+    link: "/research/human-mobility-change-during-covid-19/"
+
+  - title: "METROPOL: Modeling and Encoding TRajectories Of Patterns Of Life"
+    category: "Human Mobility Prediction and Analysis"
+    status: "completed"
+    description: "IARPA-funded (HAYSTAC program), Co-PI, 2023–2026."
+    note: "TODO(Hamdi): add a dedicated project page + description when you have time; this was your largest grant (~$2.9M) and had no page at all."
+
+  - title: "DARPA Urban Life Model"
+    category: "Modeling and Simulation of Social Systems"
+    status: "completed"
+    link: "/research/modeling-and-simulation-darpa-urban-life/"
+
+  - title: "How Modelers Develop Models?"
+    category: "Modeling and Simulation of Social Systems"
+    status: "completed"
+    link: "/research/modeling-and-simulation-modeler/"
+
+  - title: "Contributions to Simulation of Cybersecurity"
+    category: "Modeling and Simulation of Social Systems"
+    status: "completed"
+    link: "/research/modeling-and-simulation-cybersecurity-contributions/"
+
+  - title: "Methodological Contributions to Simulation Verification and Validation (Pre 2021)"
+    category: "Verification and Validation"
+    status: "completed"
+    link: "/research/verification-and-validation-pre2021/"
+
+  - title: "CLOUDES"
+    category: "Modeling and Simulation Practice"
+    status: "completed"
+    link: "/research/cloudes/"
+
+  - title: "M&amp;S Cube"
+    category: "Modeling and Simulation Practice"
+    status: "completed"
+    link: "/research/ms-cube/"

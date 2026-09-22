@@ -25,53 +25,39 @@ My research involves two related areas: Modeling & Simulation (M&S) and Data Sci
 <br/>
 Here is a list of research projects that I am/was involved as a participant, mentor, or lead and are highlighted according to the schema colors above. Click on the title to see the details.
 
-Legend: <i style="color:#008500" class="fas fa-plus-square"></i> new &nbsp;&nbsp; 
- <i style="color:#FE7B0E" class="fas fa-sync-alt"></i> ongoing &nbsp;&nbsp;
- <i style="color:#888888" class="fas fa-check-square"></i> completed  
+Legend: ➕ new &nbsp;&nbsp; 
+ 🔄 ongoing &nbsp;&nbsp;
+ ✅ completed  
 
 <br/>
-<h3 class="hl_DSForMS">Data-Driven Modeling of Agents</h3>
-[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Data-driven Mobility Modeling for COVID-19 Simulation]({{ site.baseurl }}/research/data-driven-mobility-covid-19/)  
- 
-<h3 class="hl_MSOnly">Verification and Validation</h3>
-[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Verification and Validation Framework for COVID-19 Models]({{ site.baseurl }}/research/verification-and-validation-covid-models/)  
-[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> The Future of Agent-Based Model Verification and Validation]({{ site.baseurl }}/research/verification-and-validation-future-abm/)  
-[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Verification and Validation as a Service]({{ site.baseurl }}/research/verification-and-validation-service/)  
-
-<h3 class="hl_DSForMS">Simulation Data and Analytics</h3>
-[<i style="color:#FE7B0E" class="fas fa-sync-alt"></i> Reusable Synthetic Population Data]({{ site.baseurl }}/research/simulation-data-analytics-reusable-synthetic-population/)  
-
+{% for cat in site.data.research.categories -%}
+{% assign cat_current = site.data.research.projects | where: "category", cat.name | where_exp: "p", "p.status == 'new' or p.status == 'ongoing'" -%}
+{% if cat_current.size > 0 -%}
+<h3 class="{{ cat.color_class }}">{{ cat.name }}</h3>
+{% for p in cat_current -%}
+{% if p.status == "new" %}{% assign icon = '➕' %}{% else %}{% assign icon = '🔄' %}{% endif -%}
+[{{ icon }} {{ p.title }}]({{ site.baseurl }}{{ p.link }})  
+{% endfor %}
+{% endif -%}
+{% endfor %}
 
 <br/>
 ## Past/Completed Research Projects
 <hr/>
 
-<h3 class="hl_DSForMS">Data-Driven Modeling of Agents</h3>
-[<i style="color:#888888" class="fas fa-check-square"></i> Data-Driven ABM Methodology and Applications]({{ site.baseurl }}/research/data-driven-abm-methodology/)
-
-<h3 class="hl_DSOnly">Social Media Analytics</h3>
-[<i style="color:#888888" class="fas fa-check-square"></i> Anti-American Misinformation/Disinformation Efforts in Social and Mass Media]({{ site.baseurl }}/research/social-media-misinformation/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> Predicting People's Home Location From Sparse Footprints]({{ site.baseurl }}/research/social-media-home-location-prediction/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> Ever wondered how tourists feel in their attraction visits?]({{ site.baseurl }}/research/social-media-attraction-visit-sentiment/)
-
-
-<h3 class="hl_DSOnly">Human Mobility Prediction and Analysis</h3>
-[<i style="color:#888888" class="fas fa-check-square"></i> Foot Traffic Prediction]({{ site.baseurl }}/research%20presentation/2021/11/02/foot-traffic-prediction-paper.html)  
-[<i style="color:#888888" class="fas fa-check-square"></i> Change of Human Mobility During COVID-19]({{ site.baseurl }}/research/human-mobility-change-during-covid-19/)  
-<i style="color:#888888" class="fas fa-check-square"></i> METROPOL: Modeling and Encoding TRajectories Of Patterns Of Life &#8212; IARPA-funded (HAYSTAC program), Co-PI, 2023&#8211;2026. <!-- TODO(Hamdi): add a dedicated project page + description when you have time; this was your largest grant (~$2.9M) and had no page at all. -->
-
-
-<h3 class="hl_MSOnly">Modeling and Simulation of Social Systems</h3>
-[<i style="color:#888888" class="fas fa-check-square"></i> DARPA Urban Life Model]({{ site.baseurl }}/research/modeling-and-simulation-darpa-urban-life/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> How Modelers Develop Models?]({{ site.baseurl }}/research/modeling-and-simulation-modeler/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> Contributions to Simulation of Cybersecurity]({{ site.baseurl }}/research/modeling-and-simulation-cybersecurity-contributions/)  
-
-<h3 class="hl_MSOnly">Verification and Validation</h3>
-[<i style="color:#888888" class="fas fa-check-square"></i> Methodological Contributions to Simulation Verification and Validation (Pre 2021)]({{ site.baseurl }}/research/verification-and-validation-pre2021/)
-   
-<h3 class="hl_MSOnly">Modeling and Simulation Practice</h3>
-[<i style="color:#888888" class="fas fa-check-square"></i> CLOUDES]({{ site.baseurl }}/research/cloudes/)  
-[<i style="color:#888888" class="fas fa-check-square"></i> M&amp;S Cube]({{ site.baseurl }}/research/ms-cube/)  
+{% for cat in site.data.research.categories -%}
+{% assign cat_past = site.data.research.projects | where: "category", cat.name | where: "status", "completed" -%}
+{% if cat_past.size > 0 -%}
+<h3 class="{{ cat.color_class }}">{{ cat.name }}</h3>
+{% for p in cat_past -%}
+{% if p.link -%}
+[✅ {{ p.title }}]({{ site.baseurl }}{{ p.link }})  
+{% else -%}
+✅ {{ p.title }} &#8212; {{ p.description }}{% if p.note %} <!-- {{ p.note }} -->{% endif %}
+{% endif -%}
+{% endfor %}
+{% endif -%}
+{% endfor %}
 
 <br/>     
 ## Web-based simulations and tools
