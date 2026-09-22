@@ -14,7 +14,7 @@ This page showcases my publications, organized by categories such as journal art
 - <a href="#conferences">Conferences</a>
 - <a href="#books">Book Chapters</a>
 - <a href="#others">Other Publications</a>
-- <a href="#rev">Papers In Progress</a>
+- <a href="#rev">Publications in Progress</a>
 
 
 <a name="journals"></a>
@@ -522,7 +522,7 @@ This page showcases my publications, organized by categories such as journal art
 
 <a name="rev"></a>
 
-### Papers in Progress
+### Publications in Progress
 
 1. Immersive Agent-Based Modeling through Virtual Reality: Implementation and Case Studies. M. Wang, N.E. Pinar, and <strong>H. Kavak</strong>. To be submitted to Journal of Simulation Practice and Theory.
 
