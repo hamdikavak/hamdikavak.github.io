@@ -83,7 +83,7 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
 * **{{ s.name }}** - {{ s.program }} Ph.D. student at GMU
 {% endfor %}
 {% for s in site.data.students.phd_member.alumni %}
-* 🎓**{{ s.name }}** - Ph.D. at GMU, 🎓{{ s.graduated }}.
+* 🎓**{{ s.name }}** - {{ s.program }} Ph.D. at GMU, 🎓{{ s.graduated }}.
   {%- if s.dissertation_url %}
   * Dissertation Title: [*{{ s.dissertation }}*]({{ s.dissertation_url }})
   {%- else %}
@@ -100,13 +100,13 @@ Send an email at hkavak [at] gmu.edu and mention four things please:
   * Project: *{{ s.project }}*
 {% endfor %}
 {% for s in site.data.students.ms_chair.alumni %}
-* 🎓**{{ s.name }}** - MS degree awarded at GMU, {{ s.graduated }}.
+* 🎓**{{ s.name }}** - {{ s.program }}, MS degree awarded at GMU, {{ s.graduated }}.
   * Project title: *{{ s.project }}*
 {% endfor %}
 
 #### <u>MS Committee Member</u>
 {% for s in site.data.students.ms_member.alumni %}
-* 🎓**{{ s.name }}** - MS degree awarded at GMU, {{ s.graduated }}.
+* 🎓**{{ s.name }}** - {{ s.program }}, MS degree awarded at GMU, {{ s.graduated }}.
   * Proj. title: *{{ s.project }}*
 {% endfor %}
 
