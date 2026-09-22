@@ -159,25 +159,21 @@ This page showcases my publications, organized by categories such as journal art
 ### Peer-Reviewed Conference Papers
 
 
-70. Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models.  
+70. Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models. <span style="background-color:#dbeafe; color:#1e40af; padding:2px 8px; border-radius:12px; font-weight:600; font-size:0.9em; white-space:nowrap;">📄 Accepted</span>  
      O.Y. Cinar, T.E. Ozkose, E. Von Hoene, A. Roess, T. Anderson, and <strong>H. Kavak</strong>   
      <em>Proceedings of the 2026 Winter Simulation Conference (WSC)</em>  
-     [[BibTex]({{ site.baseurl }}/download/bibs/2026_c_llm_disease_review.bib)]
 
-70. Powering Agents with Generative AI: A Research Agenda for Generative Agent-Based Models.  
+70. Powering Agents with Generative AI: A Research Agenda for Generative Agent-Based Models. <span style="background-color:#dbeafe; color:#1e40af; padding:2px 8px; border-radius:12px; font-weight:600; font-size:0.9em; white-space:nowrap;">📄 Accepted</span>  
      P.J. Giabbanelli, <strong>H. Kavak</strong>, S. Swarup, and Q. Wang   
      <em>Proceedings of the 2026 Winter Simulation Conference (WSC)</em>  
-     [[BibTex]({{ site.baseurl }}/download/bibs/2026_c_generative_abm_agenda.bib)]
 
-70. Using Zero-Shot LLM-Generated Survey Data for Geographically Explicit Population Synthesis.  
+70. Using Zero-Shot LLM-Generated Survey Data for Geographically Explicit Population Synthesis. <span style="background-color:#dbeafe; color:#1e40af; padding:2px 8px; border-radius:12px; font-weight:600; font-size:0.9em; white-space:nowrap;">📄 Accepted</span>  
      T. Anderson, S. Von Hoene, O.Y. Cinar, E. Von Hoene, A. Roess, A. Crooks, and <strong>H. Kavak</strong>   
      <em>Proceedings of the 2026 Winter Simulation Conference (WSC)</em>  
-     [[BibTex]({{ site.baseurl }}/download/bibs/2026_c_llm_survey_population_synthesis.bib)]
 
-70. An Agent-Based Model of Recidivism.  
+70. An Agent-Based Model of Recidivism. <span style="background-color:#dbeafe; color:#1e40af; padding:2px 8px; border-radius:12px; font-weight:600; font-size:0.9em; white-space:nowrap;">📄 Accepted</span>  
      R. Rakkiappan and <strong>H. Kavak</strong>   
      <em>19th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS)</em>, Pittsburgh, PA, USA (Hybrid), October 12-14, 2026  
-     [[BibTex]({{ site.baseurl }}/download/bibs/2026_c_recidivism_abm.bib)]
 
 70. Quantitative Comparison of Population Synthesis Techniques.  
      D. Han, S. Islam, T. Anderson, A.T. Crooks, and <strong>H. Kavak</strong>   
