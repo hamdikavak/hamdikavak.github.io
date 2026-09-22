@@ -8,7 +8,7 @@ nav: yes
 
 This page showcases my publications, organized by categories such as journal articles, conference proceedings, and more. Each entry includes links to the full papers and BibTeX citation details. Publications are arranged in reverse chronological order, with the most recent works listed first.  
 
-*Last updated on Jan 8, 2025.*
+*Last updated on Sep 22, 2026.*
 
 - <a href="#journals">Journals</a>
 - <a href="#conferences">Conferences</a>
@@ -21,6 +21,42 @@ This page showcases my publications, organized by categories such as journal art
 
 ### Journal Papers
 
+
+9. Evaluation of a spatial microsimulation framework for small-area estimation of population health outcomes using the behavioral risk factor surveillance system.  
+        E. Von Hoene, A. Gupta, <strong>H. Kavak</strong>, A. Roess, and T. Anderson  
+        <em>International Journal of Health Geographics</em>, 2026, doi: 10.1186/s12942-026-00485-3  
+        [<a title="Paper" href="https://link.springer.com/article/10.1186/s12942-026-00485-3">Paper</a>]
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2026_j_microsimulation.bib)]  
+
+9. Towards universal urban patterns-of-life simulation.  
+        S.M. Reia, H. Ferraz de Arruda, S. Ruan, T. Anderson, <strong>H. Kavak</strong>, and D. Pfoser  
+        <em>npj Complexity</em>, 2026, doi: 10.1038/s44260-026-00083-1  
+        [<a title="Paper" href="https://www.nature.com/articles/s44260-026-00083-1">Paper</a>]
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2026_j_urban_patterns.bib)]  
+
+9. Plugged in, split apart: Partisan media sentiment and federal funding for electric mobility in the United States.  
+        C. Petri and <strong>H. Kavak</strong>  
+        <em>Energy Research & Social Science</em>, 2026, 134: 104633; doi: 10.1016/j.erss.2026.104633  
+        [<a title="Paper" href="https://www.sciencedirect.com/science/article/abs/pii/S2214629626001040">Paper</a>]
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2026_j_electric_mobility.bib)]  
+
+9. A hybrid simulation methodology for identifying and mitigating supply chain disruptions.  
+        A. Rana, R. Patel, A. Goswami, S. Luke, A. Baveja, C. Domeniconi, B. Melamed, F. Roberts, W. Chen, A.T. Crooks, V. Menkov, V. Narayan, J. Jones, and <strong>H. Kavak</strong>  
+        <em>Journal of Simulation</em>, 2026, doi: 10.1080/17477778.2026.2628944  
+        [<a title="Paper" href="https://www.tandfonline.com/doi/abs/10.1080/17477778.2026.2628944">Paper</a>]
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2026_j_supply_chain.bib)]  
+
+9. Synthetic population generation with public health characteristics for spatial agent-based models.  
+        E. Von Hoene, A. Roess, <strong>H. Kavak</strong>, and T. Anderson  
+        <em>PLOS Computational Biology</em>, 2025, 21(3): e1012439; doi: 10.1371/journal.pcbi.1012439  
+        [<a title="Paper" href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012439">Paper</a>]
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2025_j_synthetic_population_health.bib)]  
+
+9. AI-Generated Messaging for Life Events Using Structured Prompts: A Comparative Study of GPT With Human Experts and Machine Learning.  
+        C.J. Lynch, E. Jensen, R. Gore, V. Zamponi, K. O'Brien, B. Feldhaus, K. Smith, J. Martínez, M.H. Munro, T.E. Ozkose, T.B. Gundogdu, A.M. Reinhold, <strong>H. Kavak</strong>, and B. Ezell  
+        <em>IEEE Access</em>, 2025  
+        [<a title="Paper" href="https://ieeexplore.ieee.org/document/11129070/">Paper</a>]
+        [[BibTeX]({{ site.baseurl }}/download/bibs/2025_j_ai_messaging.bib)]  
 
 9. Function and Form of US Cities.  
         SM. Reia, T. Anderson, HF. Arruda, KS. Atwal, S. Ruan, <strong>H. Kavak</strong>, and D. Pfoser  
@@ -122,6 +158,42 @@ This page showcases my publications, organized by categories such as journal art
 
 ### Peer-Reviewed Conference Papers
 
+
+70. Quantitative Comparison of Population Synthesis Techniques.  
+     D. Han, S. Islam, T. Anderson, A.T. Crooks, and <strong>H. Kavak</strong>   
+     <em>2025 Winter Simulation Conference (WSC)</em>, 151-162  
+     [<a title="Paper" href="https://www.informs-sim.org/wsc25papers/inv184.pdf">Paper</a>]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2025_c_population_synthesis_comparison.bib)]
+
+70. Evaluating the Transferability of a Synthetic Population Generation Approach for Public Health Applications.  
+     E. Von Hoene, A. Gupta, <strong>H. Kavak</strong>, A. Roess, and T. Anderson   
+     <em>2025 Winter Simulation Conference (WSC)</em>, 628-639  
+     [<a title="Paper" href="https://www.informs-sim.org/wsc25papers/con132.pdf">Paper</a>]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2025_c_transferability_public_health.bib)]
+
+70. HD-GEN: A Software System for Large-Scale Human Mobility Data Generation Based on Patterns of Life.  
+     H. Amiri, R. Yang, S. Ruan, J-S. Kim, <strong>H. Kavak</strong>, A. Crooks, D. Pfoser, and C. Wenk   
+     <em>Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL 2025)</em>; doi: 10.1145/3748636.3762751  
+     [<a title="Paper" href="https://dl.acm.org/doi/pdf/10.1145/3748636.3762751">Paper</a>]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2025_c_hdgen.bib)]
+
+70. Evolving Risk Communication: Analyzing Risk Response Effectiveness of Personalized Narrative Messages.  
+     T.B. Gundogdu, T.E. Ozkose, F. Ozeren, R. Gore, C.J. Lynch, V. Zamponi, J. O'Brien, B. Ezell, and <strong>H. Kavak</strong>   
+     <em>2025 Systems and Information Engineering Design Symposium (SIEDS)</em>, 92-97  
+     [<a title="Paper" href="https://ieeexplore.ieee.org/document/11021204/">Paper</a>]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2025_c_risk_communication.bib)]
+
+70. Understanding Agent-Based Model Behavior through Virtual Reality.  
+     B. Yasakci, W.G. Kennedy, and <strong>H. Kavak</strong>   
+     <em>2025 Systems and Information Engineering Design Symposium (SIEDS)</em>, 302-306  
+     [<a title="Paper" href="https://ieeexplore.ieee.org/document/11021193/">Paper</a>]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2025_c_abm_virtual_reality.bib)]
+
+70. Scaling Agent-Based Model Outputs Using Network Analysis.  
+     M. Malikov and <strong>H. Kavak</strong>   
+     <em>Conference of the Computational Social Science Society of the Americas (CSSSA 2024)</em>, 211-223; doi: 10.1007/978-3-031-89692-7_13  
+     [<a title="Paper" href="https://link.springer.com/chapter/10.1007/978-3-031-89692-7_13">Paper</a>]
+     [[BibTex]({{ site.baseurl }}/download/bibs/2024_c_scaling_network_analysis.bib)]
 
 70. The Patterns of Life Human Mobility Simulation  
      H. Amiri, W. Kohn, S. Ruan, J-S. Kim, <strong>H. Kavak</strong>, A. Crooks, D. Pfoser, C. Wenk, and A. Züfle   
@@ -395,7 +467,7 @@ This page showcases my publications, organized by categories such as journal art
 
 
 9. Bias, Fairness, and Assurance in AI: Overview and Synthesis  
-    A. Al-Khulaidy and <strong>H. Kavak</strong>
+    A. Al-Khulaidy Stine and <strong>H. Kavak</strong>
     AI Assurance, Edited by Feras Batarseh and Laura Freeman. Springer; 2021  
     [Paper]
 	[[BibTex]
@@ -441,8 +513,6 @@ This page showcases my publications, organized by categories such as journal art
 2. PhyloView: A System to Visualize the Ecology of Infectious Diseases using Phylogenetic Data. M.T. Le , D. Attaway , T. Anderson, <strong>H. Kavak</strong>, A. Roess, A. Züfle. To be submitted to Mobile Data Management 2022.
 
 2. A general epidemic model in an open system considering different preferences towards wearing masks and its application to mask design. C. Wang and <strong>H. Kavak</strong>. Submitted to Bulletin of Mathematical Biology.
-
-3. Quantitative Comparison of Population Synthesis Techniques for Two Countries. D. Han, I. Bansal, S. Islam, T. Anderson, and <strong>H. Kavak</strong>
 
 5. Verification and Validation as a Service. H. Kavak et al.
 
