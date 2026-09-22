@@ -159,6 +159,26 @@ This page showcases my publications, organized by categories such as journal art
 ### Peer-Reviewed Conference Papers
 
 
+70. Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models.  
+     O.Y. Cinar, T.E. Ozkose, E. Von Hoene, A. Roess, T. Anderson, and <strong>H. Kavak</strong>   
+     <em>Proceedings of the 2026 Winter Simulation Conference (WSC)</em>  
+     [[BibTex]({{ site.baseurl }}/download/bibs/2026_c_llm_disease_review.bib)]
+
+70. Powering Agents with Generative AI: A Research Agenda for Generative Agent-Based Models.  
+     P.J. Giabbanelli, <strong>H. Kavak</strong>, S. Swarup, and Q. Wang   
+     <em>Proceedings of the 2026 Winter Simulation Conference (WSC)</em>  
+     [[BibTex]({{ site.baseurl }}/download/bibs/2026_c_generative_abm_agenda.bib)]
+
+70. Using Zero-Shot LLM-Generated Survey Data for Geographically Explicit Population Synthesis.  
+     T. Anderson, S. Von Hoene, O.Y. Cinar, E. Von Hoene, A. Roess, A. Crooks, and <strong>H. Kavak</strong>   
+     <em>Proceedings of the 2026 Winter Simulation Conference (WSC)</em>  
+     [[BibTex]({{ site.baseurl }}/download/bibs/2026_c_llm_survey_population_synthesis.bib)]
+
+70. An Agent-Based Model of Recidivism.  
+     R. Rakkiappan and <strong>H. Kavak</strong>   
+     <em>19th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS)</em>, Pittsburgh, PA, USA (Hybrid), October 12-14, 2026  
+     [[BibTex]({{ site.baseurl }}/download/bibs/2026_c_recidivism_abm.bib)]
+
 70. Quantitative Comparison of Population Synthesis Techniques.  
      D. Han, S. Islam, T. Anderson, A.T. Crooks, and <strong>H. Kavak</strong>   
      <em>2025 Winter Simulation Conference (WSC)</em>, 151-162  
@@ -512,5 +532,5 @@ This page showcases my publications, organized by categories such as journal art
 
 2. Synthetic Populations for Public Health Policy and Planning. E. Von Hoene, <strong>H. Kavak</strong>, and T. Anderson. Book chapter to appear in <em>Synthetic Population: Predicting Futures with Realistic Digital Communities</em>, edited by Ed Hua, Bianica Pires, and Jon Cline.
 
-3. Surrogate Modeling for Agent-Based Simulation. <strong>H. Kavak</strong>. Book chapter to appear in <em>Artificial Intelligence in Modeling and Simulation</em>, edited by Philippe J. Giabbanelli.
+3. Surrogate Modeling for Agent-Based Simulation. <strong>H. Kavak</strong>. Book chapter to appear in <em>Artificial Intelligence in Modeling and Simulation</em>, edited by Philippe J. Giabbanelli and Istvan David.
 
