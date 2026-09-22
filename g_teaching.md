@@ -7,9 +7,9 @@ nav: yes
 
 I believe teaching and research should support each other as much as possible so that both students and instructors get something intellectually stimulating. In that respect, I opted for teaching and designing classes that involve a significant research component. Below are the courses I have taught at George Mason University.
 
-1. 🟢 Verification and Validation of Models (CSS 717, formerly cross-listed as CSI 709/CSS 739)
-2. 🟢 Spatial Agent-Based Models of Human-Environment Interactions (CSS 645/GGS 631)
-3. 🟢 Scientific Information and Data Visualization (CDS 301)
+1. 🟢 Scientific Information and Data Visualization (CDS 301)
+2. 🟢 Verification and Validation of Models (CSS 717, formerly cross-listed as CSI 709/CSS 739)
+3. 🟢 Spatial Agent-Based Models of Human-Environment Interactions (CSS 645/GGS 631)
 4. 🔴 Modeling and Simulation 1 (CDS 230)
 
 🟢 Actively taught &nbsp;&nbsp; 🔴 Not currently offered
@@ -19,12 +19,38 @@ I believe teaching and research should support each other as much as possible so
 ---
 <br/>
 
+### 🟢 Scientific Information and Data Visualization (CDS 301)
+**Semesters offered:** Fall 2024, Fall 2025, Fall 2026 (Online Asynchronous).
+
+![CDS 301 Class]({{ site.baseurl }}/images/pages/cds301_title.jpg)
+
+This course equips students with the knowledge and skills to communicate scientific information and data through compelling visualizations. Topics include visual perception and cognitive biases, principles of effective data visualization, color theory and accessibility, and visualizing different data types (time series, distributions, relationships, and geospatial data), with hands-on exercises in Python (Matplotlib, Seaborn, Plotly, Dash, NetworkX, and GeoPandas), Gephi, and QGIS. The course culminates in a final project where students visualize a non-trivial dataset of their choice and present their work.
+
+**Course topics:**
+- Introduction to Scientific Information and Data Visualization
+- Visual Perception and Cognitive Biases
+- Principles of Effective Data Visualization
+- Color Theory and Accessibility
+- Visualizations for Different Data Types
+- Geospatial Data Visualization
+- Exploring Popular Python Data Visualization Libraries
+- Time Series Visualization
+- Visualizing Distributions and Variability
+- Visualizing Relationships and Correlations
+- Multivariate Data Visualization
+- Communicating Data with Tables
+- Interactive Data Visualization
+- Data Storytelling
+
+---
+<br/>
+
 ### 🟢 Verification and Validation of Models (CSS 717)
 **Semesters offered:** Fall 2020 (Online), Fall 2021, Fall 2022, Fall 2023, Fall 2025, Fall 2026.
 
 *(Originally cross-listed as CSI 709/CSS 739; approved as a permanent course under the code CSS 717 in May 2024.)*
 
-![V&V Class]({{ site.baseurl }}/images/pages/vnv_banner.png)  
+![CSS 717 Class]({{ site.baseurl }}/images/pages/css717_title.jpg)  
 
 Computational models come in different forms ranging from machine learning models that predict/classify patterns to agent-based models that investigate emergent phenomena from a bottom-up perspective. Regardless of their type, all computational models should go through Verification and Validation (V&V), which checks the correctness of the model's design and performance. The proliferation of high-level frameworks and tools make it possible to bypass or overlook V&V. This graduate-level course aims to teach and improve V&V practices. Topics of the last version of the class are provided below. Students will further their knowledge with writing assignments, paper presentations, and a final project.
 
@@ -49,6 +75,8 @@ Computational models come in different forms ranging from machine learning model
 ### 🟢 Spatial Agent-Based Models of Human-Environment Interactions (CSS 645/GGS 631)
 **Semesters offered:** Spring 2021 (Online), Spring 2022, Spring 2024, Spring 2026.
 
+![CSS 645/GGS 631 Class]({{ site.baseurl }}/images/pages/css645_title.jpg)
+
 This course will introduce graduate students in the spatial, environmental, and computational social sciences to the use of agent-based techniques as a means of modeling human-environment interactions. Major topics include spatial processes, the use of spatial identifiers to link socioeconomic and biophysical models, and, where possible, links to geographic information and associated technologies. We will cover applications in areas such as agriculture, epidemiology, forestry, biodiversity, habitat degradation, interactions between human populations and nonhuman species, and urban modeling.
 
 The course will combine literature review with some hands-on modeling. When demo versions are available, we will compile and run models as we review articles based on those models. In addition, students will complete a class project where they develop their own models in their areas of interest. Students with no programming background can develop simple models using NetLogo or AnyLogic. Students with advanced programming abilities are encouraged to develop more sophisticated models using packages such as GAMA, Repast, MASON, Mesa, etc., or may develop their own spatial agent-based model using the programming language of their choice.
@@ -69,30 +97,6 @@ The design of this class is based on Dr. Andrew Crooks' Spring 2020 version.
 - Applications: Epidemiology
 - Applications: Disasters
 - Applications: Synthetic Populations
-
----
-<br/>
-
-### 🟢 Scientific Information and Data Visualization (CDS 301)
-**Semesters offered:** Fall 2024, Fall 2025, Fall 2026 (Online Asynchronous).
-
-This course equips students with the knowledge and skills to communicate scientific information and data through compelling visualizations. Topics include visual perception and cognitive biases, principles of effective data visualization, color theory and accessibility, and visualizing different data types (time series, distributions, relationships, and geospatial data), with hands-on exercises in Python (Matplotlib, Seaborn, Plotly, Dash, NetworkX, and GeoPandas), Gephi, and QGIS. The course culminates in a final project where students visualize a non-trivial dataset of their choice and present their work.
-
-**Course topics:**
-- Introduction to Scientific Information and Data Visualization
-- Visual Perception and Cognitive Biases
-- Principles of Effective Data Visualization
-- Color Theory and Accessibility
-- Visualizations for Different Data Types
-- Geospatial Data Visualization
-- Exploring Popular Python Data Visualization Libraries
-- Time Series Visualization
-- Visualizing Distributions and Variability
-- Visualizing Relationships and Correlations
-- Multivariate Data Visualization
-- Communicating Data with Tables
-- Interactive Data Visualization
-- Data Storytelling
 
 ---
 <br/>
