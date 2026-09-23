@@ -39,11 +39,6 @@ projects:
     status: "ongoing"
     link: "/research/verification-and-validation-future-abm/"
 
-  - title: "Verification and Validation as a Service"
-    category: "Verification and Validation"
-    status: "ongoing"
-    link: "/research/verification-and-validation-service/"
-
   - title: "Reusable Synthetic Population Data"
     category: "Simulation Data and Analytics"
     status: "ongoing"
