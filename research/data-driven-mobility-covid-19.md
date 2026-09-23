@@ -60,25 +60,40 @@ We later created several refined versions of the model: one that could learn fro
 
 ### Publications & Presentations
 
-- Data-Driven Mobility Models for COVID-19 Simulation  
-  J. Pesavento, A. Chen, R. Yu, J-S. Kim, <strong>H. Kavak</strong>, T. Anderson, and A. Züfle   
-  <em>3rd ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities</em>, Seattle, Washington, USA (Online), November 03-November 06, 2020  
-  [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/347832686_Data-driven_mobility_models_for_COVID-19_simulation/links/61f2d2509a753545e2fe9bbb/Data-driven-mobility-models-for-COVID-19-simulation.pdf)]
-    [[BibTex]({{ site.baseurl }}/download/bibs/2020_data-driven.bib)]
-- COVID-19 ensemble models using representative clustering  
-  J-S Kim, <strong>H. Kavak</strong>, C.O. Rouly, H. Jin, A. Crooks, D. Pfoser, C. Wenk, and A. Züfle
-  SIGSPATIAL Special, Volume 12 Issue 2, doi:10.1145/3431843.3431848  
-  [<a title="Sigspatial Archive" href="https://www.sigspatial.org/wp-content/uploads/special-issues/12/2/Paper4_Kim.pdf">Paper</a>]
-  [[BibTex]({{ site.baseurl }}/download/bibs/2020_covid19_ensemble.bib)]
-- Opportunities and challenges in developing covid-19 simulation models: Lessons from six funded projects  
-  P.J. Giabbanelli, J. Badham, B. Castellani, <strong>H. Kavak</strong>, V. Mago, A. Negahban, and S. Swarup  
-  <em>2021 Annual Modeling and Simulation Conference (ANNSIM)</em>, Fairfax, VA, USA (Online), July 19-22, 2021  
-  [[Paper](https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/355112929_Opportunities_and_Challenges_in_Developing_COVID-19_Simulation_Models_Lessons_from_Six_Funded_Projects/links/61f2d6cc5779d35951da8534/Opportunities-and-Challenges-in-Developing-COVID-19-Simulation-Models-Lessons-from-Six-Funded-Projects.pdf)]
-  [[BibTex]({{ site.baseurl }}/download/bibs/2021_opportunities.bib)]
-- GMU OSCAR Celebration of Student Success Presentation (Spring 2021).  
-  J. Elarde and C. ONeill.
-- GMU College of Science Research Day (Spring 2021).  
-  J. Elarde and C. ONeill.
+<ul class="proj-pubs">
+  <li>
+    <span class="proj-pub-title">Data-Driven Mobility Models for COVID-19 Simulation</span>
+    <span class="proj-pub-meta">J. Pesavento, A. Chen, R. Yu, J-S. Kim, <strong>H. Kavak</strong>, T. Anderson, and A. Z&uuml;fle &middot; 3rd ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities, Seattle, WA (Online), Nov 3&#8211;6, 2020</span>
+    <span class="proj-pub-links">
+      <a href="https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/347832686_Data-driven_mobility_models_for_COVID-19_simulation/links/61f2d2509a753545e2fe9bbb/Data-driven-mobility-models-for-COVID-19-simulation.pdf" target="_blank" rel="noopener">Paper</a>
+      <a href="{{ site.baseurl }}/download/bibs/2020_data-driven.bib">BibTeX</a>
+    </span>
+  </li>
+  <li>
+    <span class="proj-pub-title">COVID-19 Ensemble Models Using Representative Clustering</span>
+    <span class="proj-pub-meta">J-S. Kim, <strong>H. Kavak</strong>, C.O. Rouly, H. Jin, A. Crooks, D. Pfoser, C. Wenk, and A. Z&uuml;fle &middot; SIGSPATIAL Special, Vol. 12, Issue 2, 2020 &middot; doi:10.1145/3431843.3431848</span>
+    <span class="proj-pub-links">
+      <a href="https://www.sigspatial.org/wp-content/uploads/special-issues/12/2/Paper4_Kim.pdf" target="_blank" rel="noopener">Paper</a>
+      <a href="{{ site.baseurl }}/download/bibs/2020_covid19_ensemble.bib">BibTeX</a>
+    </span>
+  </li>
+  <li>
+    <span class="proj-pub-title">Opportunities and Challenges in Developing COVID-19 Simulation Models: Lessons from Six Funded Projects</span>
+    <span class="proj-pub-meta">P.J. Giabbanelli, J. Badham, B. Castellani, <strong>H. Kavak</strong>, V. Mago, A. Negahban, and S. Swarup &middot; 2021 Annual Modeling and Simulation Conference (ANNSIM), Fairfax, VA (Online), Jul 19&#8211;22, 2021</span>
+    <span class="proj-pub-links">
+      <a href="https://www.researchgate.net/profile/Hamdi-Kavak-2/publication/355112929_Opportunities_and_Challenges_in_Developing_COVID-19_Simulation_Models_Lessons_from_Six_Funded_Projects/links/61f2d6cc5779d35951da8534/Opportunities-and-Challenges-in-Developing-COVID-19-Simulation-Models-Lessons-from-Six-Funded-Projects.pdf" target="_blank" rel="noopener">Paper</a>
+      <a href="{{ site.baseurl }}/download/bibs/2021_opportunities.bib">BibTeX</a>
+    </span>
+  </li>
+  <li>
+    <span class="proj-pub-title">GMU OSCAR Celebration of Student Success</span>
+    <span class="proj-pub-meta">J. Elarde and C. O'Neill &middot; Presentation, Spring 2021</span>
+  </li>
+  <li>
+    <span class="proj-pub-title">GMU College of Science Research Day</span>
+    <span class="proj-pub-meta">J. Elarde and C. O'Neill &middot; Presentation, Spring 2021</span>
+  </li>
+</ul>
 
 <br/>
 

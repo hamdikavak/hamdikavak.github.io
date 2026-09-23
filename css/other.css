@@ -50,3 +50,15 @@
 }
 .proj-role-pill.copi{background:#e4edfb; color:#1a4f9c;}
 .proj-role-pill.senior{background:#f3e8fb; color:#6a2a9c;}
+
+.proj-pubs{list-style:none; margin:0; padding:0;}
+.proj-pubs li{padding:14px 0; border-top:1px solid #f0ece2;}
+.proj-pubs li:first-child{padding-top:0; border-top:none;}
+.proj-pubs .proj-pub-title{font-weight:600; color:#222; display:block; margin-bottom:4px; font-size:14.5px; line-height:1.4;}
+.proj-pubs .proj-pub-meta{color:#8b8474; font-size:12.5px; display:block; margin-bottom:8px; line-height:1.5;}
+.proj-pubs .proj-pub-links{display:flex; gap:8px; flex-wrap:wrap;}
+.proj-pubs .proj-pub-links a{
+  font-size:11.5px; font-weight:700; color:#2f6b18; text-decoration:none;
+  background:#e8f6e0; padding:4px 12px; border-radius:999px; transition:background .15s ease;
+}
+.proj-pubs .proj-pub-links a:hover{background:#d7ecc9;}
