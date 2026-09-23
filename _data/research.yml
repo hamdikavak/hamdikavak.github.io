@@ -26,7 +26,7 @@ categories:
 projects:
   - title: "Data-driven Mobility Modeling for COVID-19 Simulation"
     category: "Data-Driven Modeling of Agents"
-    status: "ongoing"
+    status: "completed"
     link: "/research/data-driven-mobility-covid-19/"
 
   - title: "Verification and Validation Framework for COVID-19 Models"

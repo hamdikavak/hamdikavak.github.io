@@ -9,3 +9,44 @@
 .accordion-content.active {
   display: block;
 }
+/* ---------- research project pages (trimmed template, Sep 2026) ---------- */
+.proj-crumb{font-size:12.5px; color:#666; margin-bottom:10px;}
+.proj-crumb a{color:#4c9a2a; text-decoration:none; font-weight:600;}
+
+.proj-pill-row{display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin-bottom:18px;}
+.proj-pill{
+  display:inline-flex; align-items:center; gap:5px;
+  font-size:12.5px; font-weight:700; padding:4px 11px; border-radius:999px;
+}
+.proj-pill.done{background:#e8f6e0; color:#2f6b18;}
+.proj-pill.going{background:#fff1e0; color:#9a5b00;}
+.proj-pill.new{background:#e4edfb; color:#1a4f9c;}
+.proj-tag{
+  font-size:12px; font-weight:600; padding:4px 10px; border-radius:6px;
+  background:#e8f6e0; color:#4c9a2a; text-decoration:none;
+}
+
+.proj-timeline{margin:4px 0 22px; max-width:420px;}
+.proj-timeline-track{position:relative; height:8px; background:#eee9dd; border-radius:5px; overflow:hidden;}
+.proj-timeline-seg{position:absolute; top:0; bottom:0; border-radius:5px; background:#4c9a2a;}
+.proj-timeline-years{display:flex; justify-content:space-between; font-size:11px; color:#a39c8c; margin-top:5px;}
+.proj-timeline-label{font-size:12px; color:#666; margin-top:6px; font-weight:600;}
+
+.proj-pending{
+  border-left:3px solid #dcd4c0; padding-left:12px; color:#8b8474; font-style:italic; font-size:14px;
+}
+
+.proj-funding{list-style:none; margin:0; padding:0;}
+.proj-funding li{
+  padding:12px 0; border-top:1px solid #f0ece2; font-size:13.5px;
+  display:flex; justify-content:space-between; align-items:flex-start; gap:14px;
+}
+.proj-funding li:first-child{border-top:none;}
+.proj-fund-title{font-weight:600; color:#222; display:block; margin-bottom:3px;}
+.proj-fund-title a{color:#4c9a2a; font-weight:700; text-decoration:none;}
+.proj-fund-meta{color:#8b8474; font-size:12.5px;}
+.proj-role-pill{
+  flex-shrink:0; font-size:11px; font-weight:700; padding:4px 10px; border-radius:999px; white-space:nowrap;
+}
+.proj-role-pill.copi{background:#e4edfb; color:#1a4f9c;}
+.proj-role-pill.senior{background:#f3e8fb; color:#6a2a9c;}

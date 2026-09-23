@@ -7,30 +7,33 @@ permalink: /research/data-driven-mobility-covid-19/
 ## {{page.title}}
 <hr/>
 
-### Lead Investigators
-- Andreas Züfle
-- Hamdi Kavak
-- Taylor Anderson
+{% assign proj = site.data.research.projects | where: "link", page.url | first -%}
+<div class="proj-crumb"><a href="{{ site.baseurl }}/research/">Research</a> / {{ proj.category }}</div>
+
+<div class="proj-pill-row">
+{% if proj.status == "completed" -%}
+<span class="proj-pill done">✅ Completed</span>
+{% elsif proj.status == "ongoing" -%}
+<span class="proj-pill going">🔄 Ongoing</span>
+{% elsif proj.status == "new" -%}
+<span class="proj-pill new">➕ New</span>
+{% endif -%}
+<a class="proj-tag" href="{{ site.baseurl }}/research/">{{ proj.category }}</a>
+</div>
+
+<div class="proj-timeline">
+  <div class="proj-timeline-track"><div class="proj-timeline-seg" style="left:53.8%; width:15.4%;"></div></div>
+  <div class="proj-timeline-years"><span>2013</span><span>2026</span></div>
+  <div class="proj-timeline-label">Active 2020&#8211;2022</div>
+</div>
 
 <br/>
 
-### Student and Senior Collaborators
-- Justin Elarde (GGS undergraduate -> CDS MS student 2020-current)
-- Cecelia M Oneill (GGS undergraduate student - Spring 2021)
-- Joonseok Kim (Postdoctoral researcher 2020-2021)
-- John Pesavento (ASSIP 2020)
-- Andy Chen (ASSIP 2020)
-- Rayan Yu (ASSIP 2020)
+### Summary
 
-<br/>
+Disease spread is heavily influenced by human mobility. We captured human mobility in a data-driven manner based on Latent Dirichlet Allocation (LDA) fed by SafeGraph mobility data and simulated the spread of COVID-19. In our approach, LDA treats points of interest (POIs) as "words" and agent home census block groups (CBGs) as "documents" to extract "topics" of POIs that frequently appear together in CBG visits, which we then used to simulate agent mobility based on the topic distribution of their home CBG. We compared this LDA-based mobility model against a naive model that assumes random POI visits. This was the first in a series of data-driven COVID-19 models we developed starting in the summer of 2020.
 
-### Project Dates
-2020-current
-
-<br/>
-
-#### <u>Initial work</u>
-Disease spread is heavily influenced by human mobility. In this work, we captured human mobility in a data-driven manner based on Latent Dirichlet Allocation (LDA) fed by SafeGraph mobility data and simulated the spread of COVID-19. In our novel approach, LDA treats POIs as "words" and agent home census block groups (CBGs) as "documents" to extract "topics" of POIs that frequently appear together in CBG visits. These topics allow us to simulate agent mobility based on the LDA topic distribution of their home CBG. We compared the LDA based mobility model with competing approaches including a naive mobility model that assumes visits to POIs are random. This is the first study in the series of several data-driven COVID-19 models we have been developing since the summer of 2020.
+We later created several refined versions of the model: one that could learn from SafeGraph data patterns monthly rather than relying on a static pre-pandemic snapshot, a place-density-based disease spread mechanism, and updated disease timing based on the latest COVID studies at the time.
 
 <div id="dd-covid-gallery">
         
@@ -50,12 +53,8 @@ Disease spread is heavily influenced by human mobility. In this work, we capture
 </div>
 <br/>
 
-#### <u>Extensions</u>
-We have created several new versions of the mobility model during the second half of 2021. 
-We have implemented a more refined the LDA mobility model that can learn from SafeGraph data patterns monthly. 
-Our initial version of the model used pre-pandemic SafeGraph data. 
-Also, we have implemented a place density-based disease spread mechanism and updated the timing of the disease according to the latest COVID studies.
-Currently, we are working on running the model for a long period of time and simulate the COVID case number patterns seen in the past.
+<!-- TODO(Hamdi): replace this placeholder with how the long-run simulation work actually concluded after the 2021 ANNSIM paper. -->
+<p class="proj-pending">Pending: a closing note on how the long-run simulation work concluded after the 2021 ANNSIM paper.</p>
 
 <br/>
 
@@ -84,12 +83,27 @@ Currently, we are working on running the model for a long period of time and sim
 <br/>
 
 ### Funding
-- [NSF Award #2030685](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2030685)
-- [NSF Award #2109647](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2109647)
+
+<ul class="proj-funding">
+  <li>
+    <div>
+      <span class="proj-fund-title"><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2030685" target="_blank" rel="noopener">NSF #2030685</a> &#8212; RAPID: An Ensemble Approach to Combine Predictions from COVID-19 Simulations</span>
+      <span class="proj-fund-meta">PI: Taylor M. Anderson (GMU) &middot; Co-PIs: Andreas Z&uuml;fle, Hamdi Kavak &middot; 2020&#8211;2021</span>
+    </div>
+    <span class="proj-role-pill copi">Co-PI</span>
+  </li>
+  <li>
+    <div>
+      <span class="proj-fund-title"><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2109647" target="_blank" rel="noopener">NSF #2109647</a> &#8212; Data-Driven Modeling to Improve Understanding of Human Behavior, Mobility, and Disease Spread</span>
+      <span class="proj-fund-meta">PI: Taylor M. Anderson (GMU) &middot; Co-PIs: Sean Luke, Dieter Pfoser, Amira Roess, Andreas Z&uuml;fle &middot; 2021&#8211;2027</span>
+    </div>
+    <span class="proj-role-pill senior">Senior Personnel</span>
+  </li>
+</ul>
 
 <hr/>
 
-*Last updated on Jan 27, 2022.*  
+*Last updated on Sep 23, 2026.*  
 
 <script>
 	  lightGallery(document.getElementById('dd-covid-gallery'), {
